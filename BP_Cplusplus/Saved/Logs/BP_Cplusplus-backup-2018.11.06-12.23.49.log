@@ -1,0 +1,1224 @@
+﻿Log file open, 11/06/18 11:19:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BP_Cplusplus
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.298118
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.126s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, GPU: AMD Radeon HD 8570
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/UE4/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.06-17.19.10:658][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.06-17.19.10:658][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.06-17.19.10:670][  0]LogHAL: Display: Platform has ~ 16 GB [17119154176 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.06-17.19.10:670][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.06-17.19.10:670][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.06-17.19.10:671][  0]LogInit: Computer: SW-WLC124-14
+[2018.11.06-17.19.10:671][  0]LogInit: User: W209724991
+[2018.11.06-17.19.10:671][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.06-17.19.10:671][  0]LogInit: High frequency timer resolution =3.312657 MHz
+[2018.11.06-17.19.10:671][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.06-17.19.10:671][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.06-17.19.10:671][  0]LogMemory: Process Physical Memory: 102.39 MB used, 102.39 MB peak
+[2018.11.06-17.19.10:671][  0]LogMemory: Process Virtual Memory: 92.08 MB used, 92.08 MB peak
+[2018.11.06-17.19.10:671][  0]LogMemory: Physical Memory: 5611.47 MB used,  10714.63 MB free, 16326.10 MB total
+[2018.11.06-17.19.10:671][  0]LogMemory: Virtual Memory: 512.95 MB used,  10714.63 MB free, 134217728.00 MB total
+[2018.11.06-17.19.10:693][  0]LogInit: Using OS detected language (en-US).
+[2018.11.06-17.19.10:693][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.06-17.19.10:694][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.06-17.19.11:070][  0]LogStreaming: Display: Took  0.377s to InitEngineTextLocalization.
+[2018.11.06-17.19.11:070][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.06-17.19.11:100][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.06-17.19.11:100][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.06-17.19.11:310][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.11.06-17.19.11:310][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.06-17.19.11:329][  0]LogD3D11RHI:    0. 'AMD Radeon HD 8570' (Feature Level 11_0)
+[2018.11.06-17.19.11:329][  0]LogD3D11RHI:       1005/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.11.06-17.19.11:331][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.06-17.19.11:331][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.06-17.19.11:331][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.06-17.19.11:341][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.06-17.19.11:341][  0]LogD3D11RHI:     GPU DeviceId: 0x6611 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.06-17.19.11:341][  0]LogWindows: EnumDisplayDevices:
+[2018.11.06-17.19.11:341][  0]LogWindows:    0. 'AMD Radeon HD 8570' (P:1 D:1)
+[2018.11.06-17.19.11:342][  0]LogWindows:    1. 'AMD Radeon HD 8570' (P:0 D:0)
+[2018.11.06-17.19.11:343][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2018.11.06-17.19.11:343][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 8570
+[2018.11.06-17.19.11:343][  0]LogD3D11RHI:   Driver Version: Crimson 16.6 (internal:21.19.144.32768, unified:21.19.144.32768)
+[2018.11.06-17.19.11:343][  0]LogD3D11RHI:      Driver Date: 10-25-2016
+[2018.11.06-17.19.11:343][  0]LogRHI: Texture pool is 703 MB (70% of 1005 MB)
+[2018.11.06-17.19.11:391][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.06-17.19.11:402][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.11.06-17.19.11:403][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Intermediate/Shaders/WorkingDirectory/12004/).
+[2018.11.06-17.19.11:403][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/w209724991/AppData/Local/Temp/UnrealShaderWorkingDir/943D4DAF4CD69659E1FACE9A346C16C2/'.
+[2018.11.06-17.19.11:714][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.06-17.19.11:729][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.06-17.19.11:744][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.06-17.19.11:758][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.06-17.19.11:773][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.06-17.19.11:787][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.06-17.19.11:802][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.06-17.19.11:817][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.06-17.19.11:824][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.06-17.19.11:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.06-17.19.11:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.06-17.19.11:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.06-17.19.11:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.06-17.19.11:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.06-17.19.11:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.06-17.19.11:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.06-17.19.11:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.06-17.19.11:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.06-17.19.11:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.06-17.19.11:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.06-17.19.11:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.06-17.19.11:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.06-17.19.11:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.06-17.19.11:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.06-17.19.11:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.06-17.19.11:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.06-17.19.11:904][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.06-17.19.11:906][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.06-17.19.11:969][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.06-17.19.11:969][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.06-17.19.11:995][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.06-17.19.11:995][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.06-17.19.12:008][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.06-17.19.12:022][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.06-17.19.12:035][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.06-17.19.12:050][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.06-17.19.12:061][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.06-17.19.12:061][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.06-17.19.12:143][  0]LogXGEController: Cleaning working directory: C:/Users/w209724991/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.06-17.19.12:154][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2018.11.06-17.19.12:924][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.06-17.19.13:048][  0]LogDerivedDataCache: Loaded boot cache 0.12s 71MB C:/Users/w209724991/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.06-17.19.13:048][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/w209724991/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.06-17.19.13:048][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.06-17.19.13:048][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.06-17.19.13:048][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.06-17.19.13:048][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.06-17.19.13:061][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.06-17.19.13:074][  0]LogDerivedDataCache: Using Local data cache path C:/Users/w209724991/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.06-17.19.13:074][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.06-17.19.13:074][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.06-17.19.13:097][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.06-17.19.13:098][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.06-17.19.13:099][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.06-17.19.13:180][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.11.06-17.19.13:505][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.06-17.19.13:641][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.06-17.19.13:646][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.06-17.19.13:646][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.06-17.19.13:646][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.06-17.19.13:646][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.06-17.19.13:658][  0]LogNetVersion: BP_Cplusplus 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 68179885)
+[2018.11.06-17.19.14:270][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.162601 seconds
+[2018.11.06-17.19.14:276][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.06-17.19.14:276][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.06-17.19.14:276][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.06-17.19.15:149][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.06-17.19.15:161][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.06-17.19.15:311][  0]SourceControl: Source control is disabled
+[2018.11.06-17.19.15:311][  0]SourceControl: Source control is disabled
+[2018.11.06-17.19.15:313][  0]SourceControl: Source control is disabled
+[2018.11.06-17.19.15:314][  0]SourceControl: Source control is disabled
+[2018.11.06-17.19.15:478][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.06-17.19.15:523][  0]LogOcInput: OculusInput pre-init called
+[2018.11.06-17.19.15:587][  0]LogEngine: Initializing Engine...
+[2018.11.06-17.19.15:613][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.11.06-17.19.15:615][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.06-17.19.15:615][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.06-17.19.15:615][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.06-17.19.15:615][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.06-17.19.15:911][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.06-17.19.15:928][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.06-17.19.15:936][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-17.19.16:120][  0]LogInit: FAudioDevice initialized.
+[2018.11.06-17.19.16:120][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.06-17.19.16:372][  0]LogDerivedDataCache: Saved boot cache 0.25s 71MB C:/Users/w209724991/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.06-17.19.16:376][  0]LogInit: Texture streaming: Enabled
+[2018.11.06-17.19.16:397][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.06-17.19.16:419][  0]LogInit: Transaction tracking system initialized
+[2018.11.06-17.19.16:449][  0]BlueprintLog: New page: Editor Load
+[2018.11.06-17.19.16:548][  0]LocalizationService: Localization service is disabled
+[2018.11.06-17.19.16:805][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.06-17.19.16:806][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.06-17.19.16:806][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.06-17.19.16:806][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.06-17.19.16:806][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.06-17.19.16:806][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.06-17.19.16:806][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.06-17.19.16:947][  0]LogFileCache: Scanning file cache for directory 'C:/Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/' took 0.01s
+[2018.11.06-17.19.16:947][  0]SourceControl: Source control is disabled
+[2018.11.06-17.19.16:947][  0]Cmd: MAP LOAD FILE="../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.06-17.19.16:948][  0]LogEditorServer: Warning: Can't find file '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.11.06-17.19.16:948][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.06-17.19.17:024][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.056ms to complete.
+[2018.11.06-17.19.17:024][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.077
+[2018.11.06-17.19.17:105][  0]LogCollectionManager: Loaded 0 collections in 0.003072 seconds
+[2018.11.06-17.19.17:147][  0]LogFileCache: Scanning file cache for directory 'C:/Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Collections/' took 0.01s
+[2018.11.06-17.19.17:147][  0]LogFileCache: Scanning file cache for directory 'C:/Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Developers/W209724991/Collections/' took 0.01s
+[2018.11.06-17.19.17:147][  0]LogFileCache: Scanning file cache for directory 'C:/Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Collections/' took 0.01s
+[2018.11.06-17.19.17:147][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.06-17.19.17:156][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2572 classes and 603 folders.
+[2018.11.06-17.19.17:164][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.06-17.19.17:222][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.06-17.19.17:240][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.19.17:247][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.19.17:254][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.19.17:262][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.19.17:268][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.11.06-17.19.17:284][  0]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.06-17.19.17:286][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.06-17.19.17:286][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.06-17.19.17:339][  0]LogRenderer: Reallocating scene render targets to support 1120x924 Format 9 NumSamples 1 (Frame:1).
+[2018.11.06-17.19.17:490][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.06-17.19.17:490][  0]LogLoad: (Engine Initialization) Total time: 9.02 seconds
+[2018.11.06-17.19.17:490][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.06-17.19.17:509][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.06-17.19.17:529][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.11.06-17.19.17:625][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.06-17.19.17:655][  1]LogAssetRegistry: Asset discovery search completed in 4.4982 seconds
+[2018.11.06-17.19.17:657][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.06-17.19.17:657][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2018.11.06-17.19.19:010][ 61]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.06-17.19.20:565][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.19.20:762][139]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Final_Project_Content/Sprites/eyelander_Sprite.eyelander_Sprite
+[2018.11.06-17.19.20:885][139]LogSlate: Took 0.033513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.06-17.19.21:243][140]LogRenderer: Reallocating scene render targets to support 1528x924 Format 9 NumSamples 1 (Frame:1).
+[2018.11.06-17.19.24:105][277]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Final_Project_Content/Sprites/eyelander_Sprite.eyelander_Sprite
+[2018.11.06-17.19.28:716][408]LogSlate: Window 'eyelander_Sprite' being destroyed
+[2018.11.06-17.19.28:720][408]LogSlate: Window 'eyelander_Sprite' being destroyed
+[2018.11.06-17.24.03:220][463]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\w209724991\Downloads\Final_2dProject\Character_TileSheet\Respawn_Animation..psd)
+[2018.11.06-17.24.03:246][463]LogTexture: Display: Building textures: Respawn_Animation_ (AutoDXT, 384X64)
+[2018.11.06-17.24.06:006][603]LogTexture: Display: Building textures: Respawn_Animation_ (BGRA8, 384X64)
+[2018.11.06-17.24.13:506][947]LogSlate: Window 'Extract sprites' being destroyed
+[2018.11.06-17.24.18:669][184]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Final_Project_Content/Sprites/Character/Respawn_Animation.Respawn_Animation
+[2018.11.06-17.24.59:338][275]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Respawn_AnimationF439B22E4CD50BA256876E81FF165D9C.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Respawn_Animation.uasset'
+[2018.11.06-17.25.07:489][519]LogSlate: Window 'Respawn_Animation' being destroyed
+[2018.11.06-17.25.17:913][999]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Respawn_Animation6DD239994355D7F1852AA5B6E7B8105D.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Flipbook/Respawn_Animation.uasset'
+[2018.11.06-17.29.27:394][615]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\w209724991\Downloads\Final_2dProject\Character_TileSheet\Idle_Animation.psd)
+[2018.11.06-17.29.27:420][615]LogTexture: Display: Building textures: Idle_Animation (AutoDXT, 128X64)
+[2018.11.06-17.29.29:017][682]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\w209724991\Downloads\Final_2dProject\Character_TileSheet\Run_Animation.psd)
+[2018.11.06-17.29.29:042][682]LogTexture: Display: Building textures: Run_Animation (AutoDXT, 384X64)
+[2018.11.06-17.29.32:299][850]LogTexture: Display: Building textures: Idle_Animation (BGRA8, 128X64)
+[2018.11.06-17.29.32:342][850]LogTexture: Display: Building textures: Run_Animation (BGRA8, 384X64)
+[2018.11.06-17.29.40:684][257]LogSlate: Window 'Extract sprites' being destroyed
+[2018.11.06-17.29.45:503][483]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Final_Project_Content/Sprites/Character/Idle_Animation1.Idle_Animation1
+[2018.11.06-17.29.49:597][577]LogSlate: Window 'Idle_Animation1*' being destroyed
+[2018.11.06-17.29.49:601][577]LogSlate: Window 'Idle_Animation1*' being destroyed
+[2018.11.06-17.29.52:393][721]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Idle_Animation1AFE9200D424189C35B9DCA81274B7059.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Flipbook/Idle_Animation1.uasset'
+[2018.11.06-17.30.00:324][ 80]LogSlate: Window 'Extract sprites' being destroyed
+[2018.11.06-17.30.06:729][416]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Run_Animation1635E829F45B19A04516B479F8F57F565.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Flipbook/Run_Animation1.uasset'
+[2018.11.06-17.30.09:002][506]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Final_Project_Content/Sprites/Flipbook/Run_Animation1.Run_Animation1
+[2018.11.06-17.31.53:667][754]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Run_Animation1BC10A98E4D8EAD63BE195A9D1AC5D805.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Flipbook/Run_Animation1.uasset'
+[2018.11.06-17.31.58:145][893]LogSlate: Window 'Run_Animation1' being destroyed
+[2018.11.06-17.32.00:736][  4]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Final_Project_Content/Sprites/Flipbook/Run_Animation1.Run_Animation1
+[2018.11.06-17.32.02:845][ 67]LogSlate: Window 'Run_Animation1' being destroyed
+[2018.11.06-17.32.07:606][258]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Final_Project_Content/Sprites/Flipbook/Respawn_Animation.Respawn_Animation
+[2018.11.06-17.32.11:349][369]LogSlate: Window 'Respawn_Animation' being destroyed
+[2018.11.06-17.32.20:388][816]LogEditorFactories: Performing atomic reimport of [C:/Users/w209724991/Downloads/Final_2dProject/Sprites.psd]
+[2018.11.06-17.32.20:478][816]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/w209724991/Downloads/Final_2dProject/Sprites.psd)
+[2018.11.06-17.32.20:500][816]LogTexture: Display: Building textures: Sprites (BGRA8, 256X256)
+[2018.11.06-17.32.20:508][816]LogEditorFactories: -- imported successfully
+[2018.11.06-17.32.26:236][ 57]LogEditorFactories: Performing atomic reimport of [C:/Users/w209724991/Downloads/Final_2dProject/Floor.psd]
+[2018.11.06-17.32.26:326][ 57]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/w209724991/Downloads/Final_2dProject/Floor.psd)
+[2018.11.06-17.32.26:344][ 57]LogTexture: Display: Building textures: Floor (BGRA8, 128X128)
+[2018.11.06-17.32.26:350][ 57]LogEditorFactories: -- imported successfully
+[2018.11.06-17.32.28:645][143]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Final_Project_Content/Sprites/Background/Sprites.Sprites
+[2018.11.06-17.32.28:652][143]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.06-17.32.30:122][188]LogSlate: Window 'Sprites*' being destroyed
+[2018.11.06-17.32.30:972][221]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Final_Project_Content/Sprites/Background/Sprites_TileSet.Sprites_TileSet
+[2018.11.06-17.32.32:610][263]LogSlate: Window 'Sprites_TileSet' being destroyed
+[2018.11.06-17.33.40:697][217]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.029
+[2018.11.06-17.33.40:699][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Character/Respawn_Animation_] ([1] browsable assets)...
+[2018.11.06-17.33.40:702][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Final_Project_Content/Sprites/Character/Respawn_Animation_.Respawn_Animation_]
+[2018.11.06-17.33.40:702][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Character/Respawn_Animation_]
+[2018.11.06-17.33.40:710][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Respawn_Animation__Auto1EA635C0B4AC0C64B42215AAE3A27FE4B.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Auto1.uasset'
+[2018.11.06-17.33.40:712][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_0] ([1] browsable assets)...
+[2018.11.06-17.33.40:720][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_0.Respawn_Animation__Sprite_0]
+[2018.11.06-17.33.40:720][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_0]
+[2018.11.06-17.33.40:730][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Respawn_Animation__Sprite_0_Auto6B504CD349635C91329A299794B7DC10.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_0_Auto1.uasset'
+[2018.11.06-17.33.40:733][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_1] ([1] browsable assets)...
+[2018.11.06-17.33.40:739][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_1.Respawn_Animation__Sprite_1]
+[2018.11.06-17.33.40:739][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_1]
+[2018.11.06-17.33.40:860][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Respawn_Animation__Sprite_1_AutoFD8C9A8644756B10E7A2F4B92EFF916E.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_1_Auto1.uasset'
+[2018.11.06-17.33.40:867][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_2] ([1] browsable assets)...
+[2018.11.06-17.33.40:888][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_2.Respawn_Animation__Sprite_2]
+[2018.11.06-17.33.40:888][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_2]
+[2018.11.06-17.33.40:911][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Respawn_Animation__Sprite_2_Auto57042B894FBCCDDAAE92D2B667587829.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_2_Auto1.uasset'
+[2018.11.06-17.33.40:914][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_3] ([1] browsable assets)...
+[2018.11.06-17.33.40:924][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_3.Respawn_Animation__Sprite_3]
+[2018.11.06-17.33.40:924][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_3]
+[2018.11.06-17.33.40:938][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Respawn_Animation__Sprite_3_Auto838A55E04F0ECF7984A0BE92ED1124A0.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_3_Auto1.uasset'
+[2018.11.06-17.33.40:941][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_4] ([1] browsable assets)...
+[2018.11.06-17.33.40:951][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_4.Respawn_Animation__Sprite_4]
+[2018.11.06-17.33.40:951][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_4]
+[2018.11.06-17.33.40:965][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Respawn_Animation__Sprite_4_AutoBAD859574F3E923841A827ACBFD496A7.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_4_Auto1.uasset'
+[2018.11.06-17.33.40:967][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_5] ([1] browsable assets)...
+[2018.11.06-17.33.40:974][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_5.Respawn_Animation__Sprite_5]
+[2018.11.06-17.33.40:974][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_5]
+[2018.11.06-17.33.40:984][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Respawn_Animation__Sprite_5_Auto8B9754404E62BF08F0C552AD9D6BF6EC.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_5_Auto1.uasset'
+[2018.11.06-17.33.40:986][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Character/Idle_Animation] ([1] browsable assets)...
+[2018.11.06-17.33.40:987][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Final_Project_Content/Sprites/Character/Idle_Animation.Idle_Animation]
+[2018.11.06-17.33.40:987][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Character/Idle_Animation]
+[2018.11.06-17.33.40:996][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Idle_Animation_Auto1ECD980B24D3EE7D8675873BF447047C8.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Character/Idle_Animation_Auto1.uasset'
+[2018.11.06-17.33.40:997][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Character/Run_Animation] ([1] browsable assets)...
+[2018.11.06-17.33.40:999][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Final_Project_Content/Sprites/Character/Run_Animation.Run_Animation]
+[2018.11.06-17.33.40:999][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Character/Run_Animation]
+[2018.11.06-17.33.41:031][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Run_Animation_Auto153CDDBC945C7957873EC9DA2E840132D.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Character/Run_Animation_Auto1.uasset'
+[2018.11.06-17.33.41:033][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Character/Idle_Animation_Sprite_0] ([1] browsable assets)...
+[2018.11.06-17.33.41:040][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Final_Project_Content/Sprites/Character/Idle_Animation_Sprite_0.Idle_Animation_Sprite_0]
+[2018.11.06-17.33.41:041][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Character/Idle_Animation_Sprite_0]
+[2018.11.06-17.33.41:051][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Idle_Animation_Sprite_0_Auto1F9EC1D0446DCD81B0C604D8E87236526.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Character/Idle_Animation_Sprite_0_Auto1.uasset'
+[2018.11.06-17.33.41:053][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Character/Idle_Animation_Sprite_1] ([1] browsable assets)...
+[2018.11.06-17.33.41:061][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Final_Project_Content/Sprites/Character/Idle_Animation_Sprite_1.Idle_Animation_Sprite_1]
+[2018.11.06-17.33.41:061][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Character/Idle_Animation_Sprite_1]
+[2018.11.06-17.33.41:100][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Idle_Animation_Sprite_1_Auto1638E3F2D413ED9ABE4DC6B9C3AEA5B1E.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Character/Idle_Animation_Sprite_1_Auto1.uasset'
+[2018.11.06-17.33.41:102][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_0] ([1] browsable assets)...
+[2018.11.06-17.33.41:109][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_0.Run_Animation_Sprite_0]
+[2018.11.06-17.33.41:109][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_0]
+[2018.11.06-17.33.41:121][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Run_Animation_Sprite_0_Auto19B4556AA4FED384C6518238C3489B716.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_0_Auto1.uasset'
+[2018.11.06-17.33.41:123][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_1] ([1] browsable assets)...
+[2018.11.06-17.33.41:130][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_1.Run_Animation_Sprite_1]
+[2018.11.06-17.33.41:130][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_1]
+[2018.11.06-17.33.41:141][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Run_Animation_Sprite_1_Auto1705D16324171344AF0BEB8B665D9270A.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_1_Auto1.uasset'
+[2018.11.06-17.33.41:143][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_2] ([1] browsable assets)...
+[2018.11.06-17.33.41:150][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_2.Run_Animation_Sprite_2]
+[2018.11.06-17.33.41:150][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_2]
+[2018.11.06-17.33.41:161][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Run_Animation_Sprite_2_Auto17F19150546FAA42E72C0379051ECEE8D.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_2_Auto1.uasset'
+[2018.11.06-17.33.41:163][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_3] ([1] browsable assets)...
+[2018.11.06-17.33.41:170][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_3.Run_Animation_Sprite_3]
+[2018.11.06-17.33.41:170][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_3]
+[2018.11.06-17.33.41:180][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Run_Animation_Sprite_3_Auto1BE0A0FEB4D6C002B9EA799964D6D66F2.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_3_Auto1.uasset'
+[2018.11.06-17.33.41:183][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_4] ([1] browsable assets)...
+[2018.11.06-17.33.41:190][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_4.Run_Animation_Sprite_4]
+[2018.11.06-17.33.41:190][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_4]
+[2018.11.06-17.33.41:201][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Run_Animation_Sprite_4_Auto107BEF4F84E179F3AC23F8493C7E80359.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_4_Auto1.uasset'
+[2018.11.06-17.33.41:203][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_5] ([1] browsable assets)...
+[2018.11.06-17.33.41:210][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_5.Run_Animation_Sprite_5]
+[2018.11.06-17.33.41:210][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_5]
+[2018.11.06-17.33.41:220][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Run_Animation_Sprite_5_Auto1E887E049400E157C12946E8F1E6AE52A.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_5_Auto1.uasset'
+[2018.11.06-17.33.41:222][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Background/Sprites] ([1] browsable assets)...
+[2018.11.06-17.33.41:230][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Final_Project_Content/Sprites/Background/Sprites.Sprites]
+[2018.11.06-17.33.41:230][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Background/Sprites]
+[2018.11.06-17.33.41:259][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Sprites_Auto1E56DC2974DF99419C5A5CAB54A6F52F5.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Background/Sprites_Auto1.uasset'
+[2018.11.06-17.33.41:261][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Background/Floor] ([1] browsable assets)...
+[2018.11.06-17.33.41:263][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Final_Project_Content/Sprites/Background/Floor.Floor]
+[2018.11.06-17.33.41:263][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Background/Floor]
+[2018.11.06-17.33.41:287][217]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Floor_Auto15792F11B4EF67885CC9F5996FA793E9B.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Background/Floor_Auto1.uasset'
+[2018.11.06-17.33.41:289][217]LogFileHelpers: Auto-saving content packages took 0.590
+[2018.11.06-17.33.50:450][638]LogEditorFactories: Performing atomic reimport of [C:/Users/w209724991/Downloads/Final_2dProject/Floor.psd]
+[2018.11.06-17.33.50:450][638]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/w209724991/Downloads/Final_2dProject/Floor.psd)
+[2018.11.06-17.33.50:479][638]LogTexture: Display: Building textures: Floor (BGRA8, 128X128)
+[2018.11.06-17.33.50:482][638]LogEditorFactories: -- imported successfully
+[2018.11.06-17.33.54:844][840]LogSlate: Window 'Extract sprites' being destroyed
+[2018.11.06-17.33.58:842][955]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.06-17.33.59:672][990]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Final_Project_Content/Sprites/Background/Floor_Sprite_2.Floor_Sprite_2
+[2018.11.06-17.34.01:845][ 47]LogSlate: Window 'Floor_Sprite_2*' being destroyed
+[2018.11.06-17.34.05:241][193]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Final_Project_Content/Sprites/Background/Floor_TileSet.Floor_TileSet
+[2018.11.06-17.34.06:766][243]LogSlate: Window 'Floor_TileSet' being destroyed
+[2018.11.06-17.34.30:462][295]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Idle_Sprites1FC1A12CB48B7C3196EF5B9A7D77983B3.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Flipbook/Placeholde/Idle_Sprites1.uasset'
+[2018.11.06-17.34.30:492][295]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Jump_Sprite1F9AA9E4F40D24890C070AE857D26254A.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Flipbook/Placeholde/Jump_Sprite1.uasset'
+[2018.11.06-17.34.30:516][295]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Shoot_Sprites1077DF19548E71F045420CDA1B6376B38.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Flipbook/Placeholde/Shoot_Sprites1.uasset'
+[2018.11.06-17.34.30:539][295]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Run_Sprites158686CD240BA1A839ACC18BF1397A25E.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Flipbook/Placeholde/Run_Sprites1.uasset'
+[2018.11.06-17.34.35:527][363]LogSlate: Window 'Save Level As' being destroyed
+[2018.11.06-17.34.38:616][485]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-17.34.38:621][485]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/First_Lvl.First_Lvl
+[2018.11.06-17.34.40:120][485]LogSlate: Window 'Save Content' being destroyed
+[2018.11.06-17.34.40:159][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/FloorE8DD7AF44ABD8A6E209432B613670A2A.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Background/Floor.uasset'
+[2018.11.06-17.34.40:186][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Floor_Sprite_2BDD9A72549AB00958FA2BCB57129C93E.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Background/Floor_Sprite_2.uasset'
+[2018.11.06-17.34.40:211][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/SpritesCB6490CF45EBD9706EFC24BDF86DA6EC.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Background/Sprites.uasset'
+[2018.11.06-17.34.40:229][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Idle_AnimationC12542454D41036DA7686D8980BA362D.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Idle_Animation.uasset'
+[2018.11.06-17.34.40:274][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Idle_Animation_Sprite_0E2FA2170495CCED6B86D878660DE76D5.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Idle_Animation_Sprite_0.uasset'
+[2018.11.06-17.34.40:290][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Idle_Animation_Sprite_1F3FED9F443B965AC0533319663254DEB.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Idle_Animation_Sprite_1.uasset'
+[2018.11.06-17.34.40:306][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Respawn_Animation_F836710C47D1D79288E17284F8F4F24E.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Respawn_Animation_.uasset'
+[2018.11.06-17.34.40:323][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Respawn_Animation__Sprite_0808EC5E24F554459B219F89181796141.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_0.uasset'
+[2018.11.06-17.34.40:340][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Respawn_Animation__Sprite_1C50A753B4204A1096EB91BAF882566EF.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_1.uasset'
+[2018.11.06-17.34.40:356][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Respawn_Animation__Sprite_2BE1B91C34B5FDAA7A4BED6B7228472F9.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_2.uasset'
+[2018.11.06-17.34.40:372][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Respawn_Animation__Sprite_317F40E27400E2C94E5525688636BD8C9.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_3.uasset'
+[2018.11.06-17.34.40:388][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Respawn_Animation__Sprite_48B54BE89448F882C785BE1A16DA6228A.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_4.uasset'
+[2018.11.06-17.34.40:404][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Respawn_Animation__Sprite_58B95F5A74610EAE544605A88D5541F05.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Respawn_Animation__Sprite_5.uasset'
+[2018.11.06-17.34.40:421][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Run_AnimationB7365CC04170DBDB0DEA9FA53EACDD0B.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Run_Animation.uasset'
+[2018.11.06-17.34.40:438][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Run_Animation_Sprite_0A56854EF4A8CE5CD2964709008E49E84.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_0.uasset'
+[2018.11.06-17.34.40:453][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Run_Animation_Sprite_17C926B47443F56F7F3ED2E8A66140D98.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_1.uasset'
+[2018.11.06-17.34.40:471][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Run_Animation_Sprite_2B8422F1F49E0BA65CF9A379FFB9B3FBF.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_2.uasset'
+[2018.11.06-17.34.40:487][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Run_Animation_Sprite_3D59621BD4988EE6FD2AD66897B08725C.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_3.uasset'
+[2018.11.06-17.34.40:503][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Run_Animation_Sprite_4C858BE2E494D74080464BB9B37163AD0.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_4.uasset'
+[2018.11.06-17.34.40:517][485]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Run_Animation_Sprite_5FBE56B864FA74435FF705E9C59ECC20D.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Run_Animation_Sprite_5.uasset'
+[2018.11.06-17.34.40:521][485]Cmd: MAP LOAD FILE="../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.06-17.34.40:521][485]LightingResults: New page: Lighting Build
+[2018.11.06-17.34.40:525][485]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2018.11.06-17.34.40:525][485]LoadErrors: New page: Loading map: First_Lvl.umap
+[2018.11.06-17.34.40:526][485]MapCheck: New page: Map Check
+[2018.11.06-17.34.40:526][485]LightingResults: New page: Lighting Build
+[2018.11.06-17.34.40:555][485]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.06-17.34.40:619][485]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.06-17.34.40:715][485]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 96.257ms to complete.
+[2018.11.06-17.34.40:715][485]LogFileHelpers: Loading map 'First_Lvl' took 0.195
+[2018.11.06-17.34.41:835][532]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Tilemap)
+[2018.11.06-17.34.45:249][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.34.53:532][978]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Level_013F1A53DD4CF6F333DE1C09A32AA3F0AC.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Level_01.uasset'
+[2018.11.06-17.34.53:562][978]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/TilemapFB22D7D64EB2A9C9E51EAA8F0347DE3F.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Tilemap.uasset'
+[2018.11.06-17.34.54:702][ 23]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Final_Project_Content/Sprites/Level_01.Level_01
+[2018.11.06-17.35.44:341][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.35.59:226][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.36.01:411][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.36.08:263][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.36.11:181][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.36.17:815][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.36.24:322][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.36.33:270][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.36.36:225][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.36.39:892][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.36.56:853][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.37.13:087][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.37.26:786][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.37.27:030][121]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Level_01A9E98DDC47EC9A50B4D18D9AF783C97F.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Level_01.uasset'
+[2018.11.06-17.37.29:312][195]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-17.37.29:332][195]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.37.29:332][195]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.06-17.37.29:337][195]LogPlayLevel: [PlayLevel] Compiling First_Lvl before play...
+[2018.11.06-17.37.29:414][195]LogPlayLevel: PlayLevel: Blueprint regeneration took 82 ms (1 blueprints)
+[2018.11.06-17.37.29:427][195]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 5:37:29 AM)
+[2018.11.06-17.37.29:427][195]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-17.37.29:429][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002486s)
+[2018.11.06-17.37.29:430][195]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-17.37.29:430][195]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2018.11.06-17.37.29:430][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003337s)
+[2018.11.06-17.37.29:453][195]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-17.37.29:477][195]LogInit: FAudioDevice initialized.
+[2018.11.06-17.37.29:483][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.37.29:535][195]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-17.37.29:537][195]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-11.37.29
+[2018.11.06-17.37.29:538][195]LogWorld: Bringing up level for play took: 0.001200
+[2018.11.06-17.37.29:559][195]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.11.06-17.37.29:566][195]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl -0.304
+[2018.11.06-17.37.29:566][195]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.37.32:529][350]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-17.37.32:535][350]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.37.32:569][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-17.37.32:569][350]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.37.32:768][357]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.11.06-17.37.34:145][415]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.11.06-17.37.36:386][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.37.39:840][644]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-17.37.39:859][644]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.37.39:859][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-17.37.39:859][644]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 5:37:39 AM)
+[2018.11.06-17.37.39:859][644]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-17.37.39:862][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002370s)
+[2018.11.06-17.37.39:862][644]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-17.37.39:862][644]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2018.11.06-17.37.39:862][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003185s)
+[2018.11.06-17.37.39:913][644]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-17.37.39:933][644]LogInit: FAudioDevice initialized.
+[2018.11.06-17.37.39:939][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.37.39:978][644]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-17.37.39:980][644]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-11.37.39
+[2018.11.06-17.37.39:981][644]LogWorld: Bringing up level for play took: 0.001964
+[2018.11.06-17.37.40:003][644]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl 0.133
+[2018.11.06-17.37.40:003][644]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.37.44:230][872]LogBlueprintUserMessages: [BP_checkpoint_2] X=162.243 Y=0.000 Z=163.565
+[2018.11.06-17.37.44:233][872]LogBlueprintUserMessages: [BP_checkpoint2_5] X=162.243 Y=0.000 Z=163.565
+[2018.11.06-17.37.44:933][909]LogBlueprintUserMessages: [BP_checkpoint2_5] X=230.850 Y=0.000 Z=196.490
+[2018.11.06-17.37.46:420][988]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.37.46:420][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.37.46:443][988]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-17.37.46:474][988]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-17.37.46:474][988]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.37.46:661][995]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.11.06-17.37.59:220][383]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Final_Project_Content/Sprites/Background/Sprites_TileSet.Sprites_TileSet
+[2018.11.06-17.38.08:882][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.38.11:943][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.38.15:881][920]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Sprites_TileSet9675AFDE4C8A274AF94F049421A4734F.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Background/Sprites_TileSet.uasset'
+[2018.11.06-17.38.17:721][977]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Level_01D89EF44D48663898C73A198C8A284203.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Level_01.uasset'
+[2018.11.06-17.38.19:748][ 47]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-17.38.19:767][ 47]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.38.19:767][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-17.38.19:767][ 47]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 5:38:19 AM)
+[2018.11.06-17.38.19:767][ 47]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-17.38.19:769][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002345s)
+[2018.11.06-17.38.19:770][ 47]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-17.38.19:770][ 47]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2018.11.06-17.38.19:770][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003094s)
+[2018.11.06-17.38.19:790][ 47]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-17.38.19:812][ 47]LogInit: FAudioDevice initialized.
+[2018.11.06-17.38.19:818][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.38.19:854][ 47]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-17.38.19:856][ 47]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-11.38.19
+[2018.11.06-17.38.19:856][ 47]LogWorld: Bringing up level for play took: 0.000932
+[2018.11.06-17.38.19:872][ 47]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl 0.002
+[2018.11.06-17.38.19:872][ 47]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.38.23:536][249]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.38.23:537][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.38.23:573][249]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-17.38.23:608][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-17.38.23:608][249]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.38.23:787][256]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.11.06-17.38.28:569][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.38.30:506][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.38.33:603][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.38.35:960][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.38.37:700][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.38.39:116][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.38.43:015][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.38.44:500][887]LogSlate: Window 'Save Content' being destroyed
+[2018.11.06-17.38.44:747][887]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Lvl56B8CEC14C53D4B6415BCFB1148814D9.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl.umap'
+[2018.11.06-17.38.44:786][887]LogFileHelpers: Saving map 'First_Lvl' took 0.271
+[2018.11.06-17.38.46:049][934]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-17.38.46:068][934]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.38.46:068][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-17.38.46:068][934]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 5:38:46 AM)
+[2018.11.06-17.38.46:068][934]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-17.38.46:071][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002546s)
+[2018.11.06-17.38.46:072][934]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-17.38.46:072][934]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2018.11.06-17.38.46:072][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003337s)
+[2018.11.06-17.38.46:093][934]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-17.38.46:115][934]LogInit: FAudioDevice initialized.
+[2018.11.06-17.38.46:122][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.38.46:158][934]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-17.38.46:159][934]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-11.38.46
+[2018.11.06-17.38.46:160][934]LogWorld: Bringing up level for play took: 0.001205
+[2018.11.06-17.38.46:175][934]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl 0.305
+[2018.11.06-17.38.46:176][934]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.38.51:651][230]LogBlueprintUserMessages: [BP_checkpoint_2] X=275.296 Y=0.000 Z=211.068
+[2018.11.06-17.38.52:994][302]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.38.52:995][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.38.53:029][302]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-17.38.53:060][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-17.38.53:060][302]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.38.53:258][309]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.11.06-17.38.55:300][395]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.11.06-17.39.00:966][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.39.09:983][856]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-17.39.10:002][856]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.39.10:003][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-17.39.10:003][856]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 5:39:10 AM)
+[2018.11.06-17.39.10:003][856]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-17.39.10:005][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002683s)
+[2018.11.06-17.39.10:006][856]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-17.39.10:006][856]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2018.11.06-17.39.10:006][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003602s)
+[2018.11.06-17.39.10:052][856]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-17.39.10:074][856]LogInit: FAudioDevice initialized.
+[2018.11.06-17.39.10:081][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.39.10:112][856]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-17.39.10:114][856]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-11.39.10
+[2018.11.06-17.39.10:114][856]LogWorld: Bringing up level for play took: 0.000948
+[2018.11.06-17.39.10:131][856]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl 0.26
+[2018.11.06-17.39.10:131][856]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.39.13:967][ 62]LogBlueprintUserMessages: [BP_checkpoint_2] X=311.790 Y=0.000 Z=163.051
+[2018.11.06-17.39.14:259][ 78]LogBlueprintUserMessages: [BP_checkpoint_2] X=395.434 Y=0.000 Z=177.507
+[2018.11.06-17.39.17:073][226]LogBlueprintUserMessages: [BP_checkpoint_2] X=312.072 Y=0.000 Z=163.039
+[2018.11.06-17.39.18:442][302]LogBlueprintUserMessages: [BP_checkpoint_2] X=440.573 Y=0.000 Z=224.428
+[2018.11.06-17.39.19:486][361]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.39.19:486][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.39.19:505][361]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-17.39.19:536][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-17.39.19:536][361]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.39.19:710][368]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.11.06-17.39.21:415][439]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.11.06-17.39.27:231][615]LogEditorViewport: Clicking Background
+[2018.11.06-17.39.27:913][642]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.11.06-17.39.33:964][830]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Tilemap)
+[2018.11.06-17.39.34:803][859]LogEditorViewport: Clicking Background
+[2018.11.06-17.39.35:498][887]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Tilemap)
+[2018.11.06-17.39.36:488][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.39.36:554][922]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-17.39.36:573][922]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.39.36:573][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-17.39.36:573][922]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 5:39:36 AM)
+[2018.11.06-17.39.36:573][922]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-17.39.36:575][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002489s)
+[2018.11.06-17.39.36:576][922]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-17.39.36:576][922]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2018.11.06-17.39.36:576][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003228s)
+[2018.11.06-17.39.36:598][922]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-17.39.36:621][922]LogInit: FAudioDevice initialized.
+[2018.11.06-17.39.36:628][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.39.36:660][922]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-17.39.36:662][922]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-11.39.36
+[2018.11.06-17.39.36:662][922]LogWorld: Bringing up level for play took: 0.001006
+[2018.11.06-17.39.36:678][922]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl 0.808
+[2018.11.06-17.39.36:679][922]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.39.37:568][966]LogBlueprintUserMessages: [BP_checkpoint2_5] X=248.000 Y=0.000 Z=214.340
+[2018.11.06-17.39.39:127][ 51]LogBlueprintUserMessages: [BP_checkpoint_2] X=164.264 Y=0.000 Z=163.051
+[2018.11.06-17.39.39:129][ 51]LogBlueprintUserMessages: [BP_checkpoint2_5] X=164.264 Y=0.000 Z=163.051
+[2018.11.06-17.39.41:284][168]LogBlueprintUserMessages: [BP_checkpoint_2] X=286.902 Y=0.000 Z=163.051
+[2018.11.06-17.39.46:574][452]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.39.46:575][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.39.46:593][452]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-17.39.46:622][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-17.39.46:622][452]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.39.46:794][459]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.11.06-17.39.49:394][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.40.01:618][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.40.04:570][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.40.21:805][363]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-17.40.21:824][363]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.40.21:824][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-17.40.21:824][363]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 5:40:21 AM)
+[2018.11.06-17.40.21:824][363]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-17.40.21:827][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003119s)
+[2018.11.06-17.40.21:828][363]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-17.40.21:828][363]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2018.11.06-17.40.21:828][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.004059s)
+[2018.11.06-17.40.21:879][363]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-17.40.21:900][363]LogInit: FAudioDevice initialized.
+[2018.11.06-17.40.21:907][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.40.21:939][363]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-17.40.21:942][363]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-11.40.21
+[2018.11.06-17.40.21:943][363]LogWorld: Bringing up level for play took: 0.001078
+[2018.11.06-17.40.21:960][363]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl 0.089
+[2018.11.06-17.40.21:960][363]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.40.24:963][526]LogBlueprintUserMessages: [BP_checkpoint_2] X=230.793 Y=0.000 Z=163.051
+[2018.11.06-17.40.27:877][687]LogBlueprintUserMessages: [BP_checkpoint_2] X=206.978 Y=0.000 Z=163.051
+[2018.11.06-17.40.30:636][837]LogBlueprintUserMessages: [BP_checkpoint_2] X=301.534 Y=0.000 Z=163.051
+[2018.11.06-17.40.33:079][966]LogBlueprintUserMessages: [BP_checkpoint_2] X=315.886 Y=0.000 Z=163.051
+[2018.11.06-17.40.34:862][ 64]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.40.34:863][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.40.34:904][ 64]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-17.40.34:942][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-17.40.34:942][ 64]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.40.35:132][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.11.06-17.40.43:522][316]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-17.40.43:541][316]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.40.43:541][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-17.40.43:541][316]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 5:40:43 AM)
+[2018.11.06-17.40.43:541][316]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-17.40.43:543][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002584s)
+[2018.11.06-17.40.43:544][316]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-17.40.43:544][316]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2018.11.06-17.40.43:544][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003346s)
+[2018.11.06-17.40.43:567][316]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-17.40.43:589][316]LogInit: FAudioDevice initialized.
+[2018.11.06-17.40.43:597][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.40.43:630][316]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-17.40.43:632][316]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-11.40.43
+[2018.11.06-17.40.43:632][316]LogWorld: Bringing up level for play took: 0.000996
+[2018.11.06-17.40.43:650][316]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl -0.221
+[2018.11.06-17.40.43:650][316]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.40.46:364][457]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.40.46:364][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.40.46:401][457]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-17.40.46:432][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-17.40.46:432][457]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.40.46:583][464]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.11.06-17.40.48:824][558]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.11.06-17.40.51:645][643]Cmd: TRANSACTION UNDO
+[2018.11.06-17.40.51:645][643]LogEditorTransaction: Undo Move Actors
+[2018.11.06-17.40.58:400][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.40.58:487][861]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-17.40.58:505][861]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.40.58:505][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-17.40.58:506][861]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 5:40:58 AM)
+[2018.11.06-17.40.58:506][861]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-17.40.58:508][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002445s)
+[2018.11.06-17.40.58:509][861]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-17.40.58:509][861]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2018.11.06-17.40.58:509][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003148s)
+[2018.11.06-17.40.58:553][861]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-17.40.58:575][861]LogInit: FAudioDevice initialized.
+[2018.11.06-17.40.58:582][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.40.58:614][861]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-17.40.58:615][861]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-11.40.58
+[2018.11.06-17.40.58:616][861]LogWorld: Bringing up level for play took: 0.000947
+[2018.11.06-17.40.58:632][861]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl 0.761
+[2018.11.06-17.40.58:632][861]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.40.59:957][929]LogBlueprintUserMessages: [BP_checkpoint_2] X=145.965 Y=0.000 Z=163.051
+[2018.11.06-17.40.59:959][929]LogBlueprintUserMessages: [BP_checkpoint2_5] X=145.965 Y=0.000 Z=163.051
+[2018.11.06-17.41.02:752][ 83]LogBlueprintUserMessages: [BP_checkpoint_2] X=236.110 Y=0.000 Z=163.051
+[2018.11.06-17.41.04:057][155]LogBlueprintUserMessages: [BP_checkpoint_2] X=424.612 Y=0.000 Z=203.151
+[2018.11.06-17.41.08:051][374]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.41.08:051][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.41.08:078][374]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-17.41.08:113][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-17.41.08:113][374]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.41.08:281][381]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.11.06-17.41.17:506][644]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.06-17.42.21:504][612]LogEditorFactories: Performing atomic reimport of [C:/Users/w209724991/Downloads/Final_2dProject/Floor.psd]
+[2018.11.06-17.42.21:505][612]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/w209724991/Downloads/Final_2dProject/Floor.psd)
+[2018.11.06-17.42.21:537][612]LogTexture: Display: Building textures: Floor (BGRA8, 128X128)
+[2018.11.06-17.42.21:541][612]LogEditorFactories: -- imported successfully
+[2018.11.06-17.42.23:519][710]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-17.42.23:539][710]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.42.23:539][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-17.42.23:539][710]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 5:42:23 AM)
+[2018.11.06-17.42.23:539][710]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-17.42.23:542][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002602s)
+[2018.11.06-17.42.23:543][710]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-17.42.23:543][710]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2018.11.06-17.42.23:543][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003402s)
+[2018.11.06-17.42.23:564][710]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-17.42.23:586][710]LogInit: FAudioDevice initialized.
+[2018.11.06-17.42.23:594][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.42.23:629][710]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-17.42.23:631][710]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-11.42.23
+[2018.11.06-17.42.23:631][710]LogWorld: Bringing up level for play took: 0.001057
+[2018.11.06-17.42.23:647][710]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl -0.225
+[2018.11.06-17.42.23:647][710]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.42.26:063][829]LogBlueprintUserMessages: [BP_checkpoint_2] X=321.903 Y=0.000 Z=163.051
+[2018.11.06-17.42.26:902][873]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.42.26:902][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.42.26:932][873]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-17.42.26:963][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-17.42.26:963][873]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.42.27:138][880]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.11.06-17.42.28:761][949]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Tilemap)
+[2018.11.06-17.42.29:379][970]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Tilemap)
+[2018.11.06-17.42.29:844][986]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.11.06-17.42.32:524][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.42.32:590][ 68]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-17.42.32:609][ 68]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.42.32:610][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-17.42.32:610][ 68]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 5:42:32 AM)
+[2018.11.06-17.42.32:610][ 68]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-17.42.32:612][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002475s)
+[2018.11.06-17.42.32:613][ 68]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-17.42.32:613][ 68]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2018.11.06-17.42.32:613][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003169s)
+[2018.11.06-17.42.32:663][ 68]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-17.42.32:684][ 68]LogInit: FAudioDevice initialized.
+[2018.11.06-17.42.32:691][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.42.32:722][ 68]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-17.42.32:724][ 68]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-11.42.32
+[2018.11.06-17.42.32:724][ 68]LogWorld: Bringing up level for play took: 0.001095
+[2018.11.06-17.42.32:739][ 68]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl 0.868
+[2018.11.06-17.42.32:739][ 68]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.42.51:089][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.42.51:089][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.42.51:108][ 57]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-17.42.51:141][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-17.42.51:141][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.42.51:335][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.11.06-17.42.52:988][134]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Tilemap)
+[2018.11.06-17.42.55:445][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.43.07:979][551]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Level_015261BAC54F8A92A277303EAE0BE7D884.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Level_01.uasset'
+[2018.11.06-17.43.10:297][620]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-17.43.10:316][620]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.43.10:316][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-17.43.10:316][620]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 5:43:10 AM)
+[2018.11.06-17.43.10:316][620]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-17.43.10:319][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002527s)
+[2018.11.06-17.43.10:320][620]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-17.43.10:320][620]LogPlayLevel: PIE: World Init took: (0.001247s)
+[2018.11.06-17.43.10:320][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003885s)
+[2018.11.06-17.43.10:343][620]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-17.43.10:365][620]LogInit: FAudioDevice initialized.
+[2018.11.06-17.43.10:372][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.43.10:406][620]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-17.43.10:407][620]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-11.43.10
+[2018.11.06-17.43.10:408][620]LogWorld: Bringing up level for play took: 0.001022
+[2018.11.06-17.43.10:424][620]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl 0.552
+[2018.11.06-17.43.10:424][620]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.43.14:410][834]LogBlueprintUserMessages: [BP_checkpoint_2] X=383.737 Y=0.000 Z=170.415
+[2018.11.06-17.43.15:629][900]LogBlueprintUserMessages: [BP_checkpoint_2] X=383.737 Y=0.000 Z=170.415
+[2018.11.06-17.43.19:068][ 87]LogBlueprintUserMessages: [BP_checkpoint_2] X=244.538 Y=0.000 Z=163.051
+[2018.11.06-17.43.25:053][409]LogBlueprintUserMessages: [BP_checkpoint2_5] X=877.422 Y=0.000 Z=252.644
+[2018.11.06-17.43.31:940][782]LogBlueprintUserMessages: [BP_checkpoint2_5] X=884.590 Y=0.000 Z=252.644
+[2018.11.06-17.43.35:262][964]LogBlueprintUserMessages: [BP_checkpoint_2] X=1161.870 Y=0.000 Z=163.051
+[2018.11.06-17.43.35:264][964]LogBlueprintUserMessages: [BP_checkpoint2_5] X=1161.870 Y=0.000 Z=163.051
+[2018.11.06-17.43.37:227][ 73]LogBlueprintUserMessages: [BP_checkpoint_2] X=1151.733 Y=0.000 Z=163.051
+[2018.11.06-17.43.37:229][ 73]LogBlueprintUserMessages: [BP_checkpoint2_5] X=1151.733 Y=0.000 Z=163.051
+[2018.11.06-17.43.38:502][145]LogBlueprintUserMessages: [BP_checkpoint2_5] X=1022.006 Y=0.000 Z=257.271
+[2018.11.06-17.43.39:854][219]LogBlueprintUserMessages: [BP_checkpoint2_5] X=1096.308 Y=0.000 Z=163.051
+[2018.11.06-17.43.44:591][492]LogBlueprintUserMessages: [BP_checkpoint_2] X=1220.209 Y=0.000 Z=163.039
+[2018.11.06-17.43.44:593][492]LogBlueprintUserMessages: [BP_checkpoint2_5] X=1220.209 Y=0.000 Z=163.039
+[2018.11.06-17.43.46:230][587]LogBlueprintUserMessages: [BP_checkpoint_2] X=1404.223 Y=0.000 Z=163.051
+[2018.11.06-17.43.48:086][693]LogBlueprintUserMessages: [BP_checkpoint_2] X=1384.252 Y=0.000 Z=163.039
+[2018.11.06-17.43.50:739][848]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.43.50:739][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.43.50:769][848]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-17.43.50:803][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-17.43.50:803][848]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.43.50:980][855]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.11.06-17.43.53:605][962]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Final_Project_Content/Sprites/Background/Floor.Floor
+[2018.11.06-17.43.57:204][ 75]LogSlate: Window 'Level_01' being destroyed
+[2018.11.06-17.43.58:113][111]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Final_Project_Content/Sprites/Background/Floor_TileSet.Floor_TileSet
+[2018.11.06-17.44.01:993][241]LogSlate: Window 'Floor_TileSet' being destroyed
+[2018.11.06-17.44.03:010][281]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-17.44.03:035][281]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.44.03:036][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-17.44.03:036][281]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 5:44:03 AM)
+[2018.11.06-17.44.03:036][281]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-17.44.03:038][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002612s)
+[2018.11.06-17.44.03:039][281]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-17.44.03:039][281]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2018.11.06-17.44.03:039][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003372s)
+[2018.11.06-17.44.03:066][281]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-17.44.03:088][281]LogInit: FAudioDevice initialized.
+[2018.11.06-17.44.03:095][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.44.03:125][281]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-17.44.03:127][281]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-11.44.03
+[2018.11.06-17.44.03:127][281]LogWorld: Bringing up level for play took: 0.000988
+[2018.11.06-17.44.03:144][281]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl -0.728
+[2018.11.06-17.44.03:144][281]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.44.09:238][598]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.44.09:239][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.44.09:283][598]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-17.44.09:315][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-17.44.09:316][598]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.44.09:502][605]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.11.06-17.44.11:983][712]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-17.44.12:002][712]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.44.12:002][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-17.44.12:002][712]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 5:44:12 AM)
+[2018.11.06-17.44.12:002][712]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-17.44.12:004][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002429s)
+[2018.11.06-17.44.12:005][712]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-17.44.12:005][712]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2018.11.06-17.44.12:005][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003154s)
+[2018.11.06-17.44.12:033][712]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-17.44.12:063][712]LogInit: FAudioDevice initialized.
+[2018.11.06-17.44.12:081][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.44.12:121][712]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-17.44.12:123][712]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-11.44.12
+[2018.11.06-17.44.12:123][712]LogWorld: Bringing up level for play took: 0.000906
+[2018.11.06-17.44.12:138][712]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl 0.266
+[2018.11.06-17.44.12:138][712]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.44.13:081][762]LogBlueprintUserMessages: [BP_checkpoint2_5] X=248.000 Y=0.000 Z=214.340
+[2018.11.06-17.44.14:352][833]LogBlueprintUserMessages: [BP_checkpoint2_5] X=248.000 Y=0.000 Z=214.340
+[2018.11.06-17.44.17:707][ 20]LogBlueprintUserMessages: [BP_checkpoint_2] X=316.283 Y=0.000 Z=163.051
+[2018.11.06-17.44.20:396][171]LogBlueprintUserMessages: [BP_checkpoint_2] X=330.967 Y=0.000 Z=163.051
+[2018.11.06-17.44.21:845][253]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.44.21:845][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.44.21:863][253]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-17.44.21:894][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-17.44.21:894][253]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.44.22:063][260]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.11.06-17.44.26:129][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.44.27:125][478]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Final_Project_Content/Sprites/Level_01.Level_01
+[2018.11.06-17.44.31:154][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.44.41:869][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.44.47:277][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.44.51:983][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.44.54:615][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.45.06:939][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.45.11:849][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.45.12:008][789]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Level_01D6F8AB354FA71B0E662565AE8FD5627E.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Level_01.uasset'
+[2018.11.06-17.45.18:909][999]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-17.45.18:928][999]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.45.18:928][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-17.45.18:928][999]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 5:45:18 AM)
+[2018.11.06-17.45.18:928][999]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-17.45.18:931][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002449s)
+[2018.11.06-17.45.18:931][999]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-17.45.18:931][999]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2018.11.06-17.45.18:931][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003191s)
+[2018.11.06-17.45.18:955][999]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-17.45.18:977][999]LogInit: FAudioDevice initialized.
+[2018.11.06-17.45.18:983][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.45.19:018][999]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-17.45.19:020][999]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-11.45.19
+[2018.11.06-17.45.19:021][999]LogWorld: Bringing up level for play took: 0.001147
+[2018.11.06-17.45.19:037][999]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl -0.838
+[2018.11.06-17.45.19:037][999]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.45.27:250][455]LogBlueprintUserMessages: [BP_checkpoint_2] X=369.987 Y=0.000 Z=163.051
+[2018.11.06-17.45.31:305][678]LogBlueprintUserMessages: [BP_checkpoint2_5] X=921.329 Y=0.000 Z=252.644
+[2018.11.06-17.45.35:644][911]LogBlueprintUserMessages: [BP_checkpoint2_5] X=910.910 Y=0.000 Z=252.644
+[2018.11.06-17.45.38:846][ 84]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.45.38:847][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.45.38:879][ 84]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-17.45.38:909][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-17.45.38:909][ 84]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.45.39:090][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.11.06-17.52.20:506][602]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\w209724991\Downloads\Final_2dProject\City.psd)
+[2018.11.06-17.52.20:509][602]LogTexture: Display: Building textures: City (AutoDXT, 128X128)
+[2018.11.06-17.52.23:893][775]LogTexture: Display: Building textures: City (BGRA8, 128X128)
+[2018.11.06-17.52.29:084][ 15]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Final_Project_Content/Sprites/Background/City_TileSet.City_TileSet
+[2018.11.06-17.52.33:583][162]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/City_TileSet684884D746708F3AA35C31A1FF9D63A1.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Background/City_TileSet.uasset'
+[2018.11.06-17.53.34:754][110]LogSlate: Window 'Level_01' being destroyed
+[2018.11.06-17.53.40:741][246]LogEditorFactories: Performing atomic reimport of [C:/Users/w209724991/Downloads/Final_2dProject/Buildings.psd]
+[2018.11.06-17.53.40:742][246]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/w209724991/Downloads/Final_2dProject/Buildings.psd)
+[2018.11.06-17.53.40:829][246]LogTexture: Display: Building textures: City (BGRA8, 320X320)
+[2018.11.06-17.53.40:836][246]LogEditorFactories: -- imported successfully
+[2018.11.06-17.53.42:956][334]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Final_Project_Content/Sprites/Background/City_TileSet.City_TileSet
+[2018.11.06-17.53.55:580][714]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/City_TileSet7C82E11A438BEBB7D92C95AD640391F4.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Background/City_TileSet.uasset'
+[2018.11.06-17.53.56:035][730]LogSlate: Window 'City_TileSet' being destroyed
+[2018.11.06-17.54.02:566][ 15]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Final_Project_Content/Sprites/Level_01.Level_01
+[2018.11.06-17.54.38:609][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.54.42:314][948]Cmd: TRANSACTION UNDO
+[2018.11.06-17.54.42:314][948]LogEditorTransaction: Undo Tile Painting
+[2018.11.06-17.54.45:778][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.54.53:425][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.54.58:910][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.54.59:124][416]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Level_019DE1FA1945270A698EC7B69E115495B5.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Level_01.uasset'
+[2018.11.06-17.55.01:145][491]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-17.55.01:164][491]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.55.01:164][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-17.55.01:164][491]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 5:55:01 AM)
+[2018.11.06-17.55.01:164][491]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-17.55.01:167][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002598s)
+[2018.11.06-17.55.01:168][491]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-17.55.01:168][491]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2018.11.06-17.55.01:168][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003823s)
+[2018.11.06-17.55.01:193][491]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-17.55.01:215][491]LogInit: FAudioDevice initialized.
+[2018.11.06-17.55.01:222][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.55.01:257][491]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-17.55.01:259][491]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-11.55.01
+[2018.11.06-17.55.01:259][491]LogWorld: Bringing up level for play took: 0.001050
+[2018.11.06-17.55.01:278][491]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl -0.617
+[2018.11.06-17.55.01:278][491]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.55.04:629][674]LogBlueprintUserMessages: [BP_checkpoint_2] X=224.126 Y=0.000 Z=163.051
+[2018.11.06-17.55.07:366][826]LogBlueprintUserMessages: [BP_checkpoint_2] X=262.353 Y=0.000 Z=163.051
+[2018.11.06-17.55.08:741][902]LogBlueprintUserMessages: [BP_checkpoint_2] X=367.883 Y=0.000 Z=163.051
+[2018.11.06-17.55.11:527][ 56]LogBlueprintUserMessages: [BP_checkpoint_2] X=309.558 Y=0.000 Z=163.051
+[2018.11.06-17.55.17:736][389]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.55.17:736][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.55.17:759][389]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-17.55.17:793][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-17.55.17:794][389]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.55.17:978][396]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.11.06-17.56.50:336][210]LogSlate: Window 'Level_01' being destroyed
+[2018.11.06-17.56.55:723][384]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.06-17.57.02:178][647]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\w209724991\Downloads\Final_2dProject\Building_245.psd)
+[2018.11.06-17.57.02:181][647]LogTexture: Display: Building textures: Building_245 (AutoDXT, 256X256)
+[2018.11.06-17.57.04:718][780]LogTexture: Display: Building textures: Building_245 (BGRA8, 256X256)
+[2018.11.06-17.57.08:770][973]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Final_Project_Content/Sprites/Level_01.Level_01
+[2018.11.06-17.57.17:146][251]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Final_Project_Content/Sprites/Background/Building_245_TileSet.Building_245_TileSet
+[2018.11.06-17.57.21:244][386]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Building_245_TileSet91CD123C4281F399BDBABB832435EBE3.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Background/Building_245_TileSet.uasset'
+[2018.11.06-17.58.12:952][132]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Lvl_Auto21B82EF3849BD05C98E059581D4990691.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Maps/First_Lvl_Auto2.umap'
+[2018.11.06-17.58.12:956][132]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/First_Lvl' took 0.149
+[2018.11.06-17.58.12:956][132]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.149
+[2018.11.06-17.58.12:958][132]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Final_Project_Content/Sprites/Level_01] ([1] browsable assets)...
+[2018.11.06-17.58.12:958][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Level_01]
+[2018.11.06-17.58.13:017][132]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Level_01_Auto204E4676546B0686EA376B997823CA9E7.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Level_01_Auto2.uasset'
+[2018.11.06-17.58.13:019][132]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Background/Floor] ([1] browsable assets)...
+[2018.11.06-17.58.13:022][132]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Final_Project_Content/Sprites/Background/Floor.Floor]
+[2018.11.06-17.58.13:022][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Background/Floor]
+[2018.11.06-17.58.13:045][132]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Floor_Auto20597CBBE4BF40D624E9D488485CDF16C.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Background/Floor_Auto2.uasset'
+[2018.11.06-17.58.13:095][132]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Background/Building_245] ([1] browsable assets)...
+[2018.11.06-17.58.13:103][132]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Final_Project_Content/Sprites/Background/Building_245.Building_245]
+[2018.11.06-17.58.13:103][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Background/Building_245]
+[2018.11.06-17.58.13:115][132]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Building_245_Auto2A32377F342F1C72D5C099F8936FDE046.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Background/Building_245_Auto2.uasset'
+[2018.11.06-17.58.13:116][132]LogFileHelpers: Auto-saving content packages took 0.160
+[2018.11.06-17.59.16:256][436]LogEditorFactories: Performing atomic reimport of [C:/Users/w209724991/Downloads/Final_2dProject/Sprites.psd]
+[2018.11.06-17.59.16:257][436]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/w209724991/Downloads/Final_2dProject/Sprites.psd)
+[2018.11.06-17.59.16:260][436]LogTexture: Display: Building textures: Sprites (BGRA8, 256X256)
+[2018.11.06-17.59.16:266][436]LogEditorFactories: -- imported successfully
+[2018.11.06-17.59.44:046][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-17.59.44:220][321]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Level_01BE1A55934B86EEBAB488B38262698736.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Level_01.uasset'
+[2018.11.06-17.59.45:382][355]LogSlate: Window 'Level_01' being destroyed
+[2018.11.06-17.59.46:346][394]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-17.59.46:365][394]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.59.46:365][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-17.59.46:365][394]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 5:59:46 AM)
+[2018.11.06-17.59.46:365][394]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-17.59.46:368][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002842s)
+[2018.11.06-17.59.46:368][394]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-17.59.46:369][394]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2018.11.06-17.59.46:369][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003711s)
+[2018.11.06-17.59.46:392][394]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-17.59.46:418][394]LogInit: FAudioDevice initialized.
+[2018.11.06-17.59.46:425][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.59.46:455][394]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-17.59.46:457][394]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-11.59.46
+[2018.11.06-17.59.46:457][394]LogWorld: Bringing up level for play took: 0.001050
+[2018.11.06-17.59.46:473][394]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl 0.573
+[2018.11.06-17.59.46:473][394]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.59.47:897][471]LogBlueprintUserMessages: [BP_checkpoint_2] X=186.164 Y=0.000 Z=163.051
+[2018.11.06-17.59.48:618][511]LogBlueprintUserMessages: [BP_checkpoint_2] X=231.205 Y=0.000 Z=163.051
+[2018.11.06-17.59.51:118][650]LogBlueprintUserMessages: [BP_checkpoint_2] X=276.600 Y=0.000 Z=163.051
+[2018.11.06-17.59.51:963][697]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.59.51:963][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-17.59.51:981][697]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-17.59.52:016][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-17.59.52:016][697]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-17.59.52:190][704]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2018.11.06-18.00.19:951][912]LogEditorFactories: Performing atomic reimport of [C:/Users/w209724991/Downloads/Final_2dProject/Sprites.psd]
+[2018.11.06-18.00.19:951][912]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/w209724991/Downloads/Final_2dProject/Sprites.psd)
+[2018.11.06-18.00.19:952][912]Format of this PSD is not supported. Only Grayscale and RGBColor PSD images are currently supported, in 8-bit or 16-bit.
+[2018.11.06-18.00.19:952][912]Error: Texture import failed
+[2018.11.06-18.00.19:952][912]LogEditorFactories: Warning: -- import failed
+[2018.11.06-18.00.23:466][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-18.00.23:691][ 65]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Final_Project_Content/Sprites/Background/Sprites.Sprites
+[2018.11.06-18.00.25:939][137]LogSlate: Window 'Sprites*' being destroyed
+[2018.11.06-18.00.30:324][320]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Final_Project_Content/Sprites/Background/Sprites_TileSet.Sprites_TileSet
+[2018.11.06-18.00.39:812][684]LogSlate: Window 'Sprites_TileSet' being destroyed
+[2018.11.06-18.00.41:454][752]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-18.00.41:474][752]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-18.00.41:474][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-18.00.41:474][752]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 6:00:41 AM)
+[2018.11.06-18.00.41:474][752]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-18.00.41:476][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002470s)
+[2018.11.06-18.00.41:477][752]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-18.00.41:477][752]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2018.11.06-18.00.41:477][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003234s)
+[2018.11.06-18.00.41:509][752]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-18.00.41:533][752]LogInit: FAudioDevice initialized.
+[2018.11.06-18.00.41:539][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-18.00.41:574][752]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-18.00.41:576][752]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-12.00.41
+[2018.11.06-18.00.41:576][752]LogWorld: Bringing up level for play took: 0.000961
+[2018.11.06-18.00.41:592][752]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl -0.309
+[2018.11.06-18.00.41:592][752]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-18.00.45:948][993]LogBlueprintUserMessages: [BP_checkpoint_2] X=248.847 Y=0.000 Z=163.051
+[2018.11.06-18.00.48:846][154]LogBlueprintUserMessages: [BP_checkpoint_2] X=182.022 Y=0.000 Z=163.051
+[2018.11.06-18.00.48:848][154]LogBlueprintUserMessages: [BP_checkpoint2_5] X=182.022 Y=0.000 Z=163.051
+[2018.11.06-18.00.55:132][498]LogBlueprintUserMessages: [BP_checkpoint2_5] X=892.870 Y=0.000 Z=252.644
+[2018.11.06-18.00.55:582][522]LogBlueprintUserMessages: [BP_checkpoint_2] X=759.479 Y=0.000 Z=327.141
+[2018.11.06-18.00.55:918][540]LogBlueprintUserMessages: [BP_checkpoint2_5] X=639.479 Y=0.000 Z=354.341
+[2018.11.06-18.00.59:426][727]LogBlueprintUserMessages: [BP_checkpoint2_5] X=960.517 Y=0.000 Z=252.644
+[2018.11.06-18.00.59:916][753]LogBlueprintUserMessages: [BP_checkpoint_2] X=813.792 Y=0.000 Z=327.141
+[2018.11.06-18.01.00:422][780]LogBlueprintUserMessages: [BP_checkpoint2_5] X=633.791 Y=0.000 Z=334.866
+[2018.11.06-18.01.03:484][946]LogBlueprintUserMessages: [BP_checkpoint2_5] X=861.685 Y=0.000 Z=252.644
+[2018.11.06-18.01.06:428][108]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-18.01.06:428][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-18.01.06:449][108]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-18.01.06:479][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-18.01.06:479][108]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-18.01.06:653][115]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2018.11.06-18.01.27:149][  3]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Final_Project_Content/Sprites/Tilemap1.Tilemap1
+[2018.11.06-18.01.52:574][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-18.01.52:728][750]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Tilemap1D0DEB2374182BDB3A328098B40AC19A1.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Tilemap1.uasset'
+[2018.11.06-18.01.55:028][825]LogSlate: Window 'Tilemap1' being destroyed
+[2018.11.06-18.01.55:037][825]LogSlate: Window 'Tilemap1' being destroyed
+[2018.11.06-18.01.57:925][886]LogSlate: Window 'Save Content' being destroyed
+[2018.11.06-18.01.57:954][886]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Building_245410FBEF443197A35ED14B19FC00D3DCA.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Background/Building_245.uasset'
+[2018.11.06-18.01.57:985][886]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Floor2F517EAD4C3D0574C738AF8CB9DAD108.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Background/Floor.uasset'
+[2018.11.06-18.01.58:033][886]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/SpritesFD20AD1A4F567E8AF86709AACD3A40FF.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Background/Sprites.uasset'
+[2018.11.06-18.01.58:270][886]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_LvlBFB518B641C294930F012FBEA2AFD443.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl.umap'
+[2018.11.06-18.01.58:309][886]LogFileHelpers: Saving map 'First_Lvl' took 0.269
+[2018.11.06-18.02.01:448][ 22]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-18.02.01:467][ 22]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-18.02.01:467][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-18.02.01:467][ 22]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 6:02:01 AM)
+[2018.11.06-18.02.01:467][ 22]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-18.02.01:469][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002455s)
+[2018.11.06-18.02.01:470][ 22]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-18.02.01:470][ 22]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2018.11.06-18.02.01:470][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003242s)
+[2018.11.06-18.02.01:495][ 22]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-18.02.01:516][ 22]LogInit: FAudioDevice initialized.
+[2018.11.06-18.02.01:523][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-18.02.01:560][ 22]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-18.02.01:561][ 22]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-12.02.01
+[2018.11.06-18.02.01:561][ 22]LogWorld: Bringing up level for play took: 0.001013
+[2018.11.06-18.02.01:577][ 22]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl -0.325
+[2018.11.06-18.02.01:577][ 22]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-18.02.05:668][248]LogBlueprintUserMessages: [BP_checkpoint_2] X=265.617 Y=0.000 Z=163.051
+[2018.11.06-18.02.06:803][311]LogBlueprintUserMessages: [BP_checkpoint_2] X=269.641 Y=0.000 Z=163.051
+[2018.11.06-18.02.08:300][394]LogBlueprintUserMessages: [BP_checkpoint_2] X=369.443 Y=0.000 Z=163.051
+[2018.11.06-18.02.08:769][420]LogBlueprintUserMessages: [BP_checkpoint_2] X=372.513 Y=0.000 Z=163.051
+[2018.11.06-18.02.10:250][502]LogBlueprintUserMessages: [BP_checkpoint_2] X=456.371 Y=0.000 Z=244.926
+[2018.11.06-18.02.11:519][572]LogBlueprintUserMessages: [BP_checkpoint_2] X=456.371 Y=0.000 Z=244.926
+[2018.11.06-18.02.12:721][638]LogBlueprintUserMessages: [BP_checkpoint_2] X=456.371 Y=0.000 Z=244.926
+[2018.11.06-18.02.18:359][939]LogBlueprintUserMessages: [BP_checkpoint2_5] X=936.356 Y=0.000 Z=252.644
+[2018.11.06-18.02.20:576][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-18.02.20:577][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-18.02.20:595][ 57]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-18.02.20:626][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-18.02.20:626][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-18.02.20:804][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2018.11.06-18.02.43:789][ 49]LogEditorFactories: Performing atomic reimport of [C:/Users/w209724991/Downloads/Final_2dProject/Building_245.psd]
+[2018.11.06-18.02.43:790][ 49]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/w209724991/Downloads/Final_2dProject/Building_245.psd)
+[2018.11.06-18.02.43:792][ 49]LogTexture: Display: Building textures: Building_245 (BGRA8, 256X256)
+[2018.11.06-18.02.43:798][ 49]LogEditorFactories: -- imported successfully
+[2018.11.06-18.02.45:486][112]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-18.02.45:506][112]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-18.02.45:506][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-18.02.45:506][112]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 6:02:45 AM)
+[2018.11.06-18.02.45:506][112]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-18.02.45:509][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002519s)
+[2018.11.06-18.02.45:509][112]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-18.02.45:509][112]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2018.11.06-18.02.45:509][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003228s)
+[2018.11.06-18.02.45:532][112]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-18.02.45:553][112]LogInit: FAudioDevice initialized.
+[2018.11.06-18.02.45:559][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-18.02.45:591][112]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-18.02.45:593][112]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-12.02.45
+[2018.11.06-18.02.45:593][112]LogWorld: Bringing up level for play took: 0.000947
+[2018.11.06-18.02.45:609][112]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl -0.291
+[2018.11.06-18.02.45:610][112]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-18.02.49:924][346]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-18.02.49:924][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-18.02.49:949][346]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-18.02.49:982][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-18.02.49:982][346]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-18.02.50:153][353]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2018.11.06-18.03.06:845][ 53]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Final_Project_Content/Sprites/Background/Floor.Floor
+[2018.11.06-18.03.10:294][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-18.03.10:408][170]LogSlate: Window 'Floor' being destroyed
+[2018.11.06-18.03.12:942][277]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Final_Project_Content/Sprites/Background/Floor_TileSet.Floor_TileSet
+[2018.11.06-18.03.32:340][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-18.03.43:401][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-18.03.43:538][196]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Floor_TileSet79343445498277F4524993A933D55037.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Background/Floor_TileSet.uasset'
+[2018.11.06-18.03.44:065][215]LogSlate: Window 'Floor_TileSet' being destroyed
+[2018.11.06-18.03.47:875][373]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Final_Project_Content/Sprites/Level_01.Level_01
+[2018.11.06-18.04.01:570][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-18.04.01:872][776]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Level_018D49F5B34852F84FE2A50BAA465BA49A.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Level_01.uasset'
+[2018.11.06-18.04.02:388][794]LogSlate: Window 'Level_01' being destroyed
+[2018.11.06-18.04.03:254][829]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.06-18.04.03:273][829]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-18.04.03:273][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.06-18.04.03:273][829]PIE: New page: PIE session: First_Lvl (Nov 6, 2018, 6:04:03 AM)
+[2018.11.06-18.04.03:273][829]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl
+[2018.11.06-18.04.03:276][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002799s)
+[2018.11.06-18.04.03:276][829]LogAIModule: Creating AISystem for world First_Lvl
+[2018.11.06-18.04.03:277][829]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2018.11.06-18.04.03:277][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl.First_Lvl to /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl (0.003608s)
+[2018.11.06-18.04.03:307][829]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.06-18.04.03:332][829]LogInit: FAudioDevice initialized.
+[2018.11.06-18.04.03:348][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-18.04.03:394][829]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.06-18.04.03:396][829]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl.First_Lvl up for play (max tick rate 0) at 2018.11.06-12.04.03
+[2018.11.06-18.04.03:397][829]LogWorld: Bringing up level for play took: 0.001399
+[2018.11.06-18.04.03:416][829]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl -0.484
+[2018.11.06-18.04.03:416][829]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-18.04.20:179][744]LogBlueprintUserMessages: [BP_checkpoint2_5] X=922.972 Y=0.000 Z=252.644
+[2018.11.06-18.04.22:791][883]LogBlueprintUserMessages: [BP_checkpoint2_5] X=859.574 Y=0.000 Z=252.644
+[2018.11.06-18.04.23:601][927]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-18.04.23:601][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.06-18.04.23:620][927]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.06-18.04.23:654][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.06-18.04.23:654][927]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl' with GeneratedClass '/Game/Maps/First_Lvl.First_Lvl_C' with ClassGeneratedBy '/Game/Maps/First_Lvl.First_Lvl:PersistentLevel.First_Lvl'
+[2018.11.06-18.04.23:820][934]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2018.11.06-18.04.24:921][973]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Lvl99D9E4A7408AB31B2E7A26A566883FE6.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl.umap'
+[2018.11.06-18.04.47:504][876]LogSlate: Window 'Save Content' being destroyed
+[2018.11.06-18.04.47:563][876]LogSavePackage: Moving '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Building_24594AC09D743737C015B06AD9A76895AAD.tmp' to '../../../../../Users/w209724991/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Background/Building_245.uasset'
