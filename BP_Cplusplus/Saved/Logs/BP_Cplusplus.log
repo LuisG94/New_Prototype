@@ -962,3 +962,47 @@ LogInit: Object subsystem initialized
 [2018.11.06-23.06.56:858][534]LogPlayLevel: Display: Destroying online subsystem :Context_27
 [2018.11.06-23.07.35:159][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/First_Lvl" FILE="../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2018.11.06-23.07.35:307][829]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Lvl4E51953A4405FB82C97A28B4529EFAFF.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl.umap'
+[2018.11.06-23.07.58:815][ 77]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.06-23.08.38:755][305]LogSlate: Window 'Create New Blueprint' being destroyed
+[2018.11.06-23.08.41:582][474]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/PlayerController2.PlayerController2
+[2018.11.06-23.08.55:664][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/First_Lvl" FILE="../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.06-23.08.55:817][303]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_LvlC3F99DBA4A2D4C9C3D3C4AAFCF3E3B6D.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl.umap'
+[2018.11.06-23.08.57:303][391]BlueprintLog: New page: Compile PlayerController2
+[2018.11.06-23.08.57:785][412]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/PlayerController2ECF87BC14859550E53197B905B9F179F.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/PlayerController2.uasset'
+[2018.11.06-23.09.02:292][678]LogAIModule: Creating AISystem for world Second_Lvl
+[2018.11.06-23.09.02:294][678]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Second_Lvl.Second_Lvl
+[2018.11.06-23.09.05:140][678]LogSlate: Window 'Save Content' being destroyed
+[2018.11.06-23.09.05:166][678]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/2DSideScrollerGameMode4C1D93A841643ACA37625DA50BADDB40.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
+[2018.11.06-23.09.05:170][678]Cmd: MAP LOAD FILE="../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Second_Lvl.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.06-23.09.05:170][678]LightingResults: New page: Lighting Build
+[2018.11.06-23.09.05:170][678]LoadErrors: New page: Loading map: Second_Lvl.umap
+[2018.11.06-23.09.05:170][678]MapCheck: New page: Map Check
+[2018.11.06-23.09.05:170][678]LightingResults: New page: Lighting Build
+[2018.11.06-23.09.05:255][678]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.06-23.09.05:302][678]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.06-23.09.05:369][678]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67.219ms to complete.
+[2018.11.06-23.09.05:370][678]LogFileHelpers: Loading map 'Second_Lvl' took 0.202
+[2018.11.06-23.09.12:575][107]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.06-23.09.33:791][379]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.11.06-23.09.37:745][616]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.06-23.09.42:530][903]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.06-23.11.43:682][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-23.16.59:987][  3]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Tilemap1)
+[2018.11.06-23.17.03:859][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-23.17.08:334][502]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Final_Project_Content/Sprites/Level_01.Level_01
+[2018.11.06-23.17.11:292][671]LogSlate: Window 'Level_01' being destroyed
+[2018.11.06-23.17.11:297][671]LogSlate: Window 'Level_01' being destroyed
+[2018.11.06-23.17.13:161][779]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Final_Project_Content/Sprites/Tilemap1.Tilemap1
+[2018.11.06-23.17.24:671][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.06-23.17.31:221][855]LogSlate: Window 'Tilemap1*' being destroyed
+[2018.11.06-23.17.31:226][855]LogSlate: Window 'Tilemap1*' being destroyed
+[2018.11.06-23.17.33:583][993]LogEditorViewport: Clicking Background
+[2018.11.06-23.17.34:933][ 74]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.11.06-23.19.58:513][688]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.06-23.19.58:660][688]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Second_Lvl_Auto5540172DF422C0006BF70EB93A951C736.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Maps/Second_Lvl_Auto5.umap'
+[2018.11.06-23.19.58:663][688]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Second_Lvl' took 0.140
+[2018.11.06-23.19.58:663][688]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.140
+[2018.11.06-23.19.58:669][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Final_Project_Content/Sprites/Tilemap1] ([1] browsable assets)...
+[2018.11.06-23.19.58:669][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Tilemap1]
+[2018.11.06-23.19.58:711][688]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Tilemap1_Auto5091C9D22470EB0726A8B278CB2AC18BB.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Tilemap1_Auto5.uasset'
+[2018.11.06-23.19.58:713][688]LogFileHelpers: Auto-saving content packages took 0.044
