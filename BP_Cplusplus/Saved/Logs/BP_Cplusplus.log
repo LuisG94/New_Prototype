@@ -1240,3 +1240,1004 @@ LogInit: Object subsystem initialized
 [2018.11.08-14.56.38:769][408]BlueprintLog: New page: Compile Boss1
 [2018.11.08-14.56.39:334][429]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Boss1E0D81E374976CE1058CE879EDF2CA71D.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Boss1.uasset'
 [2018.11.08-14.57.11:504][355]LogSlate: Window 'Boss1' being destroyed
+[2018.11.08-14.58.02:386][308]LogAIModule: Creating AISystem for world Second_Lvl
+[2018.11.08-14.58.02:391][308]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Second_Lvl.Second_Lvl
+[2018.11.08-14.58.03:917][308]LogSlate: Window 'Save Content' being destroyed
+[2018.11.08-14.58.03:998][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/First_Lvl" FILE="../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.08-14.58.04:188][308]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_LvlD1CF57B44753FDDE6416478DE62862EF.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl.umap'
+[2018.11.08-14.58.04:212][308]LogFileHelpers: Saving map 'First_Lvl' took 0.288
+[2018.11.08-14.58.04:213][308]Cmd: MAP LOAD FILE="../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Second_Lvl.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.08-14.58.04:213][308]LightingResults: New page: Lighting Build
+[2018.11.08-14.58.04:213][308]LoadErrors: New page: Loading map: Second_Lvl.umap
+[2018.11.08-14.58.04:214][308]MapCheck: New page: Map Check
+[2018.11.08-14.58.04:214][308]LightingResults: New page: Lighting Build
+[2018.11.08-14.58.04:302][308]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.08-14.58.04:349][308]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.08-14.58.04:419][308]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.572ms to complete.
+[2018.11.08-14.58.04:423][308]LogFileHelpers: Loading map 'Second_Lvl' took 0.211
+[2018.11.08-14.58.11:056][701]LogEditorViewport: Clicking on Actor (LMB): Boss_C (Boss)
+[2018.11.08-14.58.20:303][252]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.11.08-14.58.23:043][412]LogEditorViewport: Clicking Background
+[2018.11.08-14.58.24:018][469]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.11.08-14.58.25:505][557]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.08-14.58.26:635][624]LogEditorViewport: Clicking Background
+[2018.11.08-14.58.27:587][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-14.58.27:904][698]LogAIModule: Creating AISystem for world Third_Lvl
+[2018.11.08-14.58.27:907][698]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Third_Lvl.Third_Lvl
+[2018.11.08-14.58.29:032][698]LogSlate: Window 'Save Content' being destroyed
+[2018.11.08-14.58.29:297][698]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Second_Lvl8D24A8B844E89A41442BEDAADB9B0F7B.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Second_Lvl.umap'
+[2018.11.08-14.58.29:322][698]LogFileHelpers: Saving map 'Second_Lvl' took 0.282
+[2018.11.08-14.58.29:323][698]Cmd: MAP LOAD FILE="../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Third_Lvl.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.08-14.58.29:323][698]LightingResults: New page: Lighting Build
+[2018.11.08-14.58.29:323][698]LoadErrors: New page: Loading map: Third_Lvl.umap
+[2018.11.08-14.58.29:324][698]MapCheck: New page: Map Check
+[2018.11.08-14.58.29:324][698]LightingResults: New page: Lighting Build
+[2018.11.08-14.58.29:403][698]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.08-14.58.29:452][698]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.08-14.58.29:523][698]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.43ms to complete.
+[2018.11.08-14.58.29:536][698]LogFileHelpers: Loading map 'Third_Lvl' took 0.215
+[2018.11.08-14.58.33:180][915]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.08-14.58.33:211][915]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.11.08-14.58.33:211][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-14.58.33:211][915]PIE: New page: PIE session: Third_Lvl (Nov 8, 2018, 2:58:33 AM)
+[2018.11.08-14.58.33:211][915]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Third_Lvl
+[2018.11.08-14.58.33:212][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001115s)
+[2018.11.08-14.58.33:213][915]LogAIModule: Creating AISystem for world Third_Lvl
+[2018.11.08-14.58.33:213][915]LogPlayLevel: PIE: World Init took: (0.000508s)
+[2018.11.08-14.58.33:213][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Third_Lvl.Third_Lvl to /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl (0.001732s)
+[2018.11.08-14.58.33:252][915]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.11.08-14.58.33:322][915]LogInit: FAudioDevice initialized.
+[2018.11.08-14.58.33:330][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-14.58.33:404][915]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.08-14.58.33:406][915]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl up for play (max tick rate 60) at 2018.11.08-08.58.33
+[2018.11.08-14.58.33:406][915]LogWorld: Bringing up level for play took: 0.000668
+[2018.11.08-14.58.33:422][915]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Third_Lvl -0.441
+[2018.11.08-14.58.33:422][915]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.11.08-14.59.39:218][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.11.08-14.59.39:219][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-14.59.39:236][858]LogSlate: Window 'BP_Cplusplus Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.08-14.59.39:274][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-14.59.39:274][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.11.08-14.59.39:475][865]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.11.08-14.59.41:013][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Third_Lvl" FILE="../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Third_Lvl.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.08-14.59.41:169][956]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_LvlF99CCC5C460D36D8261622AC90323991.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Third_Lvl.umap'
+[2018.11.08-14.59.52:740][649]BlueprintLog: New page: Compile BP_Ammo
+[2018.11.08-14.59.53:312][668]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_Ammo47D2F170406FD11BABAD678ED7B504E4.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/BP_Ammo.uasset'
+[2018.11.08-14.59.55:617][803]BlueprintLog: New page: Compile Boss
+[2018.11.08-14.59.56:195][825]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BossCA94102D45155CCADCAA98B149A6346C.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Boss.uasset'
+[2018.11.08-14.59.56:729][857]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.08-14.59.58:065][926]BlueprintLog: New page: Compile Space_Ship
+[2018.11.08-14.59.58:732][940]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Space_Ship6536EEB34F5F70A2D6062A8EB756616B.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Space_Ship.uasset'
+[2018.11.08-14.59.59:270][972]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.08-15.00.01:020][ 70]BlueprintLog: New page: Compile Boss1
+[2018.11.08-15.00.01:602][ 87]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Boss187C4507B42EF65AC5289AFA70EDB2493.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Boss1.uasset'
+[2018.11.08-15.00.02:184][122]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.08-15.00.24:575][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Third_Lvl" FILE="../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Third_Lvl.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.08-15.00.24:728][284]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Lvl5ADD25B74606D58E76C9C3AE7F9E673A.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Third_Lvl.umap'
+[2018.11.08-15.00.24:753][284]LogFileHelpers: Saving map 'Third_Lvl' took 0.261
+[2018.11.08-15.01.03:669][643]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2018.11.08-15.01.03:855][653]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject=C:/Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/BP_Cplusplus.uproject BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project=C:/Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/BP_Cplusplus.uproject -cook -stage -archive -archivedirectory=C:/Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus -package -clientconfig=Development -ue4exe=UE4Editor-Cmd.exe -pak -prereqs -nodebuginfo -targetplatform=Win64 -utf8output
+[2018.11.08-15.01.04:139][670]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for C:\Users\Luis\Documents\GitHub\New_Prototype\BP_Cplusplus\BP_Cplusplus.uproject
+[2018.11.08-15.01.04:621][699]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2018.11.08-15.01.04:621][699]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project C:\Users\Luis\Documents\GitHub\New_Prototype\BP_Cplusplus\BP_Cplusplus.uproject
+[2018.11.08-15.01.04:621][699]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is C:\Program Files\Epic Games\UE_4.20\Engine\Programs\AutomationTool\Saved\Cook-2018.11.08-09.01.04.txt
+[2018.11.08-15.01.04:621][699]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\Win64\UE4Editor-Cmd.exe C:\Users\Luis\Documents\GitHub\New_Prototype\BP_Cplusplus\BP_Cplusplus.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="C:\Program Files\Epic Games\UE_4.20\Engine\Programs\AutomationTool\Saved\Cook-2018.11.08-09.01.04.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2018.11.08-15.01.04:787][709]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: BP_Cplusplus
+[2018.11.08-15.01.05:988][781]UATHelper: Packaging (Windows (64-bit)):   LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+[2018.11.08-15.01.06:221][795]UATHelper: Packaging (Windows (64-bit)):   LogStreaming: Display: Took  0.107s to configure plugins.
+[2018.11.08-15.01.06:372][804]UATHelper: Packaging (Windows (64-bit)):   LogStreaming: Display: Took  0.003s to delete old logs.
+[2018.11.08-15.01.06:438][808]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 16 GB [17052700672 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.08-15.01.07:354][863]UATHelper: Packaging (Windows (64-bit)):   LogStreaming: Display: Took  0.349s to InitEngineTextLocalization.
+[2018.11.08-15.01.07:771][888]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.08-15.01.07:787][889]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.08-15.01.07:804][890]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.08-15.01.07:822][891]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.08-15.01.07:822][891]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.08-15.01.07:854][893]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.08-15.01.07:872][894]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.08-15.01.07:872][894]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.08-15.01.07:888][895]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.08-15.01.07:971][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-15.01.07:971][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-15.01.07:971][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-15.01.07:971][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-15.01.07:971][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-15.01.07:971][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-15.01.07:971][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-15.01.07:971][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-15.01.07:971][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-15.01.07:971][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-15.01.07:971][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-15.01.07:971][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-15.01.07:971][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-15.01.07:972][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-15.01.07:972][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-15.01.07:972][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-15.01.07:972][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-15.01.07:972][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-15.01.07:972][900]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.08-15.01.08:020][903]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.08-15.01.08:020][903]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.08-15.01.08:054][905]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.08-15.01.08:054][905]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.08-15.01.08:071][906]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.08-15.01.08:071][906]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.08-15.01.08:087][907]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.08-15.01.08:104][908]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.08-15.01.08:104][908]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.08-15.01.08:105][908]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2018.11.08-15.01.08:204][914]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.08-15.01.08:721][945]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.08-15.01.08:774][948]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Luis/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.08-15.01.08:787][949]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.08-15.01.10:204][ 34]UATHelper: Packaging (Windows (64-bit)):   LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.08-15.01.10:321][ 41]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.08-15.01.10:321][ 41]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2018.11.08-15.01.10:321][ 41]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2018.11.08-15.01.11:820][131]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets
+[2018.11.08-15.01.11:839][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2018.11.08-15.01.11:839][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2018.11.08-15.01.11:887][135]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.047 seconds for platforms WindowsNoEditor  iterative false
+[2018.11.08-15.01.13:055][205]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 310 Total 310
+[2018.11.08-15.01.13:338][222]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 50 Packages Remain 309 Total 359
+[2018.11.08-15.01.13:637][240]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 100 Packages Remain 309 Total 409
+[2018.11.08-15.01.13:939][258]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 150 Packages Remain 308 Total 458
+[2018.11.08-15.01.14:022][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 186 Packages Remain 307 Total 493
+[2018.11.08-15.01.14:022][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 186 Packages Remain 306 Total 492
+[2018.11.08-15.01.14:038][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 187 Packages Remain 305 Total 492
+[2018.11.08-15.01.14:055][265]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 188 Packages Remain 304 Total 492
+[2018.11.08-15.01.14:071][266]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 189 Packages Remain 303 Total 492
+[2018.11.08-15.01.14:089][267]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 191 Packages Remain 302 Total 493
+[2018.11.08-15.01.14:106][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 301 Total 493
+[2018.11.08-15.01.14:106][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 301 Total 493
+[2018.11.08-15.01.14:106][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 300 Total 492
+[2018.11.08-15.01.14:106][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 299 Total 491
+[2018.11.08-15.01.14:106][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 298 Total 490
+[2018.11.08-15.01.14:106][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 297 Total 489
+[2018.11.08-15.01.14:106][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 296 Total 488
+[2018.11.08-15.01.14:106][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 295 Total 487
+[2018.11.08-15.01.14:106][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 294 Total 486
+[2018.11.08-15.01.14:106][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 293 Total 485
+[2018.11.08-15.01.14:106][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 292 Total 484
+[2018.11.08-15.01.14:106][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 291 Total 483
+[2018.11.08-15.01.14:106][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 290 Total 482
+[2018.11.08-15.01.14:106][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 289 Total 481
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 288 Total 480
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 287 Total 479
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 286 Total 478
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 285 Total 477
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 284 Total 476
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 283 Total 475
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 282 Total 474
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 281 Total 473
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 280 Total 472
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 279 Total 471
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 278 Total 470
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 277 Total 469
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 276 Total 468
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 275 Total 467
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 274 Total 466
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 273 Total 465
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 272 Total 464
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 271 Total 463
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 270 Total 462
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 269 Total 461
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 268 Total 460
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 267 Total 459
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 266 Total 458
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 265 Total 457
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 264 Total 456
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 263 Total 455
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 262 Total 454
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 261 Total 453
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 260 Total 452
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 259 Total 451
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 258 Total 450
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 257 Total 449
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 256 Total 448
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 255 Total 447
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 254 Total 446
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 253 Total 445
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 252 Total 444
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 251 Total 443
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 250 Total 442
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 249 Total 441
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 248 Total 440
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 247 Total 439
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 246 Total 438
+[2018.11.08-15.01.14:107][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 245 Total 437
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 244 Total 436
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 243 Total 435
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 242 Total 434
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 241 Total 433
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 240 Total 432
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 239 Total 431
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 238 Total 430
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 237 Total 429
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 236 Total 428
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 235 Total 427
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 234 Total 426
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 233 Total 425
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 232 Total 424
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 231 Total 423
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 230 Total 422
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 229 Total 421
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 228 Total 420
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 227 Total 419
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 226 Total 418
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 225 Total 417
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 224 Total 416
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 223 Total 415
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 222 Total 414
+[2018.11.08-15.01.14:108][268]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 221 Total 413
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 220 Total 412
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 219 Total 411
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 218 Total 410
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 217 Total 409
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 216 Total 408
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 215 Total 407
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 214 Total 406
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 213 Total 405
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 212 Total 404
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 211 Total 403
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 210 Total 402
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 209 Total 401
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 208 Total 400
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 207 Total 399
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 206 Total 398
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 205 Total 397
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 204 Total 396
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 203 Total 395
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 202 Total 394
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 201 Total 393
+[2018.11.08-15.01.14:122][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 200 Total 392
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 199 Total 391
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 198 Total 390
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 197 Total 389
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 196 Total 388
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 195 Total 387
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 194 Total 386
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 193 Total 385
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 192 Total 384
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 191 Total 383
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 190 Total 382
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 189 Total 381
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 188 Total 380
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 187 Total 379
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 186 Total 378
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 185 Total 377
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 184 Total 376
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 183 Total 375
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 182 Total 374
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 181 Total 373
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 180 Total 372
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 179 Total 371
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 178 Total 370
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 177 Total 369
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 176 Total 368
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 175 Total 367
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 174 Total 366
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 173 Total 365
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 172 Total 364
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 171 Total 363
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 170 Total 362
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 169 Total 361
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 168 Total 360
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 167 Total 359
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 166 Total 358
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 165 Total 357
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 164 Total 356
+[2018.11.08-15.01.14:123][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 164 Total 356
+[2018.11.08-15.01.14:124][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 164 Total 356
+[2018.11.08-15.01.14:124][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 192 Packages Remain 164 Total 356
+[2018.11.08-15.01.14:124][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 196 Packages Remain 164 Total 360
+[2018.11.08-15.01.14:137][270]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 196 Packages Remain 164 Total 360
+[2018.11.08-15.01.14:137][270]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 196 Packages Remain 164 Total 360
+[2018.11.08-15.01.14:137][270]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 196 Packages Remain 164 Total 360
+[2018.11.08-15.01.14:137][270]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 196 Packages Remain 164 Total 360
+[2018.11.08-15.01.14:137][270]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 196 Packages Remain 164 Total 360
+[2018.11.08-15.01.14:137][270]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 196 Packages Remain 164 Total 360
+[2018.11.08-15.01.14:137][270]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 196 Packages Remain 164 Total 360
+[2018.11.08-15.01.14:137][270]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 196 Packages Remain 164 Total 360
+[2018.11.08-15.01.14:157][271]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 206 Packages Remain 163 Total 369
+[2018.11.08-15.01.14:157][271]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 206 Packages Remain 163 Total 369
+[2018.11.08-15.01.14:157][271]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 206 Packages Remain 163 Total 369
+[2018.11.08-15.01.14:170][272]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 206 Packages Remain 163 Total 369
+[2018.11.08-15.01.14:187][273]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 211 Packages Remain 162 Total 373
+[2018.11.08-15.01.14:237][276]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 214 Packages Remain 162 Total 376
+[2018.11.08-15.01.14:237][276]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 214 Packages Remain 161 Total 375
+[2018.11.08-15.01.14:322][281]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 222 Packages Remain 160 Total 382
+[2018.11.08-15.01.14:322][281]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 222 Packages Remain 159 Total 381
+[2018.11.08-15.01.14:322][281]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 224 Packages Remain 158 Total 382
+[2018.11.08-15.01.14:322][281]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 224 Packages Remain 157 Total 381
+[2018.11.08-15.01.14:322][281]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 225 Packages Remain 156 Total 381
+[2018.11.08-15.01.14:322][281]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 225 Packages Remain 155 Total 380
+[2018.11.08-15.01.14:322][281]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 225 Packages Remain 154 Total 379
+[2018.11.08-15.01.14:322][281]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 225 Packages Remain 153 Total 378
+[2018.11.08-15.01.14:339][282]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 226 Packages Remain 152 Total 378
+[2018.11.08-15.01.14:339][282]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 226 Packages Remain 151 Total 377
+[2018.11.08-15.01.14:339][282]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 226 Packages Remain 151 Total 377
+[2018.11.08-15.01.14:339][282]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: Shoot_Sprites (BGRA8, 384X64)
+[2018.11.08-15.01.14:339][282]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 229 Packages Remain 150 Total 379
+[2018.11.08-15.01.14:357][283]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 230 Packages Remain 149 Total 379
+[2018.11.08-15.01.14:357][283]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 231 Packages Remain 148 Total 379
+[2018.11.08-15.01.14:357][283]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 232 Packages Remain 147 Total 379
+[2018.11.08-15.01.14:357][283]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 232 Packages Remain 146 Total 378
+[2018.11.08-15.01.14:357][283]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: Run_Sprites (BGRA8, 384X64)
+[2018.11.08-15.01.14:357][283]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 234 Packages Remain 145 Total 379
+[2018.11.08-15.01.14:372][284]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 235 Packages Remain 144 Total 379
+[2018.11.08-15.01.14:372][284]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 236 Packages Remain 143 Total 379
+[2018.11.08-15.01.14:372][284]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 237 Packages Remain 142 Total 379
+[2018.11.08-15.01.14:372][284]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 238 Packages Remain 141 Total 379
+[2018.11.08-15.01.14:372][284]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 239 Packages Remain 140 Total 379
+[2018.11.08-15.01.14:372][284]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 239 Packages Remain 139 Total 378
+[2018.11.08-15.01.14:389][285]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: Jump_Sprite (BGRA8, 384X64)
+[2018.11.08-15.01.14:389][285]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 241 Packages Remain 138 Total 379
+[2018.11.08-15.01.14:389][285]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 242 Packages Remain 137 Total 379
+[2018.11.08-15.01.14:389][285]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 243 Packages Remain 136 Total 379
+[2018.11.08-15.01.14:389][285]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 244 Packages Remain 135 Total 379
+[2018.11.08-15.01.14:405][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 245 Packages Remain 134 Total 379
+[2018.11.08-15.01.14:405][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 245 Packages Remain 133 Total 378
+[2018.11.08-15.01.14:405][286]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: Idle_Sprites (BGRA8, 384X64)
+[2018.11.08-15.01.14:405][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 247 Packages Remain 132 Total 379
+[2018.11.08-15.01.14:405][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 248 Packages Remain 131 Total 379
+[2018.11.08-15.01.14:421][287]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 249 Packages Remain 130 Total 379
+[2018.11.08-15.01.14:421][287]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 249 Packages Remain 129 Total 378
+[2018.11.08-15.01.14:421][287]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 249 Packages Remain 128 Total 377
+[2018.11.08-15.01.14:421][287]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 250 Packages Remain 127 Total 377
+[2018.11.08-15.01.14:421][287]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 251 Packages Remain 126 Total 377
+[2018.11.08-15.01.14:421][287]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 252 Packages Remain 125 Total 377
+[2018.11.08-15.01.14:438][288]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 253 Packages Remain 124 Total 377
+[2018.11.08-15.01.14:438][288]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 253 Packages Remain 123 Total 376
+[2018.11.08-15.01.14:457][289]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: Respawn_Animation_ (BGRA8, 384X64)
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 122 Total 384
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 121 Total 383
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 120 Total 382
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 119 Total 381
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 118 Total 380
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 117 Total 379
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 116 Total 378
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 115 Total 377
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 114 Total 376
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 113 Total 375
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 112 Total 374
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 111 Total 373
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 110 Total 372
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 109 Total 371
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 108 Total 370
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 107 Total 369
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 106 Total 368
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 105 Total 367
+[2018.11.08-15.01.14:458][289]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 262 Packages Remain 104 Total 366
+[2018.11.08-15.01.14:473][290]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 264 Packages Remain 103 Total 367
+[2018.11.08-15.01.14:473][290]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 264 Packages Remain 102 Total 366
+[2018.11.08-15.01.14:473][290]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 264 Packages Remain 101 Total 365
+[2018.11.08-15.01.14:490][291]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 265 Packages Remain 100 Total 365
+[2018.11.08-15.01.14:490][291]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 265 Packages Remain 99 Total 364
+[2018.11.08-15.01.14:490][291]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 265 Packages Remain 98 Total 363
+[2018.11.08-15.01.14:490][291]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 265 Packages Remain 97 Total 362
+[2018.11.08-15.01.14:490][291]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 266 Packages Remain 96 Total 362
+[2018.11.08-15.01.14:490][291]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 267 Packages Remain 95 Total 362
+[2018.11.08-15.01.14:490][291]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 269 Packages Remain 94 Total 363
+[2018.11.08-15.01.14:490][291]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 269 Packages Remain 93 Total 362
+[2018.11.08-15.01.14:490][291]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 271 Packages Remain 92 Total 363
+[2018.11.08-15.01.14:490][291]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 271 Packages Remain 91 Total 362
+[2018.11.08-15.01.14:490][291]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 271 Packages Remain 90 Total 361
+[2018.11.08-15.01.14:490][291]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 271 Packages Remain 89 Total 360
+[2018.11.08-15.01.14:490][291]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 271 Packages Remain 88 Total 359
+[2018.11.08-15.01.14:490][291]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 271 Packages Remain 87 Total 358
+[2018.11.08-15.01.14:490][291]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 271 Packages Remain 86 Total 357
+[2018.11.08-15.01.14:490][291]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 271 Packages Remain 85 Total 356
+[2018.11.08-15.01.14:506][292]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 272 Packages Remain 84 Total 356
+[2018.11.08-15.01.14:506][292]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 274 Packages Remain 83 Total 357
+[2018.11.08-15.01.14:507][292]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 275 Packages Remain 82 Total 357
+[2018.11.08-15.01.14:507][292]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 275 Packages Remain 81 Total 356
+[2018.11.08-15.01.14:507][292]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 275 Packages Remain 80 Total 355
+[2018.11.08-15.01.14:521][293]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 276 Packages Remain 79 Total 355
+[2018.11.08-15.01.14:521][293]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 276 Packages Remain 78 Total 354
+[2018.11.08-15.01.14:521][293]UATHelper: Packaging (Windows (64-bit)):   LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Checkpoint...
+[2018.11.08-15.01.14:555][295]UATHelper: Packaging (Windows (64-bit)):   LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 121200 while cooking SoundWave /Game/Final_Project_Content/Sound_Music/Checkpoint.Checkpoint.
+[2018.11.08-15.01.14:555][295]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 277 Packages Remain 77 Total 354
+[2018.11.08-15.01.14:571][296]UATHelper: Packaging (Windows (64-bit)):   LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Background_Ambience...
+[2018.11.08-15.01.15:454][349]UATHelper: Packaging (Windows (64-bit)):   LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 9223200 while cooking SoundWave /Game/Final_Project_Content/Sound_Music/Background_Ambience.Background_Ambience.
+[2018.11.08-15.01.15:454][349]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 278 Packages Remain 76 Total 354
+[2018.11.08-15.01.15:471][350]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 279 Packages Remain 75 Total 354
+[2018.11.08-15.01.15:471][350]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 279 Packages Remain 74 Total 353
+[2018.11.08-15.01.15:471][350]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 279 Packages Remain 73 Total 352
+[2018.11.08-15.01.15:471][350]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 279 Packages Remain 72 Total 351
+[2018.11.08-15.01.15:471][350]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 279 Packages Remain 71 Total 350
+[2018.11.08-15.01.15:471][350]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 279 Packages Remain 70 Total 349
+[2018.11.08-15.01.15:521][353]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 280 Packages Remain 69 Total 349
+[2018.11.08-15.01.15:521][353]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 280 Packages Remain 68 Total 348
+[2018.11.08-15.01.15:521][353]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 280 Packages Remain 67 Total 347
+[2018.11.08-15.01.15:521][353]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 280 Packages Remain 66 Total 346
+[2018.11.08-15.01.15:521][353]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 280 Packages Remain 65 Total 345
+[2018.11.08-15.01.15:521][353]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 280 Packages Remain 64 Total 344
+[2018.11.08-15.01.15:539][354]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 281 Packages Remain 63 Total 344
+[2018.11.08-15.01.15:539][354]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 281 Packages Remain 62 Total 343
+[2018.11.08-15.01.15:540][354]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 281 Packages Remain 61 Total 342
+[2018.11.08-15.01.15:554][355]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 282 Packages Remain 60 Total 342
+[2018.11.08-15.01.15:554][355]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 282 Packages Remain 59 Total 341
+[2018.11.08-15.01.15:555][355]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 282 Packages Remain 58 Total 340
+[2018.11.08-15.01.15:555][355]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 283 Packages Remain 57 Total 340
+[2018.11.08-15.01.15:555][355]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 284 Packages Remain 56 Total 340
+[2018.11.08-15.01.15:572][356]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 285 Packages Remain 55 Total 340
+[2018.11.08-15.01.15:572][356]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 286 Packages Remain 54 Total 340
+[2018.11.08-15.01.15:572][356]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 286 Packages Remain 54 Total 340
+[2018.11.08-15.01.15:572][356]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 286 Packages Remain 54 Total 340
+[2018.11.08-15.01.15:590][357]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 286 Packages Remain 54 Total 340
+[2018.11.08-15.01.15:590][357]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 286 Packages Remain 53 Total 339
+[2018.11.08-15.01.15:590][357]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 286 Packages Remain 52 Total 338
+[2018.11.08-15.01.15:590][357]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 290 Packages Remain 51 Total 341
+[2018.11.08-15.01.15:605][358]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 291 Packages Remain 50 Total 341
+[2018.11.08-15.01.15:605][358]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 292 Packages Remain 49 Total 341
+[2018.11.08-15.01.15:605][358]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 293 Packages Remain 48 Total 341
+[2018.11.08-15.01.15:605][358]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 294 Packages Remain 47 Total 341
+[2018.11.08-15.01.15:605][358]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 295 Packages Remain 46 Total 341
+[2018.11.08-15.01.15:621][359]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 296 Packages Remain 45 Total 341
+[2018.11.08-15.01.15:621][359]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 297 Packages Remain 44 Total 341
+[2018.11.08-15.01.15:621][359]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 298 Packages Remain 43 Total 341
+[2018.11.08-15.01.15:621][359]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 299 Packages Remain 42 Total 341
+[2018.11.08-15.01.15:621][359]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 300 Packages Remain 41 Total 341
+[2018.11.08-15.01.15:638][360]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 301 Packages Remain 40 Total 341
+[2018.11.08-15.01.15:638][360]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 302 Packages Remain 39 Total 341
+[2018.11.08-15.01.15:638][360]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 303 Packages Remain 38 Total 341
+[2018.11.08-15.01.15:638][360]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 304 Packages Remain 37 Total 341
+[2018.11.08-15.01.15:654][361]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 305 Packages Remain 36 Total 341
+[2018.11.08-15.01.15:654][361]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 306 Packages Remain 35 Total 341
+[2018.11.08-15.01.15:654][361]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 307 Packages Remain 34 Total 341
+[2018.11.08-15.01.15:654][361]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 308 Packages Remain 33 Total 341
+[2018.11.08-15.01.15:654][361]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 309 Packages Remain 32 Total 341
+[2018.11.08-15.01.15:671][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 310 Packages Remain 31 Total 341
+[2018.11.08-15.01.15:671][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 311 Packages Remain 30 Total 341
+[2018.11.08-15.01.15:671][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 312 Packages Remain 29 Total 341
+[2018.11.08-15.01.15:671][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 313 Packages Remain 28 Total 341
+[2018.11.08-15.01.15:687][363]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 314 Packages Remain 27 Total 341
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 316 Packages Remain 26 Total 342
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 316 Packages Remain 25 Total 341
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 24 Total 341
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 23 Total 340
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 22 Total 339
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 21 Total 338
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 20 Total 337
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 19 Total 336
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 18 Total 335
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 17 Total 334
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 16 Total 333
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 15 Total 332
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 14 Total 331
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 13 Total 330
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 12 Total 329
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 11 Total 328
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 10 Total 327
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 9 Total 326
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 8 Total 325
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 7 Total 324
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 6 Total 323
+[2018.11.08-15.01.15:704][364]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 5 Total 322
+[2018.11.08-15.01.15:737][366]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 318 Packages Remain 4 Total 322
+[2018.11.08-15.01.15:737][366]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 318 Packages Remain 3 Total 321
+[2018.11.08-15.01.15:737][366]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 318 Packages Remain 2 Total 320
+[2018.11.08-15.01.15:737][366]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 318 Packages Remain 1 Total 319
+[2018.11.08-15.01.15:754][367]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2018.11.08-15.01.15:754][367]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2018.11.08-15.01.15:754][367]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2018.11.08-15.01.15:803][370]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2018.11.08-15.01.15:820][371]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 309, size is 186.01kb
+[2018.11.08-15.01.15:820][371]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2018.11.08-15.01.15:820][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 2.680457s total time 5.497670
+[2018.11.08-15.01.15:820][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 620 Peak Used phsical 568
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000000ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   StartCookByTheBookTime: 2730.920563ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GenerateAssetRegistryTime: 1469.256783ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CleanSandboxTime: 46.915755ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 12.949344ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CollectFilesToCook: 376.580989ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CookModificationDelegate: 0.026437ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GetObjectsWithOuter: 0.080695ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GeneratePackageNames: 6.002557ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         UnsolicitedPackageAlreadyCooked: 0.014372ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PackageCast: 0.029672ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         FullGCAssetsContains: 0.006948ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         AddUnassignedPackageToManifest: 0.000000ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         GetCachedName: 5.895525ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         AddToPackageList: 5.737279ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GenerateLongPackageName: 0.943769ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   TickCookOnTheSide: 2626.964945ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     ShouldCook: 0.061221ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     LoadPackage: 1587.489959ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CallBeginCacheForCookedPlatformData: 75.706540ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     PostLoadPackageFixup: 10.904619ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     UnsolicitedMarkup: 10.799799ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GetObjectsWithOuter: 1.686258ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GeneratePackageNames: 8.420633ms
+[2018.11.08-15.01.15:821][371]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         UnsolicitedPackageAlreadyCooked: 5.698234ms
+[2018.11.08-15.01.15:838][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PackageCast: 1.084013ms
+[2018.11.08-15.01.15:838][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         FullGCAssetsContains: 0.886640ms
+[2018.11.08-15.01.15:838][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         AddUnassignedPackageToManifest: 0.000000ms
+[2018.11.08-15.01.15:838][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         GetCachedName: 2.150148ms
+[2018.11.08-15.01.15:838][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         AddToPackageList: 0.254141ms
+[2018.11.08-15.01.15:838][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingPackages: 935.413254ms
+[2018.11.08-15.01.15:838][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PrecachePlatformDataForNextPackage: 9.699762ms
+[2018.11.08-15.01.15:838][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PrecachePlatformDataForNextNextPackage: 311.686270ms
+[2018.11.08-15.01.15:838][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveCookedPackage: 599.055378ms
+[2018.11.08-15.01.15:838][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         LoadPackage: 0.602422ms
+[2018.11.08-15.01.15:838][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         GEditorSavePackage: 579.738544ms
+[2018.11.08-15.01.15:838][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           ConvertingBlueprints: 12.443809ms
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           VerifyCanCookPackage: 1.564257ms
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ClearAllCachedCookedPlatformData: 2.150480ms
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       EnqueueUnsavedPackages: 0.135878ms
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   GeneratingBlueprintAssets: 4.804177ms
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   SavingCurrentIniSettings: 41.270299ms
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     ProcessingAccessedStrings: 12.723491ms
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   SavingAssetRegistry: 33.793887ms
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     BuildChunkManifest: 13.865750ms
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SaveManifests: 0.240695ms
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SaveRealAssetRegistry: 17.309697ms
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     WriteCookerOpenOrder: 2.304465ms
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: IntStats:
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   LoadPackage=107
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   SavedPackage=318
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.003466s to verify the EDL loading graph.
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000001
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000149
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=219
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=2.063828
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=318
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=0.541301
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.082382
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.043942
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.001182
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.002020
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000234
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.077609
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.100708
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.009457
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.001509
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=72.244444
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2018.11.08-15.01.15:839][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=11.120835
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=5.607454
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=5.512832
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=2.731571
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000029
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=2.767885
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=1.590968
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=0.599675
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.394162
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.009795
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000024
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000014
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000020
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000002
+[2018.11.08-15.01.15:840][372]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits  =       367
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets     =       374
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalHitPct   =  0.981283
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalHitPct   =  0.096257
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedHitPct  =  0.000000
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherHitPct   =  0.885027
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MissPct       =  0.018717
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.16                   0.16             0          6.06
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.07                   0.07             0          5.51
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             0.04                   0.00             0         15.93
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.03                   0.03             0          3.20
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.02                   0.02             0          1.50
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.01                   0.01             5         44.68
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.00                   0.00             0          0.03
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             2          1.67
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 0 warning(s)
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   
+[2018.11.08-15.01.15:854][373]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  5.53 seconds
+[2018.11.08-15.01.16:538][414]UATHelper: Packaging (Windows (64-bit)): Took 11.9172127s to run UE4Editor-Cmd.exe, ExitCode=0
+[2018.11.08-15.01.16:556][415]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2018.11.08-15.01.16:556][415]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2018.11.08-15.01.16:637][420]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\BaseEditor.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\BaseEditorKeyBindings.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\BaseEditorLayout.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\BaseEditorSettings.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\BaseLightmass.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\Category.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\Editor.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\EditorTutorials.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\Engine.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\Keywords.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\PortableObjectExport.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\PortableObjectImport.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\PropertyNames.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\RepairData.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\ResourceFileGen.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\ToolTips.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\WordCount.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Users\Luis\Documents\GitHub\New_Prototype\BP_Cplusplus\Config\DefaultEditor.ini
+[2018.11.08-15.01.16:670][422]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Users\Luis\Documents\GitHub\New_Prototype\BP_Cplusplus\Config\DefaultEditorPerProjectUserSettings.ini
+[2018.11.08-15.01.16:737][426]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: C:\Users\Luis\Documents\GitHub\New_Prototype\BP_Cplusplus\Saved\StagedBuilds\WindowsNoEditor
+[2018.11.08-15.01.16:737][426]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2018.11.08-15.01.16:854][433]UATHelper: Packaging (Windows (64-bit)): Running UnrealPak *******
+[2018.11.08-15.01.16:854][433]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\Win64\UnrealPak.exe C:\Users\Luis\Documents\GitHub\New_Prototype\BP_Cplusplus\Saved\StagedBuilds\WindowsNoEditor\BP_Cplusplus\Content\Paks\BP_Cplusplus-WindowsNoEditor.pak -create="C:\Users\Luis\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.20\PakList_BP_Cplusplus-WindowsNoEditor.txt" -abslog="C:\Users\Luis\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.20\PakLog_BP_Cplusplus-WindowsNoEditor.log" -cryptokeys="C:\Users\Luis\Documents\GitHub\New_Prototype\BP_Cplusplus\Saved\Cooked\WindowsNoEditor\BP_Cplusplus\Metadata\Crypto.json" -installed -order=C:\Users\Luis\Documents\GitHub\New_Prototype\BP_Cplusplus\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log -UTF8Output -multiprocess -patchpaddingalign=2048
+[2018.11.08-15.01.17:323][461]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2018.11.08-15.01.17:323][461]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\Luis\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.20\PakList_BP_Cplusplus-WindowsNoEditor.txt
+[2018.11.08-15.01.17:355][463]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1471 entries to add to pak file.
+[2018.11.08-15.01.17:355][463]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file C:\Users\Luis\Documents\GitHub\New_Prototype\BP_Cplusplus\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2018.11.08-15.01.17:355][463]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file C:\Users\Luis\Documents\GitHub\New_Prototype\BP_Cplusplus\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2018.11.08-15.01.17:355][463]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2018.11.08-15.01.17:355][463]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 1471 files in 0.01s.
+[2018.11.08-15.01.17:987][501]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1471 files, 98940798 bytes total, time 0.63s.
+[2018.11.08-15.01.17:987][501]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2018.11.08-15.01.17:987][501]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 0.669538 seconds
+[2018.11.08-15.01.18:454][529]UATHelper: Packaging (Windows (64-bit)): Took 1.6017082s to run UnrealPak.exe, ExitCode=0
+[2018.11.08-15.01.18:454][529]UATHelper: Packaging (Windows (64-bit)): UnrealPak Done *******
+[2018.11.08-15.01.18:471][530]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: C:\Users\Luis\Documents\GitHub\New_Prototype\BP_Cplusplus\Saved\StagedBuilds\WindowsNoEditor
+[2018.11.08-15.01.18:889][555]UATHelper: Packaging (Windows (64-bit)): Copying DebugFiles to staging directory: C:\Users\Luis\Documents\GitHub\New_Prototype\BP_Cplusplus\Saved\StagedBuilds\WindowsNoEditor
+[2018.11.08-15.01.19:287][579]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2018.11.08-15.01.19:304][580]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2018.11.08-15.01.19:588][597]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2018.11.08-15.01.19:588][597]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2018.11.08-15.01.19:588][597]UATHelper: Packaging (Windows (64-bit)): Archiving to C:/Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus
+[2018.11.08-15.01.20:153][631]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2018.11.08-15.01.20:153][631]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2018.11.08-15.01.20:170][632]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2018.11.08-15.01.22:523][772]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.08-15.05.27:297][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Third_Lvl" FILE="../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Third_Lvl.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.08-15.05.27:465][510]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Lvl1EEA6B8A4EC79D306366AB87F23A6ACC.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Third_Lvl.umap'
+[2018.11.08-15.05.28:367][557]LogSlate: Window 'BP_Cplusplus - Unreal Editor' being destroyed
+[2018.11.08-15.05.28:368][557]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.08-15.05.28:612][558]Cmd: QUIT_EDITOR
+[2018.11.08-15.05.28:776][558]LogExit: Preparing to exit.
+[2018.11.08-15.05.29:259][558]LogExit: Editor shut down
+[2018.11.08-15.05.29:260][558]LogExit: Transaction tracking system shut down
+[2018.11.08-15.05.29:476][558]LogExit: Object subsystem successfully closed.
+[2018.11.08-15.05.29:501][558]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.08-15.05.29:504][558]LogD3D11RHI: Shutdown
+[2018.11.08-15.05.29:504][558]LogD3D11RHI: CleanupD3DDevice
+[2018.11.08-15.05.29:506][558]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.08-15.05.29:526][558]LogModuleManager: Shutting down and abandoning module UATHelper (618)
+[2018.11.08-15.05.29:526][558]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2018.11.08-15.05.29:526][558]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2018.11.08-15.05.29:526][558]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2018.11.08-15.05.29:526][558]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.11.08-15.05.29:526][558]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.11.08-15.05.29:526][558]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.11.08-15.05.29:527][558]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.11.08-15.05.29:528][558]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.11.08-15.05.30:269][558]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.11.08-15.05.30:270][558]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.11.08-15.05.30:325][558]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.11.08-15.05.30:325][558]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.11.08-15.05.30:325][558]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.11.08-15.05.30:325][558]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.11.08-15.05.30:325][558]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.11.08-15.05.30:325][558]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.11.08-15.05.30:325][558]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.11.08-15.05.30:325][558]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.11.08-15.05.30:325][558]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.11.08-15.05.30:325][558]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.11.08-15.05.30:329][558]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.11.08-15.05.30:329][558]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.11.08-15.05.30:329][558]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.11.08-15.05.30:329][558]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.11.08-15.05.30:330][558]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.11.08-15.05.30:330][558]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.11.08-15.05.30:330][558]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.11.08-15.05.30:330][558]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.11.08-15.05.30:330][558]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.11.08-15.05.30:330][558]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.11.08-15.05.30:330][558]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.11.08-15.05.30:330][558]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.11.08-15.05.30:330][558]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.11.08-15.05.30:330][558]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.11.08-15.05.30:330][558]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.11.08-15.05.30:330][558]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.11.08-15.05.30:330][558]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.11.08-15.05.30:330][558]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.11.08-15.05.30:330][558]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.11.08-15.05.30:330][558]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.11.08-15.05.30:330][558]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.11.08-15.05.30:330][558]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.11.08-15.05.30:392][558]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.11.08-15.05.30:392][558]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.11.08-15.05.30:392][558]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.11.08-15.05.30:392][558]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.11.08-15.05.30:392][558]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.11.08-15.05.30:392][558]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.11.08-15.05.30:392][558]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.11.08-15.05.30:392][558]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.11.08-15.05.30:392][558]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.11.08-15.05.30:392][558]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.11.08-15.05.30:392][558]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.11.08-15.05.30:392][558]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.11.08-15.05.30:392][558]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.11.08-15.05.30:392][558]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.11.08-15.05.30:392][558]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.11.08-15.05.30:392][558]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.11.08-15.05.30:392][558]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.11.08-15.05.30:392][558]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.11.08-15.05.30:396][558]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.11.08-15.05.30:396][558]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.11.08-15.05.30:396][558]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.11.08-15.05.30:396][558]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.11.08-15.05.30:396][558]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.11.08-15.05.30:396][558]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.11.08-15.05.30:396][558]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.11.08-15.05.30:396][558]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.11.08-15.05.30:396][558]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.11.08-15.05.30:396][558]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.11.08-15.05.30:396][558]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.11.08-15.05.30:396][558]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.11.08-15.05.30:396][558]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.11.08-15.05.30:396][558]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.11.08-15.05.30:396][558]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.11.08-15.05.30:397][558]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.11.08-15.05.30:398][558]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.11.08-15.05.30:498][558]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.11.08-15.05.30:599][558]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.11.08-15.05.30:599][558]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.11.08-15.05.30:599][558]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.11.08-15.05.30:599][558]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.11.08-15.05.30:599][558]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.11.08-15.05.30:599][558]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.11.08-15.05.30:599][558]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.11.08-15.05.30:600][558]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.11.08-15.05.30:600][558]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.11.08-15.05.30:600][558]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.11.08-15.05.30:600][558]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.11.08-15.05.30:600][558]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.11.08-15.05.30:603][558]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.11.08-15.05.30:603][558]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.11.08-15.05.30:603][558]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.11.08-15.05.30:603][558]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.11.08-15.05.30:603][558]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.11.08-15.05.30:603][558]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.11.08-15.05.30:606][558]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.11.08-15.05.30:612][558]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.11.08-15.05.30:612][558]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.11.08-15.05.30:612][558]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.11.08-15.05.30:612][558]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.11.08-15.05.30:612][558]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.11.08-15.05.30:612][558]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.11.08-15.05.30:612][558]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.11.08-15.05.30:612][558]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.11.08-15.05.30:612][558]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.11.08-15.05.30:612][558]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.11.08-15.05.30:612][558]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.11.08-15.05.30:612][558]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.11.08-15.05.30:612][558]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.11.08-15.05.30:612][558]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.11.08-15.05.30:613][558]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.11.08-15.05.30:613][558]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.11.08-15.05.30:613][558]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.11.08-15.05.30:613][558]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.11.08-15.05.30:613][558]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.11.08-15.05.30:613][558]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.11.08-15.05.30:616][558]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.11.08-15.05.30:616][558]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.11.08-15.05.30:616][558]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.11.08-15.05.30:616][558]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.11.08-15.05.30:616][558]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.11.08-15.05.30:616][558]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.11.08-15.05.30:616][558]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.11.08-15.05.30:616][558]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.11.08-15.05.30:616][558]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.11.08-15.05.30:616][558]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.11.08-15.05.30:616][558]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.11.08-15.05.30:616][558]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.11.08-15.05.30:616][558]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.11.08-15.05.30:616][558]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.11.08-15.05.30:616][558]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.11.08-15.05.30:617][558]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.11.08-15.05.30:617][558]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.11.08-15.05.30:617][558]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.11.08-15.05.30:689][558]LogDerivedDataCache: Shutdown
+[2018.11.08-15.05.30:689][558]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.11.08-15.05.30:689][558]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.11.08-15.05.30:689][558]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.11.08-15.05.30:689][558]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.11.08-15.05.30:689][558]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.11.08-15.05.30:689][558]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.11.08-15.05.30:689][558]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.11.08-15.05.30:689][558]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.11.08-15.05.30:689][558]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.11.08-15.05.30:689][558]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.11.08-15.05.30:689][558]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.11.08-15.05.30:689][558]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.11.08-15.05.30:689][558]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.11.08-15.05.30:690][558]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.11.08-15.05.30:690][558]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.11.08-15.05.30:690][558]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.11.08-15.05.30:690][558]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.11.08-15.05.30:690][558]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.11.08-15.05.30:690][558]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.11.08-15.05.30:690][558]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.11.08-15.05.30:690][558]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.11.08-15.05.30:690][558]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.11.08-15.05.30:690][558]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.11.08-15.05.30:691][558]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.11.08-15.05.30:691][558]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.11.08-15.05.30:692][558]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.11.08-15.05.30:692][558]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.11.08-15.05.30:702][558]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.11.08-15.05.30:702][558]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.11.08-15.05.30:702][558]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.11.08-15.05.30:702][558]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.11.08-15.05.30:702][558]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.11.08-15.05.30:702][558]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.11.08-15.05.30:702][558]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.11.08-15.05.30:702][558]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.11.08-15.05.30:702][558]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.11.08-15.05.30:702][558]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.11.08-15.05.30:702][558]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.11.08-15.05.30:702][558]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.11.08-15.05.30:703][558]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.11.08-15.05.30:703][558]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.11.08-15.05.30:703][558]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.11.08-15.05.30:703][558]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.11.08-15.05.30:703][558]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.11.08-15.05.30:703][558]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.11.08-15.05.30:703][558]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.08-15.05.30:703][558]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.08-15.05.30:731][558]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.08-15.05.30:731][558]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.08-15.05.30:731][558]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B01CC0E72-44B3-A5C7-6E0E-2BA5082D8FC3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=d9969f954edac1b20f345b98e41e132f%7C200649e9e15c431388713df8e6b34389%7Ce62061a5-428f-41c4-8d88-77cb087d6a11&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.08-15.05.30:747][558]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.08-15.05.30:748][558]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.08-15.05.30:748][558]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.08-15.05.30:748][558]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.08-15.05.30:748][558]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.08-15.05.30:748][558]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.08-15.05.30:748][558]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.08-15.05.30:748][558]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.08-15.05.30:748][558]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.08-15.05.30:748][558]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.08-15.05.30:748][558]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.08-15.05.30:748][558]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.08-15.05.30:748][558]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.08-15.05.30:748][558]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.08-15.05.30:748][558]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.08-15.05.30:748][558]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.08-15.05.30:748][558]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.08-15.05.30:748][558]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.08-15.05.30:748][558]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.08-15.05.30:749][558]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.08-15.05.30:749][558]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.08-15.05.30:749][558]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.08-15.05.30:749][558]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.08-15.05.30:749][558]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.08-15.05.30:749][558]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.08-15.05.30:749][558]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.08-15.05.30:749][558]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.08-15.05.30:749][558]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.08-15.05.30:749][558]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.08-15.05.30:749][558]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.08-15.05.30:757][558]LogExit: Exiting.
+[2018.11.08-15.05.30:774][558]Log file closed, 11/08/18 09:05:30
