@@ -444,3 +444,11 @@ LogInit: Object subsystem initialized
 [2018.11.14-21.57.25:334][179]BlueprintLog: New page: Compile BP_Blast
 [2018.11.14-21.57.25:894][202]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_BlastC85CDB5B43F1A384EDE8DE9B3CACE911.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Attacks/BP_Blast.uasset'
 [2018.11.14-21.57.44:316][304]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_Blast855E80F84786849D6451AB90D966CE11.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Attacks/BP_Blast.uasset'
+[2018.11.14-21.58.15:678][871]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Lvl_Auto1D687C57B449A3134637596A7C75B293A.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Maps/First_Lvl_Auto1.umap'
+[2018.11.14-21.58.15:681][871]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/First_Lvl' took 0.182
+[2018.11.14-21.58.15:681][871]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.182
+[2018.11.14-21.58.15:686][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/blast_bullet] ([1] browsable assets)...
+[2018.11.14-21.58.15:691][871]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Final_Project_Content/Sprites/blast_bullet.blast_bullet]
+[2018.11.14-21.58.15:691][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/blast_bullet]
+[2018.11.14-21.58.15:694][871]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/blast_bullet_Auto12CBE029545D87FC65BEB0D8BA3C105F5.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/blast_bullet_Auto1.uasset'
+[2018.11.14-21.58.15:695][871]LogFileHelpers: Auto-saving content packages took 0.010
