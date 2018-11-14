@@ -997,3 +997,33 @@ LogInit: Object subsystem initialized
 [2018.11.13-17.29.16:748][700]LogPlayLevel: Display: Shutting down PIE online subsystems
 [2018.11.13-17.29.16:748][700]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
 [2018.11.13-17.29.16:898][707]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.11.13-17.34.20:649][786]LogTexture: Display: Building textures: Gun (BGRA8, 32X32)
+[2018.11.13-17.34.20:649][786]LogTexture: Display: Building textures: Turret (BGRA8, 64X64)
+[2018.11.13-17.34.20:649][786]LogTexture: Display: Building textures: Obstacles (BGRA8, 128X128)
+[2018.11.13-17.34.20:649][786]LogTexture: Display: Building textures: Floor_01 (BGRA8, 128X128)
+[2018.11.13-17.34.20:657][786]LogAIModule: Creating AISystem for world First_Lvl_Dup
+[2018.11.13-17.34.20:664][786]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/First_Lvl_Dup.First_Lvl_Dup
+[2018.11.13-17.34.20:696][786]Cmd: MAP LOAD FILE="../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl_Dup.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.13-17.34.20:696][786]LightingResults: New page: Lighting Build
+[2018.11.13-17.34.20:696][786]LoadErrors: New page: Loading map: First_Lvl_Dup.umap
+[2018.11.13-17.34.20:697][786]MapCheck: New page: Map Check
+[2018.11.13-17.34.20:697][786]LightingResults: New page: Lighting Build
+[2018.11.13-17.34.20:795][786]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.13-17.34.20:848][786]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.13-17.34.20:923][786]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74.49ms to complete.
+[2018.11.13-17.34.20:925][786]LogFileHelpers: Loading map 'First_Lvl_Dup' took 0.230
+[2018.11.13-17.36.49:061][877]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-17.36.53:949][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-17.38.06:610][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-17.38.20:182][832]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/Blueprints/Space_Ship.Space_Ship
+[2018.11.13-17.41.19:996][723]LogSlate: Window 'Save Content' being destroyed
+[2018.11.13-17.41.20:117][723]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Space_Ship82A060F840BF60B040835EB737D9CF97.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Space_Ship.uasset'
+[2018.11.13-17.41.20:386][723]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.13-17.41.20:446][723]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.13-17.41.20:507][723]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.13-17.41.20:595][723]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.13-17.41.20:656][723]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.13-17.41.20:703][723]LogSlate: Window 'XCP - Unreal Editor' being destroyed
+[2018.11.13-17.41.20:955][724]Cmd: QUIT_EDITOR
+[2018.11.13-17.41.21:142][724]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.13-17.41.21:175][724]LogExit: Preparing to exit.
