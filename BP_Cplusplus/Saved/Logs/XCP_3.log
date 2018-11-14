@@ -1323,3 +1323,18 @@ LogInit: Object subsystem initialized
 [2018.11.14-04.25.26:269][296]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{7bae4833-7f05-4c31-aeca-7a3fe86d1ee9} was removed. Shutting down audio device.
 [2018.11.14-04.25.26:269][296]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
 [2018.11.14-04.25.42:969][182]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.14-06.30.25:297][523]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.14-06.31.45:592][986]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{7bae4833-7f05-4c31-aeca-7a3fe86d1ee9} was removed. Shutting down audio device.
+[2018.11.14-06.31.45:593][986]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.11.14-15.08.12:786][815]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.14-15.57.52:180][365]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.14-17.10.09:278][707]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.14-17.10.10:430][707]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{7bae4833-7f05-4c31-aeca-7a3fe86d1ee9} was removed. Shutting down audio device.
+[2018.11.14-17.10.10:430][707]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.11.14-18.22.54:180][485]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.14-18.37.57:261][532]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.14-18.53.01:267][587]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.14-19.08.04:286][646]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.14-19.23.09:260][782]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.14-19.32.03:180][829]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.14-19.43.19:254][822]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
