@@ -1338,3 +1338,107 @@ LogInit: Object subsystem initialized
 [2018.11.14-19.23.09:260][782]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
 [2018.11.14-19.32.03:180][829]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
 [2018.11.14-19.43.19:254][822]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.14-19.44.31:775][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Third_Lvl" FILE="../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Third_Lvl.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.14-19.44.32:228][764]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Lvl9E0EB589428F1F8288E9ECBCAC905649.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Third_Lvl.umap'
+[2018.11.14-19.44.34:291][875]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/2DSideScrollerCharacter22F6E48349D2BADBA8D9419172761594.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter.uasset'
+[2018.11.14-19.44.35:873][967]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_Ammo1699C797344A927324CCE20A7EBC1445C.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Attacks/BP_Ammo1.uasset'
+[2018.11.14-19.44.37:351][ 49]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_Player_AmmoE612B9624D608970960BC8BC25D7232F.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Attacks/BP_Player_Ammo.uasset'
+[2018.11.14-19.44.38:878][137]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BossABFB59AB4EF6EC1FC9DFF697778581DF.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Enemies/Boss.uasset'
+[2018.11.14-19.44.40:731][245]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Boss1F7C971D248C99134AF0E90A6058ABBEC.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Enemies/Boss1.uasset'
+[2018.11.14-19.44.42:215][331]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_Boss_Attack5E84ADDD491F64DA4CA4AA83284CDAA3.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Attacks/BP_Boss_Attack.uasset'
+[2018.11.14-19.50.27:642][961]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.14-19.55.41:533][778]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Third_Lvl' took 0.053
+[2018.11.14-19.55.41:536][778]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Final_Project_Content/Blueprints/Enemies/Human_Enemy] ([1] browsable assets)...
+[2018.11.14-19.55.41:536][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Blueprints/Enemies/Human_Enemy]
+[2018.11.14-19.55.41:544][778]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Human_Enemy_Auto43494BC274AE3A3BBD08B6A97BEEA7AF4.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Blueprints/Enemies/Human_Enemy_Auto4.uasset'
+[2018.11.14-19.55.41:545][778]LogFileHelpers: Auto-saving content packages took 0.011
+[2018.11.14-20.02.39:720][ 74]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.14-20.02.39:779][ 74]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.11.14-20.02.39:780][ 74]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.14-20.02.39:800][ 74]LogPlayLevel: [PlayLevel] Compiling BP_Enemy_Eye before play...
+[2018.11.14-20.02.39:856][ 74]LogPlayLevel: [PlayLevel] Compiling BP_Enemy_Eye1 before play...
+[2018.11.14-20.02.39:888][ 74]LogPlayLevel: [PlayLevel] Compiling BP_Enemy_Eye2 before play...
+[2018.11.14-20.02.39:916][ 74]LogPlayLevel: [PlayLevel] Compiling BP_checkpoint before play...
+[2018.11.14-20.02.39:935][ 74]LogPlayLevel: [PlayLevel] Compiling Activate_2nd_Stage before play...
+[2018.11.14-20.02.39:962][ 74]LogPlayLevel: [PlayLevel] Compiling Space_Ship before play...
+[2018.11.14-20.02.39:998][ 74]LogPlayLevel: [PlayLevel] Compiling Activate_3rd_Stage before play...
+[2018.11.14-20.02.40:007][ 74]LogPlayLevel: [PlayLevel] Compiling BP_Ammo before play...
+[2018.11.14-20.02.40:021][ 74]LogPlayLevel: [PlayLevel] Compiling BossEnemy before play...
+[2018.11.14-20.02.40:037][ 74]LogPlayLevel: [PlayLevel] Compiling Boss_Health before play...
+[2018.11.14-20.02.40:089][ 74]LogPlayLevel: [PlayLevel] Compiling Health before play...
+[2018.11.14-20.02.40:108][ 74]LogPlayLevel: [PlayLevel] Compiling Ship_Health before play...
+[2018.11.14-20.02.40:152][ 74]LogPlayLevel: PlayLevel: Blueprint regeneration took 372 ms (12 blueprints)
+[2018.11.14-20.02.40:156][ 74]PIE: New page: PIE session: Third_Lvl (Nov 14, 2018, 8:02:40 AM)
+[2018.11.14-20.02.40:156][ 74]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Third_Lvl
+[2018.11.14-20.02.40:162][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005666s)
+[2018.11.14-20.02.40:175][ 74]LogAIModule: Creating AISystem for world Third_Lvl
+[2018.11.14-20.02.40:179][ 74]LogPlayLevel: PIE: World Init took: (0.016497s)
+[2018.11.14-20.02.40:179][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Third_Lvl.Third_Lvl to /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl (0.022570s)
+[2018.11.14-20.02.40:219][ 74]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.11.14-20.02.40:293][ 74]LogInit: FAudioDevice initialized.
+[2018.11.14-20.02.40:306][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.14-20.02.40:409][ 74]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.14-20.02.40:417][ 74]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl up for play (max tick rate 60) at 2018.11.14-14.02.40
+[2018.11.14-20.02.40:419][ 74]LogWorld: Bringing up level for play took: 0.006199
+[2018.11.14-20.02.40:451][ 74]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Third_Lvl 1.642
+[2018.11.14-20.02.40:453][ 74]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.11.14-20.03.18:875][376]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.11.14-20.03.18:875][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.14-20.03.18:891][376]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.14-20.03.18:934][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.14-20.03.18:935][376]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.11.14-20.03.19:193][383]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.11.14-20.05.02:573][584]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/Blueprints/Enemies/Human_Enemy.Human_Enemy
+[2018.11.14-20.05.37:930][675]BlueprintLog: New page: Compile Human_Enemy
+[2018.11.14-20.05.38:539][701]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Human_Enemy2D56E7D343873FD3D34548B1C07F8018.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Enemies/Human_Enemy.uasset'
+[2018.11.14-20.05.56:239][740]LogEditorViewport: Clicking on Actor (LMB): Boss1_C (Boss1)
+[2018.11.14-20.05.58:472][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.14-20.07.20:268][770]LogEditorViewport: Clicking Background
+[2018.11.14-20.07.21:735][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.14-20.07.34:933][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.14-20.07.56:161][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.14-20.08.08:528][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.14-20.08.25:362][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.14-20.08.25:461][651]Cmd: MODE GRID=0
+[2018.11.14-20.08.28:472][830]Cmd: MODE GRID=1
+[2018.11.14-20.08.39:374][483]BlueprintLog: New page: Compile BP_Ammo1
+[2018.11.14-20.08.40:058][510]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_Ammo1AF885791426AFD64FB2C9C805CE8FEAA.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Attacks/BP_Ammo1.uasset'
+[2018.11.14-20.09.28:118][392]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Final_Project_Content/Sprites/Using/Bullet_Sprite.Bullet_Sprite
+[2018.11.14-20.09.28:265][393]LogRenderer: Reallocating scene render targets to support 1524x880 Format 10 NumSamples 1 (Frame:1).
+[2018.11.14-20.09.56:685][ 95]Cmd: TRANSACTION UNDO
+[2018.11.14-20.09.56:685][ 95]LogEditorTransaction: Undo Modification in Viewport
+[2018.11.14-20.09.57:052][117]Cmd: TRANSACTION UNDO
+[2018.11.14-20.09.57:052][117]LogEditorTransaction: Undo Modification in Viewport
+[2018.11.14-20.09.57:560][147]Cmd: TRANSACTION UNDO
+[2018.11.14-20.09.57:560][147]LogEditorTransaction: Undo Modification in Viewport
+[2018.11.14-20.09.59:945][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.14-20.10.00:128][296]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Bullet_Sprite61A742F44C723EEAE418B2B0E56F4060.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Using/Bullet_Sprite.uasset'
+[2018.11.14-20.10.00:128][296]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Using/Bullet_Sprite.uasset', retrying in .5s...
+[2018.11.14-20.10.00:630][296]LogFileManager: Error: Error deleting file '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Using/Bullet_Sprite.uasset'.
+[2018.11.14-20.10.00:630][296]LogSavePackage: Error: Error saving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Using/Bullet_Sprite.uasset'
+[2018.11.14-20.10.04:368][296]LogSlate: Window 'Message' being destroyed
+[2018.11.14-20.10.04:375][296]EditorErrors: New page: Save Output
+[2018.11.14-20.10.04:375][296]EditorErrors: Warning: Error saving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Using/Bullet_Sprite.uasset'
+[2018.11.14-20.10.06:728][437]LogSlate: Window 'Message Log' being destroyed
+[2018.11.14-20.10.06:733][437]LogSlate: Window 'Message Log' being destroyed
+[2018.11.14-20.10.09:781][530]LogSlate: Window 'Save Content' being destroyed
+[2018.11.14-20.10.09:855][530]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/2DSideScrollerGameMode98DB66A6465D037E57297984771ABF04.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
+[2018.11.14-20.10.09:856][530]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset', retrying in .5s...
+[2018.11.14-20.10.10:356][530]LogFileManager: Error: Error deleting file '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'.
+[2018.11.14-20.10.10:356][530]LogSavePackage: Error: Error saving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
+[2018.11.14-20.10.12:625][530]LogSlate: Window 'Message' being destroyed
+[2018.11.14-20.10.12:632][530]EditorErrors: New page: Save Output
+[2018.11.14-20.10.12:632][530]EditorErrors: Warning: Error saving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
+[2018.11.14-20.10.13:851][603]LogSlate: Window 'Message Log' being destroyed
+[2018.11.14-20.10.13:856][603]LogSlate: Window 'Message Log' being destroyed
+[2018.11.14-20.10.16:103][662]LogSlate: Window 'Save Content' being destroyed
+[2018.11.14-20.10.16:185][662]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.14-20.10.16:263][662]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.14-20.10.16:377][662]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.14-20.10.16:473][662]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.14-20.10.16:559][662]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.14-20.10.16:664][662]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.14-20.10.16:776][662]LogSlate: Window 'XCP - Unreal Editor' being destroyed
+[2018.11.14-20.10.17:022][663]Cmd: QUIT_EDITOR
+[2018.11.14-20.10.17:823][663]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.14-20.10.17:839][663]LogExit: Preparing to exit.
