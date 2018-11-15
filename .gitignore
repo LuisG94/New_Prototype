@@ -3,3 +3,7 @@ DerivedDataCache/
 Intermediate/
 Saved/
 Logs/
+*.log
+*.ini
+*.bin
+
