@@ -335,3 +335,313 @@ LogInit: Object subsystem initialized
 [2018.11.19-06.22.30:475][  1]LogAssetRegistry: Asset discovery search completed in 4.3995 seconds
 [2018.11.19-06.22.30:477][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2018.11.19-06.22.30:477][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2018.11.19-06.24.45:934][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-06.25.00:958][ 14]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.19-06.25.01:015][ 14]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/eyelander6E9944C840C56BF0B0FC2FA66F4E4BB9.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Enemies/eyelander.uasset'
+[2018.11.19-06.25.01:275][ 14]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/eyelander_SpriteB73A6BA245BC8D5ADFAFBF8803E34EB8.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/eyelander_Sprite.uasset'
+[2018.11.19-06.25.02:916][106]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/eyelander17D35791D4DCFDE02319238A07FD482BC.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Enemies/eyelander1.uasset'
+[2018.11.19-06.25.03:150][106]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/eyelander1_Sprite9413734148A38C12E3755A85D1AC7A98.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/eyelander1_Sprite.uasset'
+[2018.11.19-06.25.05:204][217]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/eyelander1_SpriteBC3735454B850B402A890C96DEF23851.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Enemies/eyelander1_Sprite.uasset'
+[2018.11.19-06.25.05:479][217]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BossE3D443D64113BA9F9A248EA1777E5C07.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Boss.uasset'
+[2018.11.19-06.25.05:576][217]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Stage_BossC085485A49C6EB14122958BA126F96E1.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Third_Stage_Boss.uasset'
+[2018.11.19-06.25.05:669][217]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Boss4758441A46555E0493104B8DB0A3A583.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Enemies/Boss.uasset'
+[2018.11.19-06.25.05:768][217]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Boss173C5DA9646FD0E39DC04E8BE30322FA6.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Enemies/Boss1.uasset'
+[2018.11.19-06.25.11:211][530]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/enemy_eye7EEF145C40A4A8DF7FEC6BB4E6EC37EB.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Enemies/enemy_eye.uasset'
+[2018.11.19-06.25.11:227][530]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/enemy_eye_Sprite5ADC317F45F818631C123BB9A1AED7C2.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Enemies/enemy_eye_Sprite.uasset'
+[2018.11.19-06.25.11:244][530]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/eyelander_SpriteF62DEF374958587A14D32CA97F2B9B96.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Enemies/eyelander_Sprite.uasset'
+[2018.11.19-06.25.11:598][530]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_Enemy_Eye1B0D0A52B4B1F4ABBA1ABF2A9B6F61B50.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/BP_Enemy_Eye1.uasset'
+[2018.11.19-06.25.11:691][530]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_Enemy_Eye2C90D67C64F1D500683FD21A0E4E66DAD.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/BP_Enemy_Eye2.uasset'
+[2018.11.19-06.25.11:782][530]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_Enemy_Eye1121716004846BCD1F9E2FEB257C1212F.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Enemies/BP_Enemy_Eye1.uasset'
+[2018.11.19-06.25.11:876][530]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_Enemy_Eye2D84AAE224898BA234978B8891E9C1FA4.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Enemies/BP_Enemy_Eye2.uasset'
+[2018.11.19-06.25.11:966][530]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BossEnemy846CC2934533C03397CF8FACAEFD0959.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Enemies/BossEnemy.uasset'
+[2018.11.19-06.25.14:010][633]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Character17B5B613C40CF3B321C7815BFC44F4687.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Character/Character1.uasset'
+[2018.11.19-06.25.14:338][633]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/2DSideScrollerCharacter6E0E1B0448983D84CF258D86F81465D6.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter.uasset'
+[2018.11.19-06.25.14:487][633]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/2DSideScrollerCharacterDB37D95A449EDDEB823EF48C9353C5EC.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.11.19-06.25.14:644][633]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/2DSideScrollerCharacter0D105B87F4FF17BC852B4CBBEFED7855B.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.uasset'
+[2018.11.19-06.25.19:955][945]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Character832527B645294F8FE9201980D2C1A225.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Enemies/Character.uasset'
+[2018.11.19-06.25.20:197][945]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Character_Sprite_0DD6C71AC459D5A9EBE96D5A347BD8C8B.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Using/Character_Sprite_0.uasset'
+[2018.11.19-06.25.37:651][901]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luis\Downloads\Main_Menu (1).png)
+[2018.11.19-06.25.37:665][901]LogTexture: Display: Building textures: Main_Menu__1_ (BGRA8, 1202X677)
+[2018.11.19-06.25.37:690][901]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luis\Downloads\Directional_S.png)
+[2018.11.19-06.25.37:693][901]LogTexture: Display: Building textures: Directional_S (AutoDXT, 320X64)
+[2018.11.19-06.25.41:845][130]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Final_Project_Content/Sprites/Main_Menu__1_.Main_Menu__1_
+[2018.11.19-06.25.41:857][130]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.19-06.25.46:261][386]LogSlate: Window 'Main_Menu__1_*' being destroyed
+[2018.11.19-06.25.46:266][386]LogSlate: Window 'Main_Menu__1_*' being destroyed
+[2018.11.19-06.25.50:937][661]LogTexture: Display: Building textures: Directional_S (BGRA8, 320X64)
+[2018.11.19-06.25.52:234][738]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Final_Project_Content/Sprites/Directional_S.Directional_S
+[2018.11.19-06.25.58:193][ 88]LogSlate: Window 'Directional_S*' being destroyed
+[2018.11.19-06.25.58:199][ 88]LogSlate: Window 'Directional_S*' being destroyed
+[2018.11.19-06.26.03:568][403]LogSlate: Took 0.001512 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.19-06.26.15:658][122]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.19-06.26.16:781][187]LogSlate: Window 'Extract sprites' being destroyed
+[2018.11.19-06.26.27:390][808]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Lvl_Dup5B15608E4D1808115AB40E868432F835.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl_Dup.umap'
+[2018.11.19-06.26.52:911][333]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.2DSideScrollerCharacter0
+[2018.11.19-06.26.53:332][333]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.11.19-06.26.54:340][334]LogSlate: Took 0.001478 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.19-06.28.33:758][241]BlueprintLog: New page: Compile 2DSideScrollerCharacter0
+[2018.11.19-06.29.10:288][385]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Lvl_DupD25C1C9D41578AE41E5D7CB9B652F27B.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl_Dup.umap'
+[2018.11.19-06.29.13:330][563]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Final_Project_Content/Sprites/Directional_S1.Directional_S1
+[2018.11.19-06.29.13:460][563]LogRenderer: Reallocating scene render targets to support 1416x788 Format 10 NumSamples 1 (Frame:1).
+[2018.11.19-06.29.20:034][958]LogSlate: Window 'Directional_S1*' being destroyed
+[2018.11.19-06.29.20:040][958]LogSlate: Window 'Directional_S1*' being destroyed
+[2018.11.19-06.30.18:463][440]BlueprintLog: New page: Compile 2DSideScrollerCharacter0
+[2018.11.19-06.30.19:230][456]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/2DSideScrollerCharacter0DF97663A450C08ABDC40E080287FA81E.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.uasset'
+[2018.11.19-06.30.21:160][572]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.19-06.30.21:179][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.30.21:179][572]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.19-06.30.21:190][572]LogPlayLevel: [PlayLevel] Compiling BP_Enemy_Eye1 before play...
+[2018.11.19-06.30.21:215][572]LogPlayLevel: [PlayLevel] Compiling BP_Enemy_Eye2 before play...
+[2018.11.19-06.30.21:248][572]LogPlayLevel: [PlayLevel] Compiling Third_Stage_Boss before play...
+[2018.11.19-06.30.21:275][572]LogPlayLevel: [PlayLevel] Compiling Boss before play...
+[2018.11.19-06.30.21:382][572]LogPlayLevel: [PlayLevel] Compiling Boss before play...
+[2018.11.19-06.30.21:410][572]LogPlayLevel: [PlayLevel] Compiling Boss1 before play...
+[2018.11.19-06.30.21:436][572]LogPlayLevel: [PlayLevel] Compiling BP_Enemy_Eye1 before play...
+[2018.11.19-06.30.21:460][572]LogPlayLevel: [PlayLevel] Compiling BP_Enemy_Eye2 before play...
+[2018.11.19-06.30.21:482][572]LogPlayLevel: [PlayLevel] Compiling BossEnemy before play...
+[2018.11.19-06.30.21:524][572]LogPlayLevel: [PlayLevel] Compiling 2DSideScrollerCharacter before play...
+[2018.11.19-06.30.21:595][572]LogPlayLevel: [PlayLevel] Compiling 2DSideScrollerCharacter before play...
+[2018.11.19-06.30.21:671][572]LogPlayLevel: PlayLevel: Blueprint regeneration took 491 ms (11 blueprints)
+[2018.11.19-06.30.21:686][572]PIE: New page: PIE session: First_Lvl_Dup (Nov 18, 2018, 6:30:21 PM)
+[2018.11.19-06.30.21:687][572]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl_Dup
+[2018.11.19-06.30.21:689][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002840s)
+[2018.11.19-06.30.21:690][572]LogAIModule: Creating AISystem for world First_Lvl_Dup
+[2018.11.19-06.30.21:690][572]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2018.11.19-06.30.21:690][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl_Dup.First_Lvl_Dup to /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup (0.003487s)
+[2018.11.19-06.30.21:725][572]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.19-06.30.21:735][572]LogInit: FAudioDevice initialized.
+[2018.11.19-06.30.21:758][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-06.30.21:807][572]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.19-06.30.21:812][572]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup up for play (max tick rate 60) at 2018.11.19-00.30.21
+[2018.11.19-06.30.21:813][572]LogWorld: Bringing up level for play took: 0.003219
+[2018.11.19-06.30.21:836][572]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.11.19-06.30.21:844][572]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl_Dup -0.105
+[2018.11.19-06.30.21:844][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.30.30:217][ 71]LogBlueprintUserMessages: [BP_checkpoint_2] X=500.616 Y=0.000 Z=136.231
+[2018.11.19-06.30.31:665][158]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.30.31:666][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-06.30.31:683][158]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.19-06.30.31:715][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-06.30.31:715][158]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.30.31:863][165]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.11.19-06.31.01:243][926]BlueprintLog: New page: Compile 2DSideScrollerCharacter0
+[2018.11.19-06.31.02:191][952]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/2DSideScrollerCharacter0EF6F02CD4FAB27866782AA95B33E3D52.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.uasset'
+[2018.11.19-06.31.12:288][556]BlueprintLog: New page: Compile 2DSideScrollerCharacter0
+[2018.11.19-06.31.13:137][577]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/2DSideScrollerCharacter02D82EFA54260BAE513127C84FC9ED49E.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.uasset'
+[2018.11.19-06.31.15:780][735]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.19-06.31.15:798][735]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.31.15:798][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-06.31.15:799][735]PIE: New page: PIE session: First_Lvl_Dup (Nov 18, 2018, 6:31:15 PM)
+[2018.11.19-06.31.15:799][735]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl_Dup
+[2018.11.19-06.31.15:801][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002581s)
+[2018.11.19-06.31.15:802][735]LogAIModule: Creating AISystem for world First_Lvl_Dup
+[2018.11.19-06.31.15:802][735]LogPlayLevel: PIE: World Init took: (0.000519s)
+[2018.11.19-06.31.15:802][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl_Dup.First_Lvl_Dup to /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup (0.003205s)
+[2018.11.19-06.31.15:833][735]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.19-06.31.15:843][735]LogInit: FAudioDevice initialized.
+[2018.11.19-06.31.15:866][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-06.31.15:903][735]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.19-06.31.15:906][735]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup up for play (max tick rate 60) at 2018.11.19-00.31.15
+[2018.11.19-06.31.15:907][735]LogWorld: Bringing up level for play took: 0.002777
+[2018.11.19-06.31.15:924][735]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl_Dup -0.025
+[2018.11.19-06.31.15:925][735]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.31.19:599][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.31.19:599][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-06.31.19:617][953]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.19-06.31.19:654][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-06.31.19:654][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.31.19:797][960]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.11.19-06.31.25:272][287]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Final_Project_Content/Sprites/Directional_S2.Directional_S2
+[2018.11.19-06.32.20:959][606]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Directional_S2AF441245422981F4D07E599278D35A6B.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Directional_S2.uasset'
+[2018.11.19-06.32.21:520][634]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Directional_S203831DEE4AC203E852C8BEA32704729D.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Directional_S2.uasset'
+[2018.11.19-06.32.25:014][837]LogSlate: Window 'Directional_S2' being destroyed
+[2018.11.19-06.32.34:012][377]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.19-06.32.34:031][377]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.32.34:031][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-06.32.34:031][377]PIE: New page: PIE session: First_Lvl_Dup (Nov 18, 2018, 6:32:34 PM)
+[2018.11.19-06.32.34:031][377]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl_Dup
+[2018.11.19-06.32.34:034][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002502s)
+[2018.11.19-06.32.34:034][377]LogAIModule: Creating AISystem for world First_Lvl_Dup
+[2018.11.19-06.32.34:034][377]LogPlayLevel: PIE: World Init took: (0.000497s)
+[2018.11.19-06.32.34:034][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl_Dup.First_Lvl_Dup to /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup (0.003106s)
+[2018.11.19-06.32.34:066][377]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.19-06.32.34:075][377]LogInit: FAudioDevice initialized.
+[2018.11.19-06.32.34:099][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-06.32.34:132][377]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.19-06.32.34:135][377]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup up for play (max tick rate 60) at 2018.11.19-00.32.34
+[2018.11.19-06.32.34:135][377]LogWorld: Bringing up level for play took: 0.002418
+[2018.11.19-06.32.34:151][377]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl_Dup 0.201
+[2018.11.19-06.32.34:151][377]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.32.40:566][759]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.32.40:566][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-06.32.40:583][759]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.19-06.32.40:615][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-06.32.40:616][759]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.32.40:761][766]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.11.19-06.33.08:647][433]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Directional_S2D9A0BE8D4B54D847DEBB6D9BD3E1782D.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Directional_S2.uasset'
+[2018.11.19-06.33.09:197][461]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Directional_S25D29E6A143961003F0572EA57E9C3369.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Directional_S2.uasset'
+[2018.11.19-06.33.09:832][494]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Directional_S2AA0A4B3B409726EAE12443B83D5D9DAF.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Directional_S2.uasset'
+[2018.11.19-06.33.16:111][869]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.19-06.33.16:129][869]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.33.16:129][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-06.33.16:129][869]PIE: New page: PIE session: First_Lvl_Dup (Nov 18, 2018, 6:33:16 PM)
+[2018.11.19-06.33.16:129][869]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl_Dup
+[2018.11.19-06.33.16:132][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002533s)
+[2018.11.19-06.33.16:132][869]LogAIModule: Creating AISystem for world First_Lvl_Dup
+[2018.11.19-06.33.16:132][869]LogPlayLevel: PIE: World Init took: (0.000491s)
+[2018.11.19-06.33.16:132][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl_Dup.First_Lvl_Dup to /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup (0.003128s)
+[2018.11.19-06.33.16:167][869]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.19-06.33.16:176][869]LogInit: FAudioDevice initialized.
+[2018.11.19-06.33.16:200][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-06.33.16:234][869]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.19-06.33.16:236][869]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup up for play (max tick rate 60) at 2018.11.19-00.33.16
+[2018.11.19-06.33.16:237][869]LogWorld: Bringing up level for play took: 0.002440
+[2018.11.19-06.33.16:253][869]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl_Dup 0.303
+[2018.11.19-06.33.16:253][869]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.33.31:239][766]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.33.31:239][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-06.33.31:256][766]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.19-06.33.31:293][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-06.33.31:293][766]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.33.31:449][773]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.11.19-06.33.47:327][724]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.19-06.34.08:758][  7]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2018.11.19-06.34.31:019][314]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2018.11.19-06.34.37:414][672]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2018.11.19-06.34.37:418][672]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2018.11.19-06.34.54:508][399]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.19-06.34.54:533][399]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.19-06.35.41:394][895]LogSlate: Window 'Replace References?' being destroyed
+[2018.11.19-06.35.41:398][895]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.19-06.35.46:745][895]LogSlate: Window 'Save Content' being destroyed
+[2018.11.19-06.35.53:769][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.2DSideScrollerCharacter0_C' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:769][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.2DSideScrollerCharacter0_C:Health System' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:769][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.2DSideScrollerCharacter0_C:Damage_System' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:769][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.2DSideScrollerCharacter0_C:UserConstructionScript' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:769][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.2DSideScrollerCharacter0_C:ReceiveBeginPlay' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:769][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.2DSideScrollerCharacter0_C:ReceiveTick' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:769][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.2DSideScrollerCharacter0_C:Arrow5' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:769][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.2DSideScrollerCharacter0_C:Arrow4' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:769][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.2DSideScrollerCharacter0_C:Arrow3' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:769][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.2DSideScrollerCharacter0_C:Arrow2' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:769][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.2DSideScrollerCharacter0_C:Arrow1' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:769][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.2DSideScrollerCharacter0_C:bisMovingRight' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:769][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.2DSideScrollerCharacter0_C:Health' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:769][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.2DSideScrollerCharacter0_C:Dead?' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:769][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.SKEL_2DSideScrollerCharacter0_C:UserConstructionScript' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:769][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.SKEL_2DSideScrollerCharacter0_C:Arrow5' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:769][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.SKEL_2DSideScrollerCharacter0_C:Arrow4' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:770][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.SKEL_2DSideScrollerCharacter0_C:Arrow3' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:770][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.SKEL_2DSideScrollerCharacter0_C:Arrow2' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:770][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.SKEL_2DSideScrollerCharacter0_C:Arrow1' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:770][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.SKEL_2DSideScrollerCharacter0_C:bisMovingRight' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:770][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.SKEL_2DSideScrollerCharacter0_C:Health' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:770][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.SKEL_2DSideScrollerCharacter0_C:Dead?' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:770][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.SKEL_2DSideScrollerCharacter0_C:Damage_System' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:770][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.SKEL_2DSideScrollerCharacter0_C:Health System' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:770][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.SKEL_2DSideScrollerCharacter0_C:ReceiveTick' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:770][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.SKEL_2DSideScrollerCharacter0_C:ReceiveBeginPlay' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:770][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.SKEL_2DSideScrollerCharacter0_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_5' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:770][298]LogMetaData: Removing '/Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.SKEL_2DSideScrollerCharacter0_C' ref from Metadata '/Game/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.PackageMetaData'
+[2018.11.19-06.35.53:896][298]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/2DSideScrollerCharacter0D8F0F94D48468689CC8577AA3FCC8787.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.uasset'
+[2018.11.19-06.35.53:964][298]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/2DSideScrollerCharacter0D2886D054EFBFEC9E0F42CAF22B13D3A.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/2DSideScrollerCharacter0.uasset'
+[2018.11.19-06.36.04:117][906]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.19-06.36.04:132][906]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.36.04:132][906]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.19-06.36.04:142][906]LogPlayLevel: [PlayLevel] Compiling BP_Ammo12 before play...
+[2018.11.19-06.36.04:170][906]LogPlayLevel: [PlayLevel] Compiling BP_Ammo1 before play...
+[2018.11.19-06.36.04:194][906]LogPlayLevel: [PlayLevel] Compiling BP_First_Level_Checkpoint before play...
+[2018.11.19-06.36.04:295][906]LogPlayLevel: [PlayLevel] Compiling Activate_2nd_Stage before play...
+[2018.11.19-06.36.04:384][906]LogPlayLevel: [PlayLevel] Compiling BP_KillBox before play...
+[2018.11.19-06.36.04:477][906]LogPlayLevel: [PlayLevel] Compiling BP_Boss_Attack before play...
+[2018.11.19-06.36.04:484][906]LogPlayLevel: [PlayLevel] Compiling Health before play...
+[2018.11.19-06.36.04:495][906]LogPlayLevel: [PlayLevel] Compiling First_Lvl_Dup before play...
+[2018.11.19-06.36.04:615][906]LogPlayLevel: PlayLevel: Blueprint regeneration took 482 ms (8 blueprints)
+[2018.11.19-06.36.04:615][906]PIE: New page: PIE session: First_Lvl_Dup (Nov 18, 2018, 6:36:04 PM)
+[2018.11.19-06.36.04:615][906]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl_Dup
+[2018.11.19-06.36.04:618][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002580s)
+[2018.11.19-06.36.04:618][906]LogAIModule: Creating AISystem for world First_Lvl_Dup
+[2018.11.19-06.36.04:618][906]LogPlayLevel: PIE: World Init took: (0.000495s)
+[2018.11.19-06.36.04:618][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl_Dup.First_Lvl_Dup to /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup (0.003184s)
+[2018.11.19-06.36.04:654][906]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.19-06.36.04:664][906]LogInit: FAudioDevice initialized.
+[2018.11.19-06.36.04:688][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-06.36.04:720][906]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.19-06.36.04:723][906]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup up for play (max tick rate 60) at 2018.11.19-00.36.04
+[2018.11.19-06.36.04:724][906]LogWorld: Bringing up level for play took: 0.002425
+[2018.11.19-06.36.04:738][906]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl_Dup 0.789
+[2018.11.19-06.36.04:739][906]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.36.13:404][418]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.36.13:404][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-06.36.13:422][418]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.19-06.36.13:455][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-06.36.13:456][418]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.36.13:603][425]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.11.19-06.36.18:110][694]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.2DSideScrollerCharacter0
+[2018.11.19-06.36.40:132][987]LogSlate: Window '2DSideScrollerCharacter0*' being destroyed
+[2018.11.19-06.36.59:429][143]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Final_Project_Content/Sprites/Directional_S2.Directional_S2
+[2018.11.19-06.37.26:742][770]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Directional_S23DAD080A47C98124C7CF7F8672D63900.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Directional_S2.uasset'
+[2018.11.19-06.37.53:064][345]BlueprintLog: New page: Compile 2DSideScrollerCharacter0
+[2018.11.19-06.37.54:349][392]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/2DSideScrollerCharacter0F6597C794F0C07116ACC46BFBEEDA389.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.uasset'
+[2018.11.19-06.38.00:471][759]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.19-06.38.00:490][759]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.38.00:490][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-06.38.00:490][759]PIE: New page: PIE session: First_Lvl_Dup (Nov 18, 2018, 6:38:00 PM)
+[2018.11.19-06.38.00:490][759]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl_Dup
+[2018.11.19-06.38.00:493][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002544s)
+[2018.11.19-06.38.00:493][759]LogAIModule: Creating AISystem for world First_Lvl_Dup
+[2018.11.19-06.38.00:493][759]LogPlayLevel: PIE: World Init took: (0.000505s)
+[2018.11.19-06.38.00:493][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl_Dup.First_Lvl_Dup to /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup (0.003154s)
+[2018.11.19-06.38.00:528][759]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.19-06.38.00:538][759]LogInit: FAudioDevice initialized.
+[2018.11.19-06.38.00:562][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-06.38.00:600][759]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.19-06.38.00:602][759]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup up for play (max tick rate 60) at 2018.11.19-00.38.00
+[2018.11.19-06.38.00:603][759]LogWorld: Bringing up level for play took: 0.002508
+[2018.11.19-06.38.00:618][759]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl_Dup 0.669
+[2018.11.19-06.38.00:618][759]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.38.13:663][539]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.38.13:664][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-06.38.13:681][539]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.19-06.38.13:720][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-06.38.13:721][539]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.38.13:869][546]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.11.19-06.39.43:211][877]BlueprintLog: New page: Compile 2DSideScrollerCharacter0
+[2018.11.19-06.40.38:820][187]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Directional_S23295F83A42C9597EB22E72A3C5979D27.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Directional_S2.uasset'
+[2018.11.19-06.40.39:387][216]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Directional_S24460DFDA49D29020E576DC89DFA7D47F.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Directional_S2.uasset'
+[2018.11.19-06.40.39:974][246]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Directional_S2046E892647C578D8C68FC5A2B57838D2.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Directional_S2.uasset'
+[2018.11.19-06.40.40:524][274]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Directional_S27EF3EEE6419D5618F3A184A3CB4EA83B.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Directional_S2.uasset'
+[2018.11.19-06.40.44:184][483]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/2DSideScrollerCharacter095273CF64CCCA32C76E228B413907CEB.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.uasset'
+[2018.11.19-06.40.44:534][504]BlueprintLog: New page: Compile 2DSideScrollerCharacter0
+[2018.11.19-06.40.45:147][522]BlueprintLog: New page: Compile 2DSideScrollerCharacter0
+[2018.11.19-06.40.49:799][782]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.19-06.40.49:818][782]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.40.49:818][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-06.40.49:818][782]PIE: New page: PIE session: First_Lvl_Dup (Nov 18, 2018, 6:40:49 PM)
+[2018.11.19-06.40.49:818][782]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl_Dup
+[2018.11.19-06.40.49:821][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002583s)
+[2018.11.19-06.40.49:822][782]LogAIModule: Creating AISystem for world First_Lvl_Dup
+[2018.11.19-06.40.49:822][782]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2018.11.19-06.40.49:822][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl_Dup.First_Lvl_Dup to /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup (0.003238s)
+[2018.11.19-06.40.49:853][782]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.19-06.40.49:862][782]LogInit: FAudioDevice initialized.
+[2018.11.19-06.40.49:887][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-06.40.49:925][782]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.19-06.40.49:928][782]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup up for play (max tick rate 60) at 2018.11.19-00.40.49
+[2018.11.19-06.40.49:929][782]LogWorld: Bringing up level for play took: 0.002451
+[2018.11.19-06.40.49:945][782]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl_Dup -0.005
+[2018.11.19-06.40.49:945][782]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.41.01:520][473]LogBlueprintUserMessages: [BP_checkpoint_2] X=500.831 Y=0.000 Z=136.231
+[2018.11.19-06.41.23:424][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.41.23:425][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-06.41.23:442][787]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.19-06.41.23:476][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-06.41.23:477][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.11.19-06.41.23:625][794]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.11.19-06.41.27:557][ 15]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Lvl_Dup60F63F314D84963AA554E49685CC7D2F.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl_Dup.umap'
+[2018.11.19-06.42.07:837][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-06.42.08:184][433]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Lvl_DupD07F33054C05B7D31616DF92861B87EC.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl_Dup.umap'
+[2018.11.19-06.42.09:561][512]BlueprintLog: New page: Compile 2DSideScrollerCharacter0
+[2018.11.19-06.42.10:475][537]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/2DSideScrollerCharacter016839558404AA71CCB0990A693674BB5.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Character/2DSideScrollerCharacter0.uasset'
+[2018.11.19-06.42.14:927][798]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Directional_S2730487A944B1705B59C71B91FEF59947.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Directional_S2.uasset'
+[2018.11.19-06.42.17:035][910]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Lvl_Dup037FEC2C4B2E6E44F0216DB70644D817.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl_Dup.umap'
