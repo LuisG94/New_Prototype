@@ -2314,3 +2314,42 @@ LogInit: Object subsystem initialized
 [2018.11.29-00.32.31:677][285]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_First_Level_Checkpoint057E90FC404C9D71A293E1AEEE62F0C4.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/checkpoints/BP_First_Level_Checkpoint.uasset'
 [2018.11.29-00.32.31:691][285]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_Camera_Respawn672B5C9E4082E4DEB266AF8F18962920.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/checkpoints/BP_Camera_Respawn.uasset'
 [2018.11.29-00.32.31:702][285]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_Boss_Respawn644C6EC9464C2D97D6A11BA60AB35064.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/checkpoints/BP_Boss_Respawn.uasset'
+[2018.11.29-00.35.22:880][758]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Final_Project_Content/Sprites/Enemies/1.1
+[2018.11.29-00.35.22:895][758]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.29-00.35.43:720][994]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Final_Project_Content/Sprites/Background/Floor_Sprite_2.Floor_Sprite_2
+[2018.11.29-00.35.43:870][995]LogRenderer: Reallocating scene render targets to support 1524x880 Format 10 NumSamples 1 (Frame:1).
+[2018.11.29-00.35.52:341][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-00.36.37:948][959]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.29-00.36.53:725][904]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/Blueprints/BP_Third_Lvl_Platform.BP_Third_Lvl_Platform
+[2018.11.29-00.37.36:756][461]BlueprintLog: New page: Compile BP_Third_Lvl_Platform
+[2018.11.29-00.37.37:515][496]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_Third_Lvl_PlatformE9B12CF44FF7581F53DDB5B7ED767E5B.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/BP_Third_Lvl_Platform.uasset'
+[2018.11.29-00.37.52:773][411]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/Blueprints/BP_Enemy_Eye2.BP_Enemy_Eye2
+[2018.11.29-00.38.18:376][929]BlueprintLog: New page: Compile BP_Enemy_Eye2
+[2018.11.29-00.38.19:126][955]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_Enemy_Eye2C8B3138D4A957712536886905AFD6A3A.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/BP_Enemy_Eye2.uasset'
+[2018.11.29-00.39.12:676][168]BlueprintLog: New page: Compile Second_Stage_Boss
+[2018.11.29-00.39.13:435][191]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Second_Stage_BossE61C27F543CEA304E2440381FF8954BC.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Enemies/Second_Stage_Boss.uasset'
+[2018.11.29-00.39.15:889][323]BlueprintLog: New page: Compile Actual_First_Stage_Boss
+[2018.11.29-00.39.16:643][344]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Actual_First_Stage_BossCBFDF6474702E57C11914AA0FFD7AA4F.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Actual_First_Stage_Boss.uasset'
+[2018.11.29-00.39.17:640][404]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.29-00.39.18:875][466]BlueprintLog: New page: Compile Level_Camera
+[2018.11.29-00.39.19:500][486]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Level_Camera4BE6D4564B9DB3CCA41316B369EA3994.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Level_Camera.uasset'
+[2018.11.29-00.39.21:014][577]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.29-00.39.22:294][641]BlueprintLog: New page: Compile BP_First_Level_Checkpoint
+[2018.11.29-00.39.23:055][668]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_First_Level_CheckpointA7F1D56E4A071EDFDCBA3EAA1B5E3B59.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/checkpoints/BP_First_Level_Checkpoint.uasset'
+[2018.11.29-00.39.23:888][718]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.29-00.39.25:214][794]BlueprintLog: New page: Compile BP_Third_Lvl_Platform
+[2018.11.29-00.39.25:863][819]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_Third_Lvl_Platform65869B204E48DB76EDE6BDAE5DAF32F5.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/BP_Third_Lvl_Platform.uasset'
+[2018.11.29-00.39.27:828][937]BlueprintLog: New page: Compile BP_Enemy_Eye2
+[2018.11.29-00.39.28:543][962]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_Enemy_Eye21D6D4E334853CEC251626C9F7C7ED0A9.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/BP_Enemy_Eye2.uasset'
+[2018.11.29-00.39.50:499][278]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/Blueprints/Third_Stage_Boss.Third_Stage_Boss
+[2018.11.29-00.40.15:858][781]BlueprintLog: New page: Compile Third_Stage_Boss
+[2018.11.29-00.40.16:510][800]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Stage_BossCF032F63446BF2640A878C843DD5A1C5.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Third_Stage_Boss.uasset'
+[2018.11.29-00.43.08:394][ 95]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Lvl_Dup_Auto381F046B14ABC5F7CBE47B682BD7DC5BC.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Maps/First_Lvl_Dup_Auto3.umap'
+[2018.11.29-00.43.08:402][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/First_Lvl_Dup' took 0.266
+[2018.11.29-00.43.08:402][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.266
+[2018.11.29-00.52.55:413][314]BlueprintLog: New page: Compile Third_Stage_Boss
+[2018.11.29-00.52.56:126][336]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Stage_Boss89A93B5C4790931289FD93BAE3ABEE99.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Third_Stage_Boss.uasset'
+[2018.11.29-00.58.24:454][699]BlueprintLog: New page: Compile Third_Stage_Boss
+[2018.11.29-00.58.25:188][722]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Stage_Boss3DBC7BCD4F7251A62CE5A986D82668F1.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Third_Stage_Boss.uasset'
+[2018.11.29-00.59.34:800][984]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Lvl_Dup7A9AC627444A8AFDA585FDA17EA2DA79.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl_Dup.umap'
+[2018.11.29-00.59.34:834][984]LogFileHelpers: Saving map 'First_Lvl_Dup' took 0.372
