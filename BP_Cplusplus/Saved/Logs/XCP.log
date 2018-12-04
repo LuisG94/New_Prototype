@@ -1,4 +1,4 @@
-﻿Log file open, 11/29/18 11:01:00
+﻿Log file open, 12/04/18 11:40:32
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: XCP
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.410229
+LogStats: Stats thread started at 0.404872
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -93,7 +93,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.131s to configure plugins.
+LogStreaming: Display: Took  0.093s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -147,349 +147,432 @@ LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
-LogStreaming: Display: Took  0.001s to delete old logs.
+LogStreaming: Display: Took  0.002s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.11.29-17.01.00:770][  0]LogInit: Selected Device Profile: [Windows]
-[2018.11.29-17.01.00:770][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.11.29-17.01.00:780][  0]LogHAL: Display: Platform has ~ 16 GB [17052700672 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2018.11.29-17.01.00:781][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
-[2018.11.29-17.01.00:781][  0]LogInit: Going up to parent DeviceProfile []
-[2018.11.29-17.01.00:781][  0]LogInit: Computer: MSI
-[2018.11.29-17.01.00:781][  0]LogInit: User: Luis
-[2018.11.29-17.01.00:781][  0]LogInit: CPU Page size=4096, Cores=6
-[2018.11.29-17.01.00:781][  0]LogInit: High frequency timer resolution =2.156249 MHz
-[2018.11.29-17.01.00:781][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.11.29-17.01.00:781][  0]LogMemory: Platform Memory Stats for Windows
-[2018.11.29-17.01.00:781][  0]LogMemory: Process Physical Memory: 103.57 MB used, 103.57 MB peak
-[2018.11.29-17.01.00:781][  0]LogMemory: Process Virtual Memory: 96.52 MB used, 96.52 MB peak
-[2018.11.29-17.01.00:781][  0]LogMemory: Physical Memory: 8360.59 MB used,  7902.14 MB free, 16262.72 MB total
-[2018.11.29-17.01.00:781][  0]LogMemory: Virtual Memory: 4667.68 MB used,  7902.14 MB free, 134217728.00 MB total
-[2018.11.29-17.01.01:123][  0]LogInit: Using OS detected language (en-US).
-[2018.11.29-17.01.01:123][  0]LogInit: Using OS detected locale (en-US).
-[2018.11.29-17.01.01:123][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.11.29-17.01.01:418][  0]LogStreaming: Display: Took  0.295s to InitEngineTextLocalization.
-[2018.11.29-17.01.01:418][  0]LogInit: Setting process to per monitor DPI aware
-[2018.11.29-17.01.01:448][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.11.29-17.01.01:449][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.11.29-17.01.01:619][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.11.29-17.01.01:619][  0]LogD3D11RHI: D3D11 adapters:
-[2018.11.29-17.01.01:687][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
-[2018.11.29-17.01.01:687][  0]LogD3D11RHI:       6052/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.11.29-17.01.01:702][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
-[2018.11.29-17.01.01:702][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2018.11.29-17.01.01:705][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.11.29-17.01.01:705][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.11.29-17.01.01:705][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.11.29-17.01.01:731][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.11.29-17.01.01:731][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
-[2018.11.29-17.01.01:731][  0]LogWindows: EnumDisplayDevices:
-[2018.11.29-17.01.01:731][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
-[2018.11.29-17.01.01:731][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2018.11.29-17.01.01:731][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2018.11.29-17.01.01:732][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2018.11.29-17.01.01:732][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2018.11.29-17.01.01:732][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2018.11.29-17.01.01:732][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2018.11.29-17.01.01:733][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2018.11.29-17.01.01:733][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
-[2018.11.29-17.01.01:733][  0]LogD3D11RHI:   Driver Version: 398.11 (internal:24.21.13.9811, unified:398.11)
-[2018.11.29-17.01.01:733][  0]LogD3D11RHI:      Driver Date: 6-1-2018
-[2018.11.29-17.01.01:733][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
-[2018.11.29-17.01.01:770][  0]LogD3D11RHI: Async texture creation enabled
-[2018.11.29-17.01.01:789][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.11.29-17.01.01:790][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Intermediate/Shaders/WorkingDirectory/20824/).
-[2018.11.29-17.01.01:790][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Luis/AppData/Local/Temp/UnrealShaderWorkingDir/85C14E26466C2642B814C49040F51C8A/'.
-[2018.11.29-17.01.02:049][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.11.29-17.01.02:061][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.11.29-17.01.02:073][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.11.29-17.01.02:085][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.11.29-17.01.02:097][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.11.29-17.01.02:109][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.11.29-17.01.02:121][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.11.29-17.01.02:133][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.11.29-17.01.02:140][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.11.29-17.01.02:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.29-17.01.02:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.29-17.01.02:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.29-17.01.02:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.29-17.01.02:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.29-17.01.02:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.29-17.01.02:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.29-17.01.02:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.29-17.01.02:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.29-17.01.02:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.29-17.01.02:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.29-17.01.02:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.29-17.01.02:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.29-17.01.02:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.29-17.01.02:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.29-17.01.02:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.29-17.01.02:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.29-17.01.02:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.29-17.01.02:209][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.11.29-17.01.02:266][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.11.29-17.01.02:266][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.11.29-17.01.02:286][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.11.29-17.01.02:286][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.11.29-17.01.02:298][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.11.29-17.01.02:309][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.11.29-17.01.02:320][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.11.29-17.01.02:332][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.11.29-17.01.02:340][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2018.11.29-17.01.02:341][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.11.29-17.01.02:404][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.11.29-17.01.02:404][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.11.29-17.01.02:404][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.11.29-17.01.03:011][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.11.29-17.01.03:056][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Luis/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.11.29-17.01.03:056][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Luis/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
-[2018.11.29-17.01.03:056][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.11.29-17.01.03:056][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.11.29-17.01.03:056][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.11.29-17.01.03:056][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.11.29-17.01.03:067][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.11.29-17.01.03:079][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Luis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.11.29-17.01.03:079][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.11.29-17.01.03:079][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.11.29-17.01.03:094][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.11.29-17.01.03:096][  0]LogSlate: Using FreeType 2.6.0
-[2018.11.29-17.01.03:096][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.11.29-17.01.03:161][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
-[2018.11.29-17.01.03:419][  0]LogInit: Selected Device Profile: [Windows]
-[2018.11.29-17.01.03:538][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.11.29-17.01.03:543][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.11.29-17.01.03:543][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2018.11.29-17.01.03:543][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.11.29-17.01.03:543][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.11.29-17.01.03:556][  0]LogNetVersion: XCP 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2987001549)
-[2018.11.29-17.01.03:988][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.092108 seconds
-[2018.11.29-17.01.03:995][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
-[2018.11.29-17.01.03:995][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
-[2018.11.29-17.01.03:995][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.11.29-17.01.04:732][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.11.29-17.01.04:745][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.11.29-17.01.04:883][  0]SourceControl: Source control is disabled
-[2018.11.29-17.01.04:884][  0]SourceControl: Source control is disabled
-[2018.11.29-17.01.04:886][  0]SourceControl: Source control is disabled
-[2018.11.29-17.01.04:887][  0]SourceControl: Source control is disabled
-[2018.11.29-17.01.05:062][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.11.29-17.01.05:850][  0]LogOcInput: OculusInput pre-init called
-[2018.11.29-17.01.05:906][  0]LogEngine: Initializing Engine...
-[2018.11.29-17.01.05:907][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.11.29-17.01.05:908][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.11.29-17.01.05:908][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.11.29-17.01.05:908][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.11.29-17.01.05:908][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.11.29-17.01.06:082][  0]LogInit: Initializing FReadOnlyCVARCache
-[2018.11.29-17.01.06:093][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.11.29-17.01.06:101][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2018.11.29-17.01.06:259][  0]LogInit: FAudioDevice initialized.
-[2018.11.29-17.01.06:259][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2018.11.29-17.01.06:330][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Luis/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.11.29-17.01.06:330][  0]LogInit: Texture streaming: Enabled
-[2018.11.29-17.01.06:347][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.11.29-17.01.06:359][  0]LogInit: Transaction tracking system initialized
-[2018.11.29-17.01.06:380][  0]BlueprintLog: New page: Editor Load
-[2018.11.29-17.01.06:456][  0]LocalizationService: Localization service is disabled
-[2018.11.29-17.01.06:704][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.11.29-17.01.06:704][  0]LogCook: Display: Mobile HDR setting 1
-[2018.11.29-17.01.06:704][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.11.29-17.01.06:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.11.29-17.01.06:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.11.29-17.01.06:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.11.29-17.01.06:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.11.29-17.01.06:816][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/' took 0.01s
-[2018.11.29-17.01.06:816][  0]SourceControl: Source control is disabled
-[2018.11.29-17.01.06:816][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl_Dup.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.11.29-17.01.06:816][  0]LightingResults: New page: Lighting Build
-[2018.11.29-17.01.06:818][  0]MapCheck: New page: Map Check
-[2018.11.29-17.01.06:819][  0]LightingResults: New page: Lighting Build
-[2018.11.29-17.01.07:551][  0]LogAIModule: Creating AISystem for world First_Lvl_Dup
-[2018.11.29-17.01.07:571][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.11.29-17.01.07:596][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.11.29-17.01.07:667][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.28ms to complete.
-[2018.11.29-17.01.07:667][  0]LogFileHelpers: Loading map 'First_Lvl_Dup' took 0.851
-[2018.11.29-17.01.07:781][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.29-17.01.07:788][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.29-17.01.07:794][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.29-17.01.07:800][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.29-17.01.07:811][  0]LogCollectionManager: Loaded 0 collections in 0.001320 seconds
-[2018.11.29-17.01.07:867][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Collections/' took 0.01s
-[2018.11.29-17.01.07:867][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Developers/Luis/Collections/' took 0.01s
-[2018.11.29-17.01.07:867][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Collections/' took 0.01s
-[2018.11.29-17.01.07:867][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.11.29-17.01.07:878][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2572 classes and 603 folders.
-[2018.11.29-17.01.07:891][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.11.29-17.01.08:022][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.11.29-17.01.08:036][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2018.11.29-17.01.08:177][  0]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.11.29-17.01.08:179][  0]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.11.29-17.01.08:186][  0]LogSlate: Took 0.001449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.11.29-17.01.08:244][  0]LogRenderer: Reallocating scene render targets to support 880x356 Format 10 NumSamples 1 (Frame:1).
-[2018.11.29-17.01.08:361][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.11.29-17.01.08:361][  0]LogLoad: (Engine Initialization) Total time: 9.34 seconds
-[2018.11.29-17.01.08:361][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.11.29-17.01.08:380][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.11.29-17.01.08:401][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.11.29-17.01.08:480][  0]LogSlate: Took 0.001581 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.11.29-17.01.08:505][  1]LogAssetRegistry: Asset discovery search completed in 5.3670 seconds
-[2018.11.29-17.01.08:508][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.11.29-17.01.08:508][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
-[2018.11.29-17.01.09:517][ 61]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.11.29-17.05.05:341][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.29-17.05.06:738][976]LogAIModule: Creating AISystem for world Second_Lvl
-[2018.11.29-17.05.06:752][976]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Second_Lvl.Second_Lvl
-[2018.11.29-17.05.06:782][976]Cmd: MAP LOAD FILE="../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Second_Lvl.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.11.29-17.05.06:782][976]LightingResults: New page: Lighting Build
-[2018.11.29-17.05.06:782][976]LoadErrors: New page: Loading map: Second_Lvl.umap
-[2018.11.29-17.05.06:783][976]MapCheck: New page: Map Check
-[2018.11.29-17.05.06:783][976]LightingResults: New page: Lighting Build
-[2018.11.29-17.05.06:873][976]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.11.29-17.05.06:926][976]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.11.29-17.05.07:003][976]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.534ms to complete.
-[2018.11.29-17.05.07:004][976]LogFileHelpers: Loading map 'Second_Lvl' took 0.222
-[2018.11.29-17.05.08:198][ 45]LogTemp: Repeating last play command: New Editor Window (PIE)
-[2018.11.29-17.05.08:217][ 45]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl' with GeneratedClass '/Game/Maps/Second_Lvl.Second_Lvl_C' with ClassGeneratedBy '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl'
-[2018.11.29-17.05.08:217][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.29-17.05.08:231][ 45]PIE: New page: PIE session: Second_Lvl (Nov 29, 2018, 5:05:08 AM)
-[2018.11.29-17.05.08:231][ 45]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Second_Lvl
-[2018.11.29-17.05.08:236][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005232s)
-[2018.11.29-17.05.08:237][ 45]LogAIModule: Creating AISystem for world Second_Lvl
-[2018.11.29-17.05.08:237][ 45]LogPlayLevel: PIE: World Init took: (0.000560s)
-[2018.11.29-17.05.08:237][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Second_Lvl.Second_Lvl to /Game/Maps/UEDPIE_0_Second_Lvl.Second_Lvl (0.005944s)
-[2018.11.29-17.05.08:261][ 45]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2018.11.29-17.05.08:423][ 45]LogInit: FAudioDevice initialized.
-[2018.11.29-17.05.08:438][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.29-17.05.08:531][ 45]LogLoad: Game class is '2DShipGameMode_C'
-[2018.11.29-17.05.08:534][ 45]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Second_Lvl.Second_Lvl up for play (max tick rate 0) at 2018.11.29-11.05.08
-[2018.11.29-17.05.08:535][ 45]LogWorld: Bringing up level for play took: 0.002407
-[2018.11.29-17.05.08:554][ 45]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
-[2018.11.29-17.05.08:565][ 45]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Second_Lvl 0.574
-[2018.11.29-17.05.08:565][ 45]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl' with GeneratedClass '/Game/Maps/Second_Lvl.Second_Lvl_C' with ClassGeneratedBy '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl'
-[2018.11.29-17.05.08:594][ 45]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
-[2018.11.29-17.05.54:993][827]LogNet: Browse: /Game/Maps/Third_Lvl
-[2018.11.29-17.05.54:993][827]LogLoad: LoadMap: /Game/Maps/Third_Lvl
-[2018.11.29-17.05.55:618][827]LogAIModule: Creating AISystem for world Third_Lvl
-[2018.11.29-17.05.55:618][827]LogLoad: Game class is '2DSideScrollerGameMode_C'
-[2018.11.29-17.05.55:620][827]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl up for play (max tick rate 0) at 2018.11.29-11.05.55
-[2018.11.29-17.05.55:621][827]LogWorld: Bringing up level for play took: 0.001221
-[2018.11.29-17.05.55:623][827]LogLoad: Took 0.629599 seconds to LoadMap(/Game/Maps/Third_Lvl)
-[2018.11.29-17.06.01:005][150]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl' with GeneratedClass '/Game/Maps/Second_Lvl.Second_Lvl_C' with ClassGeneratedBy '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl'
-[2018.11.29-17.06.01:005][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.29-17.06.01:026][150]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
-[2018.11.29-17.06.01:060][150]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.11.29-17.06.01:061][150]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl' with GeneratedClass '/Game/Maps/Second_Lvl.Second_Lvl_C' with ClassGeneratedBy '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl'
-[2018.11.29-17.06.01:206][157]LogPlayLevel: Display: Destroying online subsystem :Context_1
-[2018.11.29-17.06.04:956][382]LogTemp: Repeating last play command: New Editor Window (PIE)
-[2018.11.29-17.06.04:974][382]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl' with GeneratedClass '/Game/Maps/Second_Lvl.Second_Lvl_C' with ClassGeneratedBy '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl'
-[2018.11.29-17.06.04:974][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.29-17.06.04:974][382]PIE: New page: PIE session: Second_Lvl (Nov 29, 2018, 5:06:04 AM)
-[2018.11.29-17.06.04:974][382]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Second_Lvl
-[2018.11.29-17.06.04:977][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003133s)
-[2018.11.29-17.06.04:978][382]LogAIModule: Creating AISystem for world Second_Lvl
-[2018.11.29-17.06.04:978][382]LogPlayLevel: PIE: World Init took: (0.000537s)
-[2018.11.29-17.06.04:978][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Second_Lvl.Second_Lvl to /Game/Maps/UEDPIE_0_Second_Lvl.Second_Lvl (0.003778s)
-[2018.11.29-17.06.05:002][382]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2018.11.29-17.06.05:164][382]LogInit: FAudioDevice initialized.
-[2018.11.29-17.06.05:178][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.29-17.06.05:252][382]LogLoad: Game class is '2DShipGameMode_C'
-[2018.11.29-17.06.05:254][382]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Second_Lvl.Second_Lvl up for play (max tick rate 0) at 2018.11.29-11.06.05
-[2018.11.29-17.06.05:254][382]LogWorld: Bringing up level for play took: 0.001189
-[2018.11.29-17.06.05:269][382]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Second_Lvl 1.279
-[2018.11.29-17.06.05:270][382]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl' with GeneratedClass '/Game/Maps/Second_Lvl.Second_Lvl_C' with ClassGeneratedBy '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl'
-[2018.11.29-17.06.27:689][724]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl' with GeneratedClass '/Game/Maps/Second_Lvl.Second_Lvl_C' with ClassGeneratedBy '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl'
-[2018.11.29-17.06.27:689][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.29-17.06.27:707][724]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
-[2018.11.29-17.06.27:742][724]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.11.29-17.06.27:742][724]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl' with GeneratedClass '/Game/Maps/Second_Lvl.Second_Lvl_C' with ClassGeneratedBy '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl'
-[2018.11.29-17.06.27:879][731]LogPlayLevel: Display: Destroying online subsystem :Context_2
-[2018.11.29-17.06.29:145][807]LogTemp: Repeating last play command: New Editor Window (PIE)
-[2018.11.29-17.06.29:163][807]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl' with GeneratedClass '/Game/Maps/Second_Lvl.Second_Lvl_C' with ClassGeneratedBy '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl'
-[2018.11.29-17.06.29:163][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.29-17.06.29:163][807]PIE: New page: PIE session: Second_Lvl (Nov 29, 2018, 5:06:29 AM)
-[2018.11.29-17.06.29:163][807]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Second_Lvl
-[2018.11.29-17.06.29:166][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003085s)
-[2018.11.29-17.06.29:167][807]LogAIModule: Creating AISystem for world Second_Lvl
-[2018.11.29-17.06.29:167][807]LogPlayLevel: PIE: World Init took: (0.000515s)
-[2018.11.29-17.06.29:167][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Second_Lvl.Second_Lvl to /Game/Maps/UEDPIE_0_Second_Lvl.Second_Lvl (0.003716s)
-[2018.11.29-17.06.29:189][807]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2018.11.29-17.06.29:352][807]LogInit: FAudioDevice initialized.
-[2018.11.29-17.06.29:364][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.29-17.06.29:435][807]LogLoad: Game class is '2DShipGameMode_C'
-[2018.11.29-17.06.29:438][807]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Second_Lvl.Second_Lvl up for play (max tick rate 0) at 2018.11.29-11.06.29
-[2018.11.29-17.06.29:438][807]LogWorld: Bringing up level for play took: 0.001181
-[2018.11.29-17.06.29:452][807]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Second_Lvl -0.537
-[2018.11.29-17.06.29:453][807]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl' with GeneratedClass '/Game/Maps/Second_Lvl.Second_Lvl_C' with ClassGeneratedBy '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl'
-[2018.11.29-17.06.43:395][641]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl' with GeneratedClass '/Game/Maps/Second_Lvl.Second_Lvl_C' with ClassGeneratedBy '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl'
-[2018.11.29-17.06.43:395][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.29-17.06.43:414][641]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
-[2018.11.29-17.06.43:446][641]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.11.29-17.06.43:446][641]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl' with GeneratedClass '/Game/Maps/Second_Lvl.Second_Lvl_C' with ClassGeneratedBy '/Game/Maps/Second_Lvl.Second_Lvl:PersistentLevel.Second_Lvl'
-[2018.11.29-17.06.43:593][648]LogPlayLevel: Display: Destroying online subsystem :Context_3
-[2018.11.29-17.06.57:426][466]LogAIModule: Creating AISystem for world First_Lvl_Dup
-[2018.11.29-17.06.57:440][466]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/First_Lvl_Dup.First_Lvl_Dup
-[2018.11.29-17.06.57:462][466]Cmd: MAP LOAD FILE="../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl_Dup.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.11.29-17.06.57:462][466]LightingResults: New page: Lighting Build
-[2018.11.29-17.06.57:462][466]LoadErrors: New page: Loading map: First_Lvl_Dup.umap
-[2018.11.29-17.06.57:463][466]MapCheck: New page: Map Check
-[2018.11.29-17.06.57:463][466]LightingResults: New page: Lighting Build
-[2018.11.29-17.06.57:555][466]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.11.29-17.06.57:609][466]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.11.29-17.06.57:687][466]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.598ms to complete.
-[2018.11.29-17.06.57:688][466]LogFileHelpers: Loading map 'First_Lvl_Dup' took 0.226
-[2018.11.29-17.07.03:383][805]LogTemp: Repeating last play command: New Editor Window (PIE)
-[2018.11.29-17.07.03:400][805]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
-[2018.11.29-17.07.03:400][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.29-17.07.03:400][805]PIE: New page: PIE session: First_Lvl_Dup (Nov 29, 2018, 5:07:03 AM)
-[2018.11.29-17.07.03:400][805]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl_Dup
-[2018.11.29-17.07.03:404][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003884s)
-[2018.11.29-17.07.03:405][805]LogAIModule: Creating AISystem for world First_Lvl_Dup
-[2018.11.29-17.07.03:405][805]LogPlayLevel: PIE: World Init took: (0.000514s)
-[2018.11.29-17.07.03:405][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl_Dup.First_Lvl_Dup to /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup (0.004512s)
-[2018.11.29-17.07.03:429][805]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2018.11.29-17.07.03:592][805]LogInit: FAudioDevice initialized.
-[2018.11.29-17.07.03:605][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.29-17.07.03:678][805]LogLoad: Game class is '2DSideScrollerGameMode_C'
-[2018.11.29-17.07.03:681][805]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup up for play (max tick rate 0) at 2018.11.29-11.07.03
-[2018.11.29-17.07.03:682][805]LogWorld: Bringing up level for play took: 0.003040
-[2018.11.29-17.07.03:697][805]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl_Dup -0.293
-[2018.11.29-17.07.03:698][805]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
-[2018.11.29-17.08.14:276][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
-[2018.11.29-17.08.14:276][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.29-17.08.14:295][ 36]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
-[2018.11.29-17.08.14:331][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.11.29-17.08.14:332][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
-[2018.11.29-17.08.14:480][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_4
-[2018.11.29-17.08.16:980][193]LogEditorViewport: Clicking on Actor (LMB): Actual_First_Stage_Boss_C (Boss)
-[2018.11.29-17.08.18:443][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.29-17.08.18:552][284]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/Blueprints/Actual_First_Stage_Boss.Actual_First_Stage_Boss
-[2018.11.29-17.08.19:003][284]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
-[2018.11.29-17.08.19:697][284]LogSlate: Took 0.001441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2018.11.29-17.08.19:900][285]LogSlate: Took 0.002016 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2018.11.29-17.08.29:666][870]BlueprintLog: New page: Compile Actual_First_Stage_Boss
-[2018.11.29-17.08.30:760][906]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Actual_First_Stage_Boss9E17E7514000891A4E3C728C3C42CA7A.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Actual_First_Stage_Boss.uasset'
-[2018.11.29-17.09.03:357][860]LogTemp: Repeating last play command: New Editor Window (PIE)
-[2018.11.29-17.09.03:383][860]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
-[2018.11.29-17.09.03:383][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.29-17.09.03:383][860]PIE: New page: PIE session: First_Lvl_Dup (Nov 29, 2018, 5:09:03 AM)
-[2018.11.29-17.09.03:383][860]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl_Dup
-[2018.11.29-17.09.03:387][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003957s)
-[2018.11.29-17.09.03:387][860]LogAIModule: Creating AISystem for world First_Lvl_Dup
-[2018.11.29-17.09.03:388][860]LogPlayLevel: PIE: World Init took: (0.000568s)
-[2018.11.29-17.09.03:388][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl_Dup.First_Lvl_Dup to /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup (0.004639s)
-[2018.11.29-17.09.03:416][860]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2018.11.29-17.09.03:582][860]LogInit: FAudioDevice initialized.
-[2018.11.29-17.09.03:597][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.29-17.09.03:668][860]LogLoad: Game class is '2DSideScrollerGameMode_C'
-[2018.11.29-17.09.03:671][860]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup up for play (max tick rate 0) at 2018.11.29-11.09.03
-[2018.11.29-17.09.03:672][860]LogWorld: Bringing up level for play took: 0.002948
-[2018.11.29-17.09.03:687][860]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl_Dup -0.303
-[2018.11.29-17.09.03:687][860]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
-[2018.11.29-17.09.17:509][687]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
-[2018.11.29-17.09.17:510][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.29-17.09.17:529][687]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
-[2018.11.29-17.09.17:560][687]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.11.29-17.09.17:560][687]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
-[2018.11.29-17.09.17:714][694]LogPlayLevel: Display: Destroying online subsystem :Context_6
-[2018.11.29-17.09.23:157][ 12]LogEditorViewport: Clicking on Actor (LMB): Level_Camera_C (Level_Camera)
+[2018.12.04-17.40.32:350][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.04-17.40.32:350][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.04-17.40.32:357][  0]LogHAL: Display: Platform has ~ 16 GB [17052700672 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.04-17.40.32:357][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.04-17.40.32:357][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.04-17.40.32:358][  0]LogInit: Computer: MSI
+[2018.12.04-17.40.32:358][  0]LogInit: User: Luis
+[2018.12.04-17.40.32:358][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.12.04-17.40.32:358][  0]LogInit: High frequency timer resolution =2.156249 MHz
+[2018.12.04-17.40.32:358][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.04-17.40.32:358][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.04-17.40.32:358][  0]LogMemory: Process Physical Memory: 103.07 MB used, 103.07 MB peak
+[2018.12.04-17.40.32:358][  0]LogMemory: Process Virtual Memory: 96.39 MB used, 96.39 MB peak
+[2018.12.04-17.40.32:358][  0]LogMemory: Physical Memory: 9237.21 MB used,  7025.51 MB free, 16262.72 MB total
+[2018.12.04-17.40.32:358][  0]LogMemory: Virtual Memory: 4667.68 MB used,  7025.51 MB free, 134217728.00 MB total
+[2018.12.04-17.40.32:701][  0]LogInit: Using OS detected language (en-US).
+[2018.12.04-17.40.32:701][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.04-17.40.32:701][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.04-17.40.32:990][  0]LogStreaming: Display: Took  0.289s to InitEngineTextLocalization.
+[2018.12.04-17.40.32:990][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.04-17.40.33:027][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.04-17.40.33:027][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.04-17.40.33:182][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.04-17.40.33:182][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.04-17.40.33:247][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.12.04-17.40.33:247][  0]LogD3D11RHI:       6052/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.04-17.40.33:262][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2018.12.04-17.40.33:262][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.04-17.40.33:264][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.04-17.40.33:264][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.04-17.40.33:264][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.04-17.40.33:292][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.04-17.40.33:292][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.04-17.40.33:292][  0]LogWindows: EnumDisplayDevices:
+[2018.12.04-17.40.33:292][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2018.12.04-17.40.33:293][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.12.04-17.40.33:293][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.12.04-17.40.33:293][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.04-17.40.33:293][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.04-17.40.33:294][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.04-17.40.33:294][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.04-17.40.33:294][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.12.04-17.40.33:294][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.12.04-17.40.33:294][  0]LogD3D11RHI:   Driver Version: 398.11 (internal:24.21.13.9811, unified:398.11)
+[2018.12.04-17.40.33:294][  0]LogD3D11RHI:      Driver Date: 6-1-2018
+[2018.12.04-17.40.33:294][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.12.04-17.40.33:330][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.04-17.40.33:349][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.04-17.40.33:350][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Intermediate/Shaders/WorkingDirectory/372/).
+[2018.12.04-17.40.33:350][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Luis/AppData/Local/Temp/UnrealShaderWorkingDir/5256B1F64111FFE3A8B5349B5BA9C160/'.
+[2018.12.04-17.40.33:599][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.04-17.40.33:610][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.04-17.40.33:622][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.04-17.40.33:634][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.04-17.40.33:646][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.04-17.40.33:659][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.04-17.40.33:671][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.04-17.40.33:683][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.04-17.40.33:690][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.04-17.40.33:757][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-17.40.33:757][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-17.40.33:757][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-17.40.33:757][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-17.40.33:757][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-17.40.33:757][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-17.40.33:757][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-17.40.33:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-17.40.33:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-17.40.33:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-17.40.33:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-17.40.33:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-17.40.33:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-17.40.33:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-17.40.33:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-17.40.33:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-17.40.33:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-17.40.33:758][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-17.40.33:760][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.04-17.40.33:818][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.04-17.40.33:818][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.04-17.40.33:839][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.04-17.40.33:839][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.04-17.40.33:850][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.04-17.40.33:862][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.04-17.40.33:873][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.04-17.40.33:885][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.04-17.40.33:894][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.04-17.40.33:894][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.04-17.40.33:958][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.04-17.40.33:958][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.04-17.40.33:958][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.04-17.40.34:556][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.04-17.40.34:600][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Luis/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.04-17.40.34:600][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Luis/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.04-17.40.34:601][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.04-17.40.34:601][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.04-17.40.34:601][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.04-17.40.34:601][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.04-17.40.34:611][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.04-17.40.34:624][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Luis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.04-17.40.34:624][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.04-17.40.34:624][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.04-17.40.34:640][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.04-17.40.34:641][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.04-17.40.34:641][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.04-17.40.34:706][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2018.12.04-17.40.34:955][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.04-17.40.35:068][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.04-17.40.35:072][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.04-17.40.35:072][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.04-17.40.35:072][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.04-17.40.35:072][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.04-17.40.35:084][  0]LogNetVersion: XCP 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2987001549)
+[2018.12.04-17.40.35:482][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.077332 seconds
+[2018.12.04-17.40.35:489][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.04-17.40.35:489][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.12.04-17.40.35:489][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.04-17.40.36:216][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.04-17.40.36:228][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.04-17.40.36:363][  0]SourceControl: Source control is disabled
+[2018.12.04-17.40.36:363][  0]SourceControl: Source control is disabled
+[2018.12.04-17.40.36:365][  0]SourceControl: Source control is disabled
+[2018.12.04-17.40.36:367][  0]SourceControl: Source control is disabled
+[2018.12.04-17.40.36:539][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.04-17.40.37:341][  0]LogOcInput: OculusInput pre-init called
+[2018.12.04-17.40.37:395][  0]LogEngine: Initializing Engine...
+[2018.12.04-17.40.37:396][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.04-17.40.37:397][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.04-17.40.37:397][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.04-17.40.37:397][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.04-17.40.37:397][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.04-17.40.37:562][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.04-17.40.37:573][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.04-17.40.37:599][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.04-17.40.37:755][  0]LogInit: FAudioDevice initialized.
+[2018.12.04-17.40.37:755][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.04-17.40.37:829][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Luis/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.04-17.40.37:830][  0]LogInit: Texture streaming: Enabled
+[2018.12.04-17.40.37:847][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.04-17.40.37:861][  0]LogInit: Transaction tracking system initialized
+[2018.12.04-17.40.37:882][  0]BlueprintLog: New page: Editor Load
+[2018.12.04-17.40.37:957][  0]LocalizationService: Localization service is disabled
+[2018.12.04-17.40.38:202][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.04-17.40.38:202][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.04-17.40.38:202][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.04-17.40.38:202][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.04-17.40.38:202][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.04-17.40.38:202][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.04-17.40.38:202][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.04-17.40.38:313][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/' took 0.01s
+[2018.12.04-17.40.38:313][  0]SourceControl: Source control is disabled
+[2018.12.04-17.40.38:313][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl_Dup.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.04-17.40.38:314][  0]LightingResults: New page: Lighting Build
+[2018.12.04-17.40.38:316][  0]MapCheck: New page: Map Check
+[2018.12.04-17.40.38:316][  0]LightingResults: New page: Lighting Build
+[2018.12.04-17.40.39:028][  0]LogAIModule: Creating AISystem for world First_Lvl_Dup
+[2018.12.04-17.40.39:046][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.04-17.40.39:072][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.04-17.40.39:142][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.491ms to complete.
+[2018.12.04-17.40.39:142][  0]LogFileHelpers: Loading map 'First_Lvl_Dup' took 0.830
+[2018.12.04-17.40.39:231][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-17.40.39:241][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-17.40.39:247][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-17.40.39:254][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-17.40.39:259][  0]LogCollectionManager: Loaded 0 collections in 0.001358 seconds
+[2018.12.04-17.40.39:300][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Collections/' took 0.01s
+[2018.12.04-17.40.39:300][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Developers/Luis/Collections/' took 0.01s
+[2018.12.04-17.40.39:300][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Collections/' took 0.01s
+[2018.12.04-17.40.39:300][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.04-17.40.39:308][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2572 classes and 603 folders.
+[2018.12.04-17.40.39:313][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.04-17.40.39:348][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.04-17.40.39:354][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.12.04-17.40.39:438][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.04-17.40.39:438][  0]LogLoad: (Engine Initialization) Total time: 8.73 seconds
+[2018.12.04-17.40.39:438][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.04-17.40.39:456][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.04-17.40.39:475][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.04-17.40.39:478][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.04-17.40.39:479][  0]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.04-17.40.39:483][  0]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.04-17.40.39:556][  0]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.04-17.40.39:575][  1]LogRenderer: Reallocating scene render targets to support 872x376 Format 10 NumSamples 1 (Frame:1).
+[2018.12.04-17.40.39:587][  1]LogAssetRegistry: Asset discovery search completed in 4.9039 seconds
+[2018.12.04-17.40.39:589][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.04-17.40.39:589][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000088 seconds (updated 0 objects)
+[2018.12.04-17.40.40:620][ 61]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.04-17.40.44:456][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.40.46:127][330]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.04-17.40.46:145][330]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.40.46:145][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-17.40.46:157][330]PIE: New page: PIE session: First_Lvl_Dup (Dec 4, 2018, 5:40:46 AM)
+[2018.12.04-17.40.46:157][330]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl_Dup
+[2018.12.04-17.40.46:162][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004155s)
+[2018.12.04-17.40.46:162][330]LogAIModule: Creating AISystem for world First_Lvl_Dup
+[2018.12.04-17.40.46:162][330]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2018.12.04-17.40.46:162][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl_Dup.First_Lvl_Dup to /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup (0.004964s)
+[2018.12.04-17.40.46:188][330]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.04-17.40.46:344][330]LogInit: FAudioDevice initialized.
+[2018.12.04-17.40.46:356][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-17.40.46:447][330]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.04-17.40.46:452][330]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup up for play (max tick rate 60) at 2018.12.04-11.40.46
+[2018.12.04-17.40.46:454][330]LogWorld: Bringing up level for play took: 0.005468
+[2018.12.04-17.40.46:470][330]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2018.12.04-17.40.46:474][330]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl_Dup 0.989
+[2018.12.04-17.40.46:475][330]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.40.46:505][330]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2018.12.04-17.41.06:761][544]LogCharacterMovement: 2DSideScrollerCharacter0_C_0 is stuck and failed to move! Velocity: X=133.45 Y=0.00 Z=0.00 Location: X=2318.83 Y=0.00 Z=-56.18 Normal: X=-0.60 Y=0.00 Z=-0.80 PenetrationDepth:0.000 Actor:BP_Enemy_Eye1 Component:PaperSprite BoneName:None (0 other events since notify)
+[2018.12.04-17.41.37:877][411]LogNet: Browse: /Game/Maps/Second_Lvl
+[2018.12.04-17.41.37:877][411]LogLoad: LoadMap: /Game/Maps/Second_Lvl
+[2018.12.04-17.41.38:555][411]LogAIModule: Creating AISystem for world Second_Lvl
+[2018.12.04-17.41.38:555][411]LogLoad: Game class is '2DShipGameMode_C'
+[2018.12.04-17.41.38:562][411]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Second_Lvl.Second_Lvl up for play (max tick rate 60) at 2018.12.04-11.41.38
+[2018.12.04-17.41.38:562][411]LogWorld: Bringing up level for play took: 0.005764
+[2018.12.04-17.41.38:563][411]LogLoad: Took 0.685884 seconds to LoadMap(/Game/Maps/Second_Lvl)
+[2018.12.04-17.42.21:210][916]LogNet: Browse: /Game/Maps/Third_Lvl
+[2018.12.04-17.42.21:210][916]LogLoad: LoadMap: /Game/Maps/Third_Lvl
+[2018.12.04-17.42.21:460][916]LogAIModule: Creating AISystem for world Third_Lvl
+[2018.12.04-17.42.21:460][916]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.04-17.42.21:462][916]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl up for play (max tick rate 60) at 2018.12.04-11.42.21
+[2018.12.04-17.42.21:462][916]LogWorld: Bringing up level for play took: 0.001254
+[2018.12.04-17.42.21:464][916]LogLoad: Took 0.253535 seconds to LoadMap(/Game/Maps/Third_Lvl)
+[2018.12.04-17.42.47:062][452]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.42.47:062][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-17.42.47:080][452]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-17.42.47:116][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-17.42.47:116][452]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.42.47:261][459]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.12.04-17.43.08:872][755]LogEditorViewport: Clicking on Actor (LMB): BP_Boss_Respawn_C (BP_Boss_Respawn)
+[2018.12.04-17.43.10:969][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.43.11:045][884]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/Blueprints/checkpoints/BP_Boss_Respawn.BP_Boss_Respawn
+[2018.12.04-17.43.11:475][884]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.12.04-17.43.13:728][981]LogSlate: Window 'BP_Boss_Respawn' being destroyed
+[2018.12.04-17.43.13:816][981]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/Blueprints/checkpoints/BP_Boss_Respawn.BP_Boss_Respawn
+[2018.12.04-17.43.14:125][981]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.04-17.43.16:264][105]LogRenderer: Reallocating scene render targets to support 1028x576 Format 10 NumSamples 1 (Frame:1).
+[2018.12.04-17.43.17:176][159]LogSlate: Window 'BP_Boss_Respawn' being destroyed
+[2018.12.04-17.43.17:183][159]LogSlate: Window 'BP_Boss_Respawn' being destroyed
+[2018.12.04-17.43.21:255][400]LogEditorViewport: Clicking on Actor (context menu): BP_Boss_Respawn_C (BP_Boss_Respawn)
+[2018.12.04-17.43.21:276][400]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-17.43.27:923][794]Cmd: DELETE
+[2018.12.04-17.43.27:924][794]Cmd: ACTOR DELETE
+[2018.12.04-17.43.27:929][794]LogEditorActor: Deleted Actor: BP_Boss_Respawn_C
+[2018.12.04-17.43.27:958][794]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.12.04-17.43.28:949][854]LogEditorViewport: Clicking on Actor (LMB): BP_Camera_Respawn_C (BP_Camera_Respawn)
+[2018.12.04-17.43.30:342][937]LogEditorViewport: Clicking on Actor (context menu): BP_Camera_Respawn_C (BP_Camera_Respawn)
+[2018.12.04-17.43.30:360][937]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-17.43.33:485][124]Cmd: DELETE
+[2018.12.04-17.43.33:485][124]Cmd: ACTOR DELETE
+[2018.12.04-17.43.33:488][124]LogEditorActor: Deleted Actor: BP_Camera_Respawn_C
+[2018.12.04-17.43.33:514][124]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.12.04-17.43.46:654][913]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Tilemap)
+[2018.12.04-17.43.47:278][948]LogEditorViewport: Clicking on Actor (LMB): BP_Turret_Enemy_C (BP_Turret_Enemy3)
+[2018.12.04-17.44.01:685][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.44.01:785][818]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.04-17.44.01:804][818]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.44.01:805][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-17.44.01:805][818]PIE: New page: PIE session: First_Lvl_Dup (Dec 4, 2018, 5:44:01 AM)
+[2018.12.04-17.44.01:805][818]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl_Dup
+[2018.12.04-17.44.01:809][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003815s)
+[2018.12.04-17.44.01:809][818]LogAIModule: Creating AISystem for world First_Lvl_Dup
+[2018.12.04-17.44.01:809][818]LogPlayLevel: PIE: World Init took: (0.000493s)
+[2018.12.04-17.44.01:809][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl_Dup.First_Lvl_Dup to /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup (0.004420s)
+[2018.12.04-17.44.01:836][818]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.04-17.44.01:998][818]LogInit: FAudioDevice initialized.
+[2018.12.04-17.44.02:010][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-17.44.02:082][818]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.04-17.44.02:086][818]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup up for play (max tick rate 60) at 2018.12.04-11.44.02
+[2018.12.04-17.44.02:087][818]LogWorld: Bringing up level for play took: 0.002919
+[2018.12.04-17.44.02:103][818]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl_Dup 0.618
+[2018.12.04-17.44.02:104][818]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.44.18:637][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.44.18:637][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-17.44.18:656][807]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-17.44.18:701][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-17.44.18:702][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.44.18:848][814]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.12.04-17.44.20:031][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.44.20:148][892]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.04-17.44.20:165][892]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.44.20:165][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-17.44.20:166][892]PIE: New page: PIE session: First_Lvl_Dup (Dec 4, 2018, 5:44:20 AM)
+[2018.12.04-17.44.20:166][892]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl_Dup
+[2018.12.04-17.44.20:170][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003796s)
+[2018.12.04-17.44.20:170][892]LogAIModule: Creating AISystem for world First_Lvl_Dup
+[2018.12.04-17.44.20:170][892]LogPlayLevel: PIE: World Init took: (0.000498s)
+[2018.12.04-17.44.20:170][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl_Dup.First_Lvl_Dup to /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup (0.004408s)
+[2018.12.04-17.44.20:196][892]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.04-17.44.20:353][892]LogInit: FAudioDevice initialized.
+[2018.12.04-17.44.20:368][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-17.44.20:442][892]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.04-17.44.20:445][892]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup up for play (max tick rate 60) at 2018.12.04-11.44.20
+[2018.12.04-17.44.20:446][892]LogWorld: Bringing up level for play took: 0.002934
+[2018.12.04-17.44.20:462][892]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl_Dup 0.977
+[2018.12.04-17.44.20:463][892]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.44.24:531][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.45.21:152][530]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.45.21:152][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-17.45.21:171][530]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-17.45.21:207][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-17.45.21:208][530]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.45.21:358][537]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.12.04-17.45.25:908][810]LogEditorViewport: Clicking on Actor (LMB): BP_Turret_Enemy_C (BP_Turret_Enemy3)
+[2018.12.04-17.45.37:146][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.45.37:261][490]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.04-17.45.37:279][490]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.45.37:279][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-17.45.37:279][490]PIE: New page: PIE session: First_Lvl_Dup (Dec 4, 2018, 5:45:37 AM)
+[2018.12.04-17.45.37:279][490]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl_Dup
+[2018.12.04-17.45.37:283][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003870s)
+[2018.12.04-17.45.37:284][490]LogAIModule: Creating AISystem for world First_Lvl_Dup
+[2018.12.04-17.45.37:284][490]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2018.12.04-17.45.37:284][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl_Dup.First_Lvl_Dup to /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup (0.004504s)
+[2018.12.04-17.45.37:309][490]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.04-17.45.37:467][490]LogInit: FAudioDevice initialized.
+[2018.12.04-17.45.37:480][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-17.45.37:581][490]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.04-17.45.37:585][490]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup up for play (max tick rate 60) at 2018.12.04-11.45.37
+[2018.12.04-17.45.37:586][490]LogWorld: Bringing up level for play took: 0.003692
+[2018.12.04-17.45.37:602][490]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl_Dup 0.116
+[2018.12.04-17.45.37:603][490]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.46.11:058][495]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.46.11:058][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-17.46.11:077][495]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-17.46.11:116][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-17.46.11:117][495]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.46.11:273][502]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.12.04-17.46.12:923][601]LogEditorViewport: Clicking on Actor (LMB): BP_Turret_Enemy_C (BP_Turret_Enemy3)
+[2018.12.04-17.46.18:402][929]Cmd: DELETE
+[2018.12.04-17.46.18:402][929]Cmd: ACTOR DELETE
+[2018.12.04-17.46.18:404][929]LogEditorActor: Deleted Actor: BP_Turret_Enemy_C
+[2018.12.04-17.46.18:428][929]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.12.04-17.46.20:100][ 30]LogEditorViewport: Clicking on Actor (LMB): BP_Turret_Enemy_C (BP_Turret_Enemy2)
+[2018.12.04-17.46.22:080][148]Cmd: EDIT COPY
+[2018.12.04-17.46.22:562][177]Cmd: EDIT PASTE
+[2018.12.04-17.46.28:428][528]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy_Eye00_C (BP_Enemy_Eye2)
+[2018.12.04-17.46.30:859][673]LogEditorViewport: Clicking on Actor (LMB): BP_Turret_Enemy_C (BP_Turret_Enemy3)
+[2018.12.04-17.46.34:708][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.46.35:079][908]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Lvl_Dup3BFCEC1C48F5D88421C31A9A1F6B3C43.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl_Dup.umap'
+[2018.12.04-17.46.35:654][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.46.35:754][946]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.04-17.46.35:771][946]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.46.35:771][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-17.46.35:771][946]PIE: New page: PIE session: First_Lvl_Dup (Dec 4, 2018, 5:46:35 AM)
+[2018.12.04-17.46.35:771][946]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_First_Lvl_Dup
+[2018.12.04-17.46.35:775][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004065s)
+[2018.12.04-17.46.35:776][946]LogAIModule: Creating AISystem for world First_Lvl_Dup
+[2018.12.04-17.46.35:776][946]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2018.12.04-17.46.35:776][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/First_Lvl_Dup.First_Lvl_Dup to /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup (0.004760s)
+[2018.12.04-17.46.35:802][946]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.04-17.46.35:959][946]LogInit: FAudioDevice initialized.
+[2018.12.04-17.46.35:971][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-17.46.36:084][946]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.04-17.46.36:087][946]LogWorld: Bringing World /Game/Maps/UEDPIE_0_First_Lvl_Dup.First_Lvl_Dup up for play (max tick rate 60) at 2018.12.04-11.46.36
+[2018.12.04-17.46.36:088][946]LogWorld: Bringing up level for play took: 0.003044
+[2018.12.04-17.46.36:104][946]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_First_Lvl_Dup 0.618
+[2018.12.04-17.46.36:104][946]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.47.12:542][129]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.47.12:542][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-17.47.12:561][129]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-17.47.12:601][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-17.47.12:601][129]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup' with GeneratedClass '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup_C' with ClassGeneratedBy '/Game/Maps/First_Lvl_Dup.First_Lvl_Dup:PersistentLevel.First_Lvl_Dup'
+[2018.12.04-17.47.12:751][136]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.12.04-17.47.18:269][467]LogEditorViewport: Clicking on Actor (LMB): Actual_First_Stage_Boss_C (Boss)
+[2018.12.04-17.47.22:450][717]LogEditorViewport: Clicking Background
+[2018.12.04-17.47.23:767][796]LogEditorViewport: Clicking on Actor (LMB): Actual_First_Stage_Boss_C (Boss)
+[2018.12.04-17.47.32:778][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.47.32:869][341]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/Blueprints/Actual_First_Stage_Boss.Actual_First_Stage_Boss
+[2018.12.04-17.47.33:314][342]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.04-17.47.40:799][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.47.40:849][788]BlueprintLog: New page: Compile Actual_First_Stage_Boss
+[2018.12.04-17.47.43:035][896]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Actual_First_Stage_Boss044CCDFF4F095C97826F499752216259.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Actual_First_Stage_Boss.uasset'
+[2018.12.04-17.47.43:544][926]BlueprintLog: New page: Compile Actual_First_Stage_Boss
+[2018.12.04-17.47.45:016][987]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Lvl_Dup1B24865B4CAF3C15EAFB9E83496DB859.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/First_Lvl_Dup.umap'
+[2018.12.04-17.48.13:353][685]LogEditorViewport: Clicking on Actor (LMB): BP_Turret_Enemy_C (BP_Turret_Enemy3)
+[2018.12.04-17.48.30:868][735]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Tilemap)
+[2018.12.04-17.48.35:358][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.48.57:615][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.48.57:705][338]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Final_Project_Content/Sprites/Tilemaps_tilesets/Level01_Rebuild.Level01_Rebuild
+[2018.12.04-17.48.57:842][338]LogRenderer: Reallocating scene render targets to support 1028x884 Format 10 NumSamples 1 (Frame:1).
+[2018.12.04-17.49.06:133][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.49.29:622][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.49.37:984][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.49.53:637][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.49.59:582][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.50.03:423][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.50.09:036][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.50.11:215][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.50.14:728][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.50.20:424][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.50.36:516][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-17.50.41:579][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.50.58:811][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.51.18:656][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.51.41:155][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.52.07:151][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.52.12:968][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.52.16:935][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.52.21:347][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.52.27:746][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.52.33:410][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.52.40:688][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.52.46:689][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.52.59:242][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.53.27:224][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.53.48:229][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.53.50:319][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.53.56:328][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.54.00:130][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.54.11:205][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.54.20:762][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.54.51:714][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.54.54:386][551]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Level01_Rebuild6D9E2DE246773356F874C1992B8D1065.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Tilemaps_tilesets/Level01_Rebuild.uasset'
+[2018.12.04-17.55.02:250][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.55.09:690][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.55.19:381][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.55.49:470][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.55.59:109][418]Cmd: TRANSACTION UNDO
+[2018.12.04-17.55.59:109][418]LogEditorTransaction: Undo Tile Painting
+[2018.12.04-17.55.59:639][449]Cmd: TRANSACTION UNDO
+[2018.12.04-17.55.59:639][449]LogEditorTransaction: Undo Tile Painting
+[2018.12.04-17.56.04:096][715]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-17.56.11:489][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.56.22:211][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.56.33:274][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-17.56.35:299][459]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Level01_Rebuild6B040ACF4858D677D759EF99692E4F45.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Tilemaps_tilesets/Level01_Rebuild.uasset'
