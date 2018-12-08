@@ -7,3 +7,6 @@ Logs/
 *.ini
 *.bin
 
+*.bin
+*.ini
+*.log
