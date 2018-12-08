@@ -403,3 +403,340 @@ LogInit: Object subsystem initialized
 [2018.12.08-16.49.47:186][615]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.358ms to complete.
 [2018.12.08-16.49.47:187][615]LogFileHelpers: Loading map 'Third_Lvl' took 0.225
 [2018.12.08-16.52.43:848][288]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.08-16.55.24:338][316]LogEditorViewport: Clicking on Actor (LMB): Third_Stage_Boss_C (Boss1)
+[2018.12.08-16.56.03:039][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-16.57.49:464][642]LogEditorViewport: Clicking Background
+[2018.12.08-16.57.58:199][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-16.58.16:273][249]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Final_Project_Content/Sprites/Flipbook/Siren_Sprites1.Siren_Sprites1
+[2018.12.08-16.58.16:422][249]LogRenderer: Reallocating scene render targets to support 1416x788 Format 10 NumSamples 1 (Frame:1).
+[2018.12.08-16.58.24:835][754]LogSlate: Window 'Siren_Sprites1' being destroyed
+[2018.12.08-16.58.24:839][754]LogSlate: Window 'Siren_Sprites1' being destroyed
+[2018.12.08-16.59.30:209][347]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luis\Documents\Unreal Projects\Random_Content\machine_guard.png)
+[2018.12.08-16.59.30:213][347]LogTexture: Display: Building textures: machine_guard (AutoDXT, 32X64)
+[2018.12.08-16.59.34:914][606]LogTexture: Display: Building textures: machine_guard (BGRA8, 32X64)
+[2018.12.08-16.59.42:086][ 36]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Final_Project_Content/Sprites/Enemies/machine_guard.machine_guard
+[2018.12.08-16.59.42:099][ 36]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.12.08-16.59.44:919][195]LogSlate: Window 'machine_guard*' being destroyed
+[2018.12.08-16.59.44:925][195]LogSlate: Window 'machine_guard*' being destroyed
+[2018.12.08-16.59.53:811][723]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Final_Project_Content/Sprites/Enemies/machine_guard_Sprite.machine_guard_Sprite
+[2018.12.08-16.59.53:894][723]LogSlate: Took 0.001879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.08-16.59.53:970][723]LogRenderer: Reallocating scene render targets to support 1528x920 Format 10 NumSamples 1 (Frame:1).
+[2018.12.08-16.59.57:786][952]LogSlate: Took 0.001626 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.08-16.59.59:629][ 63]LogSlate: Window 'machine_guard_Sprite*' being destroyed
+[2018.12.08-16.59.59:634][ 63]LogSlate: Window 'machine_guard_Sprite*' being destroyed
+[2018.12.08-17.00.05:464][411]LogTexture: Display: Building textures: SavePoint_01 (BGRA8, 64X64)
+[2018.12.08-17.00.05:472][411]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Final_Project_Content/Sprites/Enemies/SavePoint_01.SavePoint_01
+[2018.12.08-17.00.13:473][883]LogSlate: Window 'SavePoint_01' being destroyed
+[2018.12.08-17.00.13:479][883]LogSlate: Window 'SavePoint_01' being destroyed
+[2018.12.08-17.00.14:620][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Third_Lvl" FILE="../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Third_Lvl.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.08-17.00.14:777][948]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_LvlA91D133343F91A2D36C623B5F3520C41.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Third_Lvl.umap'
+[2018.12.08-17.00.46:987][515]LogEditorViewport: Clicking Background
+[2018.12.08-17.00.51:454][783]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.12.08-17.01.01:039][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.01.21:090][541]LogEditorViewport: Clicking Background
+[2018.12.08-17.01.24:434][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.02.11:657][433]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.12.08-17.02.31:098][598]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/Blueprints/Enemies/BP_Boss_Guard.BP_Boss_Guard
+[2018.12.08-17.02.31:495][598]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.12.08-17.04.27:928][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.04.49:196][795]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.08-17.04.58:607][358]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.08-17.05.05:326][760]LogEditorTransaction: Undo Modify Component(s)
+[2018.12.08-17.05.06:539][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.06.23:281][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.06.23:381][431]BlueprintLog: New page: Compile BP_Boss_Guard
+[2018.12.08-17.06.24:039][458]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_Boss_GuardBFB9170D401B55F353444BAAC9AAB51A.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Enemies/BP_Boss_Guard.uasset'
+[2018.12.08-17.07.28:927][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.07.30:012][402]LogSlate: Window 'BP_Boss_Guard' being destroyed
+[2018.12.08-17.07.45:917][355]LogEditorViewport: Clicking on Actor (LMB): Third_Stage_Boss_C (Boss1)
+[2018.12.08-17.07.48:778][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.07.48:904][533]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss.Third_Stage_Boss
+[2018.12.08-17.13.03:999][353]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Lvl_Auto1E27334744F3BAD2A0C97E6871CE59E8B.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Maps/Third_Lvl_Auto1.umap'
+[2018.12.08-17.13.04:002][353]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Third_Lvl' took 0.209
+[2018.12.08-17.13.04:002][353]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.209
+[2018.12.08-17.13.04:007][353]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss] ([1] browsable assets)...
+[2018.12.08-17.13.04:008][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss]
+[2018.12.08-17.13.04:112][353]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Stage_Boss_Auto11D27D17D4A21E7790139C1B3365B37D6.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss_Auto1.uasset'
+[2018.12.08-17.13.04:114][353]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Enemies/machine_guard] ([1] browsable assets)...
+[2018.12.08-17.13.04:116][353]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Final_Project_Content/Sprites/Enemies/machine_guard.machine_guard]
+[2018.12.08-17.13.04:116][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Enemies/machine_guard]
+[2018.12.08-17.13.04:119][353]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/machine_guard_Auto15750AB584607AC8A7A595AA0385C0ABE.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Enemies/machine_guard_Auto1.uasset'
+[2018.12.08-17.13.04:121][353]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Final_Project_Content/Sprites/Enemies/machine_guard_Sprite] ([1] browsable assets)...
+[2018.12.08-17.13.04:128][353]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Final_Project_Content/Sprites/Enemies/machine_guard_Sprite.machine_guard_Sprite]
+[2018.12.08-17.13.04:128][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Sprites/Enemies/machine_guard_Sprite]
+[2018.12.08-17.13.04:133][353]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/machine_guard_Sprite_Auto1ED22CFB043CC13F1A5921EA206A6A9C6.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Sprites/Enemies/machine_guard_Sprite_Auto1.uasset'
+[2018.12.08-17.13.04:134][353]LogFileHelpers: Auto-saving content packages took 0.127
+[2018.12.08-17.13.10:283][722]BlueprintLog: New page: Compile Third_Stage_Boss
+[2018.12.08-17.13.11:123][749]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Stage_Boss96F80FD24B755625906A6BBA3DBCB5A0.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss.uasset'
+[2018.12.08-17.13.24:557][553]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.08-17.13.57:309][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.14.07:465][115]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.08-17.14.20:356][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.14.25:779][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.15.00:931][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.15.40:073][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.15.49:710][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.15.55:461][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.16.07:411][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.16.28:893][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.16.32:780][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.16.38:153][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.16.41:341][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.16.46:164][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.16.49:168][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.17.05:793][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.17.13:550][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.17.16:637][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.17.20:493][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.17.23:946][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.17.28:719][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.17.32:923][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.17.35:792][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.17.40:363][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.17.44:100][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.18.43:351][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.18.43:451][634]BlueprintLog: New page: Compile BP_Boss_Guard
+[2018.12.08-17.18.44:293][668]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/BP_Boss_GuardB936ACE34C9E9CA016D0F5829339376C.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Enemies/BP_Boss_Guard.uasset'
+[2018.12.08-17.18.45:507][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.18.48:449][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.19.40:502][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.19.42:119][135]LogEditorViewport: Clicking Background
+[2018.12.08-17.20.24:405][672]LogEditorViewport: Clicking on Actor (LMB): Third_Stage_Boss_C (Boss1)
+[2018.12.08-17.20.26:751][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.20.40:917][662]LogEditorViewport: Clicking Background
+[2018.12.08-17.20.54:201][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.23.13:510][602]BlueprintLog: New page: Compile Third_Stage_Boss
+[2018.12.08-17.23.16:893][792]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.08-17.23.16:929][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.23.16:929][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-17.23.16:943][792]PIE: New page: PIE session: Third_Lvl (Dec 8, 2018, 5:23:16 AM)
+[2018.12.08-17.23.16:943][792]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Third_Lvl
+[2018.12.08-17.23.16:945][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002346s)
+[2018.12.08-17.23.16:946][792]LogAIModule: Creating AISystem for world Third_Lvl
+[2018.12.08-17.23.16:946][792]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2018.12.08-17.23.16:946][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Third_Lvl.Third_Lvl to /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl (0.003108s)
+[2018.12.08-17.23.16:979][792]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.08-17.23.16:987][792]LogInit: FAudioDevice initialized.
+[2018.12.08-17.23.16:999][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-17.23.17:062][792]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.08-17.23.17:064][792]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl up for play (max tick rate 60) at 2018.12.08-11.23.17
+[2018.12.08-17.23.17:065][792]LogWorld: Bringing up level for play took: 0.001435
+[2018.12.08-17.23.17:089][792]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.12.08-17.23.17:098][792]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Third_Lvl -0.05
+[2018.12.08-17.23.17:098][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.23.24:622][237]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.23.24:623][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-17.23.24:642][237]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.08-17.23.24:685][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-17.23.24:686][237]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.23.24:870][244]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.12.08-17.23.58:360][240]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Lvl_Auto2632CF8A544051D58847B729174B11418.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Maps/Third_Lvl_Auto2.umap'
+[2018.12.08-17.23.58:371][240]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Third_Lvl' took 0.211
+[2018.12.08-17.23.58:371][240]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.211
+[2018.12.08-17.23.58:376][240]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss] ([1] browsable assets)...
+[2018.12.08-17.23.58:376][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss]
+[2018.12.08-17.23.58:480][240]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Stage_Boss_Auto2D0364498428C3D1EDEB251BE1F58F507.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss_Auto2.uasset'
+[2018.12.08-17.23.58:482][240]LogFileHelpers: Auto-saving content packages took 0.107
+[2018.12.08-17.25.47:978][230]BlueprintLog: New page: Compile Third_Stage_Boss
+[2018.12.08-17.25.48:781][258]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Stage_BossAC2989614E981685DD58CF81B1B0B411.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss.uasset'
+[2018.12.08-17.26.07:664][384]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.08-17.26.13:861][751]BlueprintLog: New page: Compile Third_Stage_Boss
+[2018.12.08-17.26.13:899][751]LogBlueprint: Error: [Compiler Third_Stage_Boss] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.12.08-17.26.13:899][751]LogBlueprint: Error: [Compiler Third_Stage_Boss] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.12.08-17.26.14:033][751]LogBlueprint: Warning: [Compiler Third_Stage_Boss] [2258.13] Compile of Third_Stage_Boss failed. 2 Fatal Issue(s) 0 Warning(s) [in 171 ms] (/Game/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss.Third_Stage_Boss)
+[2018.12.08-17.26.45:974][659]LogEditorViewport: Clicking on Actor (LMB): BP_Boss_Guard_C (BP_Boss_Guard)
+[2018.12.08-17.26.54:192][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.27.08:526][ 11]BlueprintLog: New page: Compile Third_Stage_Boss
+[2018.12.08-17.27.09:564][ 53]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Stage_Boss242B9D4D4FBD9875EFD214B27636497A.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss.uasset'
+[2018.12.08-17.27.26:090][ 44]Cmd: DELETE
+[2018.12.08-17.27.26:090][ 44]Cmd: ACTOR DELETE
+[2018.12.08-17.27.26:095][ 44]LogEditorActor: Deleted Actor: BP_Boss_Guard_C
+[2018.12.08-17.27.26:123][ 44]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.12.08-17.27.28:178][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.27.28:261][173]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.08-17.27.28:293][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.27.28:293][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-17.27.28:293][173]PIE: New page: PIE session: Third_Lvl (Dec 8, 2018, 5:27:28 AM)
+[2018.12.08-17.27.28:293][173]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Third_Lvl
+[2018.12.08-17.27.28:295][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001638s)
+[2018.12.08-17.27.28:295][173]LogAIModule: Creating AISystem for world Third_Lvl
+[2018.12.08-17.27.28:295][173]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2018.12.08-17.27.28:295][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Third_Lvl.Third_Lvl to /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl (0.002423s)
+[2018.12.08-17.27.28:324][173]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.08-17.27.28:332][173]LogInit: FAudioDevice initialized.
+[2018.12.08-17.27.28:356][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-17.27.28:387][173]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.08-17.27.28:388][173]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl up for play (max tick rate 60) at 2018.12.08-11.27.28
+[2018.12.08-17.27.28:389][173]LogWorld: Bringing up level for play took: 0.001014
+[2018.12.08-17.27.28:405][173]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Third_Lvl -0.743
+[2018.12.08-17.27.28:405][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.27.45:999][793]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.27.45:999][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-17.27.46:020][793]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.08-17.27.46:343][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-17.27.46:343][793]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.27.46:557][800]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.12.08-17.27.47:824][876]LogEditorViewport: Clicking on Actor (LMB): Third_Stage_Boss_C (Boss1)
+[2018.12.08-17.27.49:088][951]LogEditorViewport: Clicking Background
+[2018.12.08-17.28.03:073][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-17.29.32:964][ 65]BlueprintLog: New page: Compile Third_Stage_Boss
+[2018.12.08-17.29.33:628][ 84]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Stage_Boss96A6D7A8472A4C810552079DDAAB01BE.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss.uasset'
+[2018.12.08-17.29.49:916][ 60]BlueprintLog: New page: Compile Third_Stage_Boss
+[2018.12.08-17.29.50:646][ 83]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Stage_Boss9A1817084EAC38705A85528F8B9EA5AE.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss.uasset'
+[2018.12.08-17.29.52:168][174]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.08-17.29.52:200][174]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.29.52:200][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-17.29.52:200][174]PIE: New page: PIE session: Third_Lvl (Dec 8, 2018, 5:29:52 AM)
+[2018.12.08-17.29.52:200][174]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Third_Lvl
+[2018.12.08-17.29.52:202][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001608s)
+[2018.12.08-17.29.52:202][174]LogAIModule: Creating AISystem for world Third_Lvl
+[2018.12.08-17.29.52:203][174]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2018.12.08-17.29.52:203][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Third_Lvl.Third_Lvl to /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl (0.002294s)
+[2018.12.08-17.29.52:235][174]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.08-17.29.52:243][174]LogInit: FAudioDevice initialized.
+[2018.12.08-17.29.52:253][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-17.29.52:292][174]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.08-17.29.52:294][174]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl up for play (max tick rate 60) at 2018.12.08-11.29.52
+[2018.12.08-17.29.52:294][174]LogWorld: Bringing up level for play took: 0.000781
+[2018.12.08-17.29.52:310][174]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Third_Lvl -0.839
+[2018.12.08-17.29.52:310][174]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.30.21:216][906]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.30.21:216][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-17.30.21:235][906]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.08-17.30.21:274][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-17.30.21:274][906]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.30.21:415][913]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.12.08-17.30.50:710][668]BlueprintLog: New page: Compile Third_Stage_Boss
+[2018.12.08-17.30.53:359][814]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.08-17.30.53:391][814]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.30.53:391][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-17.30.53:391][814]PIE: New page: PIE session: Third_Lvl (Dec 8, 2018, 5:30:53 AM)
+[2018.12.08-17.30.53:391][814]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Third_Lvl
+[2018.12.08-17.30.53:393][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001614s)
+[2018.12.08-17.30.53:393][814]LogAIModule: Creating AISystem for world Third_Lvl
+[2018.12.08-17.30.53:394][814]LogPlayLevel: PIE: World Init took: (0.000505s)
+[2018.12.08-17.30.53:394][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Third_Lvl.Third_Lvl to /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl (0.002234s)
+[2018.12.08-17.30.53:427][814]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.08-17.30.53:434][814]LogInit: FAudioDevice initialized.
+[2018.12.08-17.30.53:444][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-17.30.53:513][814]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.08-17.30.53:514][814]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl up for play (max tick rate 60) at 2018.12.08-11.30.53
+[2018.12.08-17.30.53:514][814]LogWorld: Bringing up level for play took: 0.000847
+[2018.12.08-17.30.53:530][814]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Third_Lvl 0.382
+[2018.12.08-17.30.53:530][814]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.31.29:642][977]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.31.29:643][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-17.31.29:662][977]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.08-17.31.29:701][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-17.31.29:702][977]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.31.29:854][984]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.12.08-17.31.59:567][762]BlueprintLog: New page: Compile Third_Stage_Boss
+[2018.12.08-17.32.00:508][798]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Stage_Boss9383F36C4F1A929B500C3685F836356F.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss.uasset'
+[2018.12.08-17.32.02:565][921]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.08-17.32.02:596][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.32.02:596][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-17.32.02:596][921]PIE: New page: PIE session: Third_Lvl (Dec 8, 2018, 5:32:02 AM)
+[2018.12.08-17.32.02:596][921]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Third_Lvl
+[2018.12.08-17.32.02:598][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001658s)
+[2018.12.08-17.32.02:598][921]LogAIModule: Creating AISystem for world Third_Lvl
+[2018.12.08-17.32.02:599][921]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2018.12.08-17.32.02:599][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Third_Lvl.Third_Lvl to /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl (0.002275s)
+[2018.12.08-17.32.02:630][921]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.08-17.32.02:638][921]LogInit: FAudioDevice initialized.
+[2018.12.08-17.32.02:648][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-17.32.02:709][921]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.08-17.32.02:710][921]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl up for play (max tick rate 60) at 2018.12.08-11.32.02
+[2018.12.08-17.32.02:710][921]LogWorld: Bringing up level for play took: 0.000810
+[2018.12.08-17.32.02:726][921]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Third_Lvl -0.422
+[2018.12.08-17.32.02:726][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.32.36:811][871]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.32.36:811][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-17.32.36:833][871]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.08-17.32.37:359][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-17.32.37:359][871]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.32.37:590][878]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.12.08-17.34.41:276][270]BlueprintLog: New page: Compile Third_Stage_Boss
+[2018.12.08-17.34.42:001][293]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Stage_Boss67FBF3534A09661B13548FAB80F70050.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss.uasset'
+[2018.12.08-17.36.21:195][240]BlueprintLog: New page: Compile Third_Stage_Boss
+[2018.12.08-17.36.22:230][280]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Stage_Boss1591A21142EE9B2CA756269A3BFF3261.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss.uasset'
+[2018.12.08-17.36.33:875][972]BlueprintLog: New page: Compile Third_Stage_Boss
+[2018.12.08-17.36.34:829][  8]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Stage_BossF23332F04DA89175A474F88DC7115F21.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss.uasset'
+[2018.12.08-17.36.41:259][393]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.08-17.36.41:293][393]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.36.41:293][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-17.36.41:293][393]PIE: New page: PIE session: Third_Lvl (Dec 8, 2018, 5:36:41 AM)
+[2018.12.08-17.36.41:293][393]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Third_Lvl
+[2018.12.08-17.36.41:295][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001689s)
+[2018.12.08-17.36.41:296][393]LogAIModule: Creating AISystem for world Third_Lvl
+[2018.12.08-17.36.41:296][393]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2018.12.08-17.36.41:296][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Third_Lvl.Third_Lvl to /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl (0.002396s)
+[2018.12.08-17.36.41:329][393]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.08-17.36.41:338][393]LogInit: FAudioDevice initialized.
+[2018.12.08-17.36.41:348][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-17.36.41:386][393]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.08-17.36.41:387][393]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl up for play (max tick rate 60) at 2018.12.08-11.36.41
+[2018.12.08-17.36.41:388][393]LogWorld: Bringing up level for play took: 0.000832
+[2018.12.08-17.36.41:404][393]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Third_Lvl 0.256
+[2018.12.08-17.36.41:404][393]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.37.31:597][434]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.37.31:597][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-17.37.31:619][434]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.08-17.37.32:581][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-17.37.32:581][434]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.37.32:908][441]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.12.08-17.37.46:953][270]BlueprintLog: New page: Compile Third_Stage_Boss
+[2018.12.08-17.37.47:848][300]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Stage_BossF9B5C6504773B87EB017C5907EE9CEF1.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss.uasset'
+[2018.12.08-17.37.58:904][963]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.08-17.37.58:938][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.37.58:938][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-17.37.58:939][963]PIE: New page: PIE session: Third_Lvl (Dec 8, 2018, 5:37:58 AM)
+[2018.12.08-17.37.58:939][963]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Third_Lvl
+[2018.12.08-17.37.58:940][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001683s)
+[2018.12.08-17.37.58:941][963]LogAIModule: Creating AISystem for world Third_Lvl
+[2018.12.08-17.37.58:941][963]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2018.12.08-17.37.58:941][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Third_Lvl.Third_Lvl to /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl (0.002316s)
+[2018.12.08-17.37.58:972][963]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.08-17.37.58:980][963]LogInit: FAudioDevice initialized.
+[2018.12.08-17.37.58:990][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-17.37.59:028][963]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.08-17.37.59:029][963]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl up for play (max tick rate 60) at 2018.12.08-11.37.59
+[2018.12.08-17.37.59:030][963]LogWorld: Bringing up level for play took: 0.000785
+[2018.12.08-17.37.59:045][963]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Third_Lvl -0.103
+[2018.12.08-17.37.59:046][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.38.36:035][688]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.38.36:035][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-17.38.36:061][688]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.08-17.38.36:875][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-17.38.36:875][688]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.38.37:186][695]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.12.08-17.39.48:900][995]BlueprintLog: New page: Compile Third_Stage_Boss
+[2018.12.08-17.39.50:841][ 98]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.08-17.39.50:876][ 98]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.39.50:876][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-17.39.50:877][ 98]PIE: New page: PIE session: Third_Lvl (Dec 8, 2018, 5:39:50 AM)
+[2018.12.08-17.39.50:877][ 98]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Third_Lvl
+[2018.12.08-17.39.50:878][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001496s)
+[2018.12.08-17.39.50:879][ 98]LogAIModule: Creating AISystem for world Third_Lvl
+[2018.12.08-17.39.50:879][ 98]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2018.12.08-17.39.50:879][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Third_Lvl.Third_Lvl to /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl (0.002189s)
+[2018.12.08-17.39.50:914][ 98]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.08-17.39.50:921][ 98]LogInit: FAudioDevice initialized.
+[2018.12.08-17.39.50:932][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-17.39.51:003][ 98]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.08-17.39.51:004][ 98]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Third_Lvl.Third_Lvl up for play (max tick rate 60) at 2018.12.08-11.39.51
+[2018.12.08-17.39.51:004][ 98]LogWorld: Bringing up level for play took: 0.000868
+[2018.12.08-17.39.51:020][ 98]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Third_Lvl -0.129
+[2018.12.08-17.39.51:020][ 98]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.40.16:863][718]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.40.16:863][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-17.40.16:884][718]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.08-17.40.17:462][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-17.40.17:463][718]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl' with GeneratedClass '/Game/Maps/Third_Lvl.Third_Lvl_C' with ClassGeneratedBy '/Game/Maps/Third_Lvl.Third_Lvl:PersistentLevel.Third_Lvl'
+[2018.12.08-17.40.17:788][725]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.08-17.40.45:959][294]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Lvl_Auto3D19EDED54F2CDCC6D9523E824438B1AB.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Maps/Third_Lvl_Auto3.umap'
+[2018.12.08-17.40.45:965][294]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Third_Lvl' took 0.207
+[2018.12.08-17.40.45:965][294]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.207
+[2018.12.08-17.40.45:970][294]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss] ([1] browsable assets)...
+[2018.12.08-17.40.45:970][294]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss]
+[2018.12.08-17.40.46:079][294]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Third_Stage_Boss_Auto3961ED5754E0648892BD341B8C3379940.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss_Auto3.uasset'
+[2018.12.08-17.40.46:084][294]LogFileHelpers: Auto-saving content packages took 0.114
