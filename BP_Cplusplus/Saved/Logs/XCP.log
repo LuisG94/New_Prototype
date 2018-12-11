@@ -3262,3 +3262,1131 @@ LogInit: Object subsystem initialized
 [2018.12.10-23.07.31:584][116]LogFileHelpers: Saving map 'First_Lvl_Dup' took 0.421
 [2018.12.10-23.07.31:664][116]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/2DSideScrollerGameMode497B282F4E1FBC158EEA5880FE9907C6.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
 [2018.12.10-23.07.31:680][116]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Transition_text277C805EB4DE3327A18D663B3F4DF12E9.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Widgets/First_Transition_text2.uasset'
+[2018.12.10-23.30.34:474][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-23.31.00:533][781]BlueprintLog: New page: Compile First_Transition_Terminal_Text
+[2018.12.10-23.31.01:456][805]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Transition_Terminal_Text434119BD480C99DE6BBF8691CCADEFF2.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/First_Transition_Terminal_Text.uasset'
+[2018.12.10-23.31.29:271][456]BlueprintLog: New page: Compile First_Transition_Terminal_Text
+[2018.12.10-23.31.29:279][456]LogBlueprint: Error: [Compiler First_Transition_Terminal_Text] Spawn node  Create Widget  must have a class specified.
+[2018.12.10-23.31.29:413][456]LogBlueprint: Warning: [Compiler First_Transition_Terminal_Text] [2423.31] Compile of First_Transition_Terminal_Text failed. 1 Fatal Issue(s) 0 Warning(s) [in 142 ms] (/Game/Final_Project_Content/Blueprints/First_Transition_Terminal_Text.First_Transition_Terminal_Text)
+[2018.12.10-23.31.35:931][834]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Siren_Sprites_Sprite_0)
+[2018.12.10-23.31.39:464][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-23.32.04:095][506]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Transition_First_Lvl_Auto47AFDAC4D4B80653AF4D57F9D61F76DA2.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Maps/Transition_First_Lvl_Auto4.umap'
+[2018.12.10-23.32.04:098][506]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Transition_First_Lvl' took 0.234
+[2018.12.10-23.32.04:099][506]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.234
+[2018.12.10-23.32.04:104][506]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Final_Project_Content/Blueprints/First_Transition_Terminal_Text] ([1] browsable assets)...
+[2018.12.10-23.32.04:104][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Final_Project_Content/Blueprints/First_Transition_Terminal_Text]
+[2018.12.10-23.32.04:189][506]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Transition_Terminal_Text_A4BE059F74606D3041EB0D8BBA84AD7DE.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Autosaves/Game/Final_Project_Content/Blueprints/First_Transition_Terminal_Text_Auto4.uasset'
+[2018.12.10-23.32.04:192][506]LogFileHelpers: Auto-saving content packages took 0.088
+[2018.12.10-23.32.47:711][ 13]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.12.10-23.33.27:954][400]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/Blueprints/Alarm.Alarm
+[2018.12.10-23.34.24:971][770]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Siren_Sprites11881B2CE54F367B44CC5AFA874A2256A9.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Sprites/Enemies/Siren_Sprites11.uasset'
+[2018.12.10-23.34.26:839][839]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Transition_First_LvlB0F9A2B74DE28E4387CE36B7B87713BF.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Transition_First_Lvl.umap'
+[2018.12.10-23.34.34:839][302]BlueprintLog: New page: Compile Alarm
+[2018.12.10-23.34.35:709][330]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/AlarmDE609E9E4BD2E5E6D8F734B2D1EE453C.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Alarm.uasset'
+[2018.12.10-23.35.20:398][983]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.10-23.35.39:247][101]BlueprintLog: New page: Compile Alarm
+[2018.12.10-23.35.39:251][101]LogBlueprint: Error: [Compiler Alarm] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2018.12.10-23.35.39:388][101]LogBlueprint: Warning: [Compiler Alarm] [2673.29] Compile of Alarm failed. 1 Fatal Issue(s) 0 Warning(s) [in 141 ms] (/Game/Final_Project_Content/Blueprints/Alarm.Alarm)
+[2018.12.10-23.35.40:325][138]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Alarm028CF0754672580F9E15399985698388.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Alarm.uasset'
+[2018.12.10-23.35.53:426][923]BlueprintLog: New page: Compile Alarm
+[2018.12.10-23.35.54:433][956]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/AlarmC021413542A6CB7D7DCD82950AF11CB0.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Alarm.uasset'
+[2018.12.10-23.36.01:035][348]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Final_Project_Content/Blueprints/Third_Stage/Third_Stage_Boss.Third_Stage_Boss
+[2018.12.10-23.36.30:379][ 82]BlueprintLog: New page: Compile First_Transition_Terminal_Text
+[2018.12.10-23.36.31:236][104]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Transition_Terminal_TextE7219C404267901141003EBE62B3D396.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/First_Transition_Terminal_Text.uasset'
+[2018.12.10-23.37.13:434][592]BlueprintLog: New page: Compile Alarm
+[2018.12.10-23.37.14:310][616]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Alarm050BF34B4DCC1A220A28868BBD17C376.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Alarm.uasset'
+[2018.12.10-23.37.18:236][851]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.10-23.37.18:277][851]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.37.18:277][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-23.37.18:277][851]PIE: New page: PIE session: Transition_First_Lvl (Dec 10, 2018, 11:37:18 AM)
+[2018.12.10-23.37.18:278][851]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Transition_First_Lvl
+[2018.12.10-23.37.18:279][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001338s)
+[2018.12.10-23.37.18:280][851]LogAIModule: Creating AISystem for world Transition_First_Lvl
+[2018.12.10-23.37.18:280][851]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2018.12.10-23.37.18:280][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Transition_First_Lvl.Transition_First_Lvl to /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl (0.002378s)
+[2018.12.10-23.37.18:318][851]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.10-23.37.18:465][851]LogInit: FAudioDevice initialized.
+[2018.12.10-23.37.18:479][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.37.18:556][851]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.10-23.37.18:557][851]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl up for play (max tick rate 60) at 2018.12.10-17.37.18
+[2018.12.10-23.37.18:557][851]LogWorld: Bringing up level for play took: 0.000876
+[2018.12.10-23.37.18:573][851]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Transition_First_Lvl 0.627
+[2018.12.10-23.37.18:573][851]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.37.32:487][671]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.37.32:488][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.37.32:509][671]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.10-23.37.32:551][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-23.37.32:551][671]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.37.32:968][678]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2018.12.10-23.38.08:632][804]BlueprintLog: New page: Compile First_Transition_Terminal_Text
+[2018.12.10-23.38.09:504][826]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Transition_Terminal_Text7FC9D53A45BC251CCABC2782C980C127.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/First_Transition_Terminal_Text.uasset'
+[2018.12.10-23.38.25:994][812]BlueprintLog: New page: Compile Alarm
+[2018.12.10-23.38.52:811][397]BlueprintLog: New page: Compile Alarm
+[2018.12.10-23.38.53:641][418]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Alarm5C6C49FB4990B6E455DA49B4AC1976D4.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Alarm.uasset'
+[2018.12.10-23.38.54:750][484]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.10-23.38.54:789][484]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.38.54:790][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-23.38.54:790][484]PIE: New page: PIE session: Transition_First_Lvl (Dec 10, 2018, 11:38:54 AM)
+[2018.12.10-23.38.54:790][484]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Transition_First_Lvl
+[2018.12.10-23.38.54:791][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001311s)
+[2018.12.10-23.38.54:792][484]LogAIModule: Creating AISystem for world Transition_First_Lvl
+[2018.12.10-23.38.54:792][484]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2018.12.10-23.38.54:792][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Transition_First_Lvl.Transition_First_Lvl to /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl (0.002271s)
+[2018.12.10-23.38.54:829][484]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.10-23.38.54:977][484]LogInit: FAudioDevice initialized.
+[2018.12.10-23.38.54:992][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.38.55:084][484]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.10-23.38.55:085][484]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl up for play (max tick rate 60) at 2018.12.10-17.38.55
+[2018.12.10-23.38.55:086][484]LogWorld: Bringing up level for play took: 0.001064
+[2018.12.10-23.38.55:099][484]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Transition_First_Lvl 1.153
+[2018.12.10-23.38.55:100][484]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.38.59:532][735]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.38.59:532][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.38.59:553][735]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.10-23.38.59:590][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-23.38.59:591][735]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.38.59:962][742]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2018.12.10-23.39.02:128][872]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Siren_Sprites_Sprite_0)
+[2018.12.10-23.39.03:111][929]Cmd: DELETE
+[2018.12.10-23.39.03:111][929]Cmd: ACTOR DELETE
+[2018.12.10-23.39.03:113][929]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.10-23.39.03:144][929]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.12.10-23.39.05:202][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-23.39.15:167][635]LogEditorViewport: Clicking Background
+[2018.12.10-23.39.15:686][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-23.39.16:054][672]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Transition_First_LvlEAA7526541C4FEFC156B82B38A4F28A3.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Transition_First_Lvl.umap'
+[2018.12.10-23.39.22:279][ 12]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.12.10-23.39.25:283][189]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.10-23.39.26:322][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-23.39.26:403][255]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.10-23.39.26:440][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.39.26:441][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-23.39.26:441][255]PIE: New page: PIE session: Transition_First_Lvl (Dec 10, 2018, 11:39:26 AM)
+[2018.12.10-23.39.26:441][255]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Transition_First_Lvl
+[2018.12.10-23.39.26:443][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001298s)
+[2018.12.10-23.39.26:443][255]LogAIModule: Creating AISystem for world Transition_First_Lvl
+[2018.12.10-23.39.26:444][255]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2018.12.10-23.39.26:444][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Transition_First_Lvl.Transition_First_Lvl to /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl (0.002216s)
+[2018.12.10-23.39.26:506][255]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.10-23.39.26:650][255]LogInit: FAudioDevice initialized.
+[2018.12.10-23.39.26:666][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.39.26:780][255]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.10-23.39.26:782][255]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl up for play (max tick rate 60) at 2018.12.10-17.39.26
+[2018.12.10-23.39.26:782][255]LogWorld: Bringing up level for play took: 0.000905
+[2018.12.10-23.39.26:798][255]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Transition_First_Lvl 0.851
+[2018.12.10-23.39.26:798][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.39.41:881][130]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.39.41:882][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.39.41:902][130]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.10-23.39.41:945][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-23.39.41:945][130]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.39.42:336][137]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2018.12.10-23.39.52:248][728]BlueprintLog: New page: Compile Alarm
+[2018.12.10-23.39.53:138][752]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Alarm5D68A3984F53F7A977FE3C82779557EF.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Alarm.uasset'
+[2018.12.10-23.40.08:827][690]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.10-23.40.08:866][690]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.40.08:866][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-23.40.08:866][690]PIE: New page: PIE session: Transition_First_Lvl (Dec 10, 2018, 11:40:08 AM)
+[2018.12.10-23.40.08:867][690]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Transition_First_Lvl
+[2018.12.10-23.40.08:868][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001305s)
+[2018.12.10-23.40.08:868][690]LogAIModule: Creating AISystem for world Transition_First_Lvl
+[2018.12.10-23.40.08:869][690]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2018.12.10-23.40.08:869][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Transition_First_Lvl.Transition_First_Lvl to /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl (0.002253s)
+[2018.12.10-23.40.08:901][690]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.10-23.40.09:046][690]LogInit: FAudioDevice initialized.
+[2018.12.10-23.40.09:062][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.40.09:144][690]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.10-23.40.09:145][690]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl up for play (max tick rate 60) at 2018.12.10-17.40.09
+[2018.12.10-23.40.09:146][690]LogWorld: Bringing up level for play took: 0.000790
+[2018.12.10-23.40.09:162][690]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Transition_First_Lvl 1.215
+[2018.12.10-23.40.09:162][690]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.40.21:587][417]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.40.21:588][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.40.21:608][417]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.10-23.40.21:658][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-23.40.21:659][417]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.40.22:043][424]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2018.12.10-23.40.40:664][440]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Final_Project_Content/Widgets/First_Transition_text2.First_Transition_text2
+[2018.12.10-23.41.28:694][282]BlueprintLog: New page: Compile First_Transition_text2
+[2018.12.10-23.41.29:698][306]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Transition_text201A254644921B8D621A0958AEFEAB3F6.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Widgets/First_Transition_text2.uasset'
+[2018.12.10-23.41.48:485][412]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.10-23.41.51:026][562]BlueprintLog: New page: Compile First_Transition_Terminal_Text
+[2018.12.10-23.41.52:408][610]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Transition_Terminal_Text70BFACAB4ADA9E3D1E2571BD28F73AD3.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/First_Transition_Terminal_Text.uasset'
+[2018.12.10-23.42.17:762][130]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.10-23.42.17:802][130]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.42.17:802][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-23.42.17:803][130]PIE: New page: PIE session: Transition_First_Lvl (Dec 10, 2018, 11:42:17 AM)
+[2018.12.10-23.42.17:803][130]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Transition_First_Lvl
+[2018.12.10-23.42.17:804][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001380s)
+[2018.12.10-23.42.17:805][130]LogAIModule: Creating AISystem for world Transition_First_Lvl
+[2018.12.10-23.42.17:805][130]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2018.12.10-23.42.17:805][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Transition_First_Lvl.Transition_First_Lvl to /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl (0.002355s)
+[2018.12.10-23.42.17:839][130]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.10-23.42.17:984][130]LogInit: FAudioDevice initialized.
+[2018.12.10-23.42.17:999][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.42.18:083][130]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.10-23.42.18:085][130]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl up for play (max tick rate 60) at 2018.12.10-17.42.18
+[2018.12.10-23.42.18:085][130]LogWorld: Bringing up level for play took: 0.000954
+[2018.12.10-23.42.18:102][130]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Transition_First_Lvl 0.156
+[2018.12.10-23.42.18:103][130]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.42.33:215][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.42.33:215][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.42.33:236][ 16]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.10-23.42.33:273][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-23.42.33:274][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.42.33:765][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2018.12.10-23.42.50:103][982]BlueprintLog: New page: Compile First_Transition_Terminal_Text
+[2018.12.10-23.42.50:873][993]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Transition_Terminal_Text6C0E05B14844DA00CD6553925DB05613.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/First_Transition_Terminal_Text.uasset'
+[2018.12.10-23.43.35:629][658]BlueprintLog: New page: Compile First_Transition_Terminal_Text
+[2018.12.10-23.43.36:445][671]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Transition_Terminal_Text3A53733441F4DF731B50479D94DC5DF5.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/First_Transition_Terminal_Text.uasset'
+[2018.12.10-23.43.46:335][240]BlueprintLog: New page: Compile First_Transition_Terminal_Text
+[2018.12.10-23.43.47:259][260]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Transition_Terminal_Text31A05C114511FB44447ABB97E2F35907.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/First_Transition_Terminal_Text.uasset'
+[2018.12.10-23.43.49:475][392]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.10-23.43.49:516][392]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.43.49:516][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-23.43.49:517][392]PIE: New page: PIE session: Transition_First_Lvl (Dec 10, 2018, 11:43:49 AM)
+[2018.12.10-23.43.49:517][392]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Transition_First_Lvl
+[2018.12.10-23.43.49:518][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001292s)
+[2018.12.10-23.43.49:519][392]LogAIModule: Creating AISystem for world Transition_First_Lvl
+[2018.12.10-23.43.49:519][392]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2018.12.10-23.43.49:519][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Transition_First_Lvl.Transition_First_Lvl to /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl (0.002213s)
+[2018.12.10-23.43.49:553][392]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.10-23.43.49:697][392]LogInit: FAudioDevice initialized.
+[2018.12.10-23.43.49:711][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.43.49:792][392]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.10-23.43.49:793][392]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl up for play (max tick rate 60) at 2018.12.10-17.43.49
+[2018.12.10-23.43.49:794][392]LogWorld: Bringing up level for play took: 0.000806
+[2018.12.10-23.43.49:810][392]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Transition_First_Lvl -0.136
+[2018.12.10-23.43.49:810][392]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.44.00:387][  6]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.44.00:388][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.44.00:409][  6]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.10-23.44.00:455][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-23.44.00:456][  6]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.44.00:940][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2018.12.10-23.44.10:330][573]BlueprintLog: New page: Compile First_Transition_Terminal_Text
+[2018.12.10-23.44.11:257][593]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Transition_Terminal_TextD061C47E4CD5F0C30FA1A4A59FDC3EF0.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/First_Transition_Terminal_Text.uasset'
+[2018.12.10-23.44.12:474][665]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.10-23.44.12:518][665]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.44.12:519][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-23.44.12:519][665]PIE: New page: PIE session: Transition_First_Lvl (Dec 10, 2018, 11:44:12 AM)
+[2018.12.10-23.44.12:519][665]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Transition_First_Lvl
+[2018.12.10-23.44.12:520][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001315s)
+[2018.12.10-23.44.12:521][665]LogAIModule: Creating AISystem for world Transition_First_Lvl
+[2018.12.10-23.44.12:521][665]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2018.12.10-23.44.12:521][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Transition_First_Lvl.Transition_First_Lvl to /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl (0.002367s)
+[2018.12.10-23.44.12:559][665]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.10-23.44.12:701][665]LogInit: FAudioDevice initialized.
+[2018.12.10-23.44.12:715][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.44.12:791][665]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.10-23.44.12:792][665]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl up for play (max tick rate 60) at 2018.12.10-17.44.12
+[2018.12.10-23.44.12:792][665]LogWorld: Bringing up level for play took: 0.000853
+[2018.12.10-23.44.12:807][665]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Transition_First_Lvl 0.86
+[2018.12.10-23.44.12:807][665]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.44.33:245][870]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.44.33:247][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.44.33:267][870]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.10-23.44.33:312][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-23.44.33:313][870]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.44.33:782][877]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2018.12.10-23.45.12:216][153]BlueprintLog: New page: Compile First_Transition_Terminal_Text
+[2018.12.10-23.45.13:279][180]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Transition_Terminal_Text1F23CDB6443A54B7F8064FA5E60568BE.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/First_Transition_Terminal_Text.uasset'
+[2018.12.10-23.45.22:145][711]BlueprintLog: New page: Compile First_Transition_Terminal_Text
+[2018.12.10-23.45.22:974][724]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Transition_Terminal_Text4C85CEC545D0A4F99C975EB0A240BB65.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/First_Transition_Terminal_Text.uasset'
+[2018.12.10-23.45.45:753][ 39]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.10-23.47.18:645][508]BlueprintLog: New page: Compile Door
+[2018.12.10-23.47.18:653][508]LogBlueprint: Error: [Compiler Door] This blueprint (self) is not a PaperFlipbookComponent, therefore ' Target ' must have a connection.
+[2018.12.10-23.47.18:809][508]LogBlueprint: Warning: [Compiler Door] [3372.71] Compile of Door failed. 1 Fatal Issue(s) 0 Warning(s) [in 164 ms] (/Game/Final_Project_Content/Blueprints/Door.Door)
+[2018.12.10-23.47.23:637][774]BlueprintLog: New page: Compile Door
+[2018.12.10-23.47.24:596][795]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Door82125A9B4DB05CF8B8A42883F08F467E.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Door.uasset'
+[2018.12.10-23.47.41:473][759]BlueprintLog: New page: Compile Door
+[2018.12.10-23.47.41:482][759]LogBlueprint: Error: [Compiler Door] This blueprint (self) is not a PaperFlipbookComponent, therefore ' Target ' must have a connection.
+[2018.12.10-23.47.41:631][759]LogBlueprint: Warning: [Compiler Door] [3395.53] Compile of Door failed. 1 Fatal Issue(s) 0 Warning(s) [in 158 ms] (/Game/Final_Project_Content/Blueprints/Door.Door)
+[2018.12.10-23.47.46:984][ 59]BlueprintLog: New page: Compile Door
+[2018.12.10-23.47.47:938][ 79]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/DoorCAD1DAC94B7BFD15D3FA21901F4DCBB5.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Door.uasset'
+[2018.12.10-23.47.54:987][429]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Transition_First_LvlDF455985415C272E3E1C6CB88C81F9E7.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Transition_First_Lvl.umap'
+[2018.12.10-23.47.55:025][429]LogFileHelpers: Saving map 'Transition_First_Lvl' took 0.373
+[2018.12.10-23.47.56:417][493]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.10-23.47.56:471][493]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.47.56:471][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-23.47.56:471][493]PIE: New page: PIE session: Transition_First_Lvl (Dec 10, 2018, 11:47:56 AM)
+[2018.12.10-23.47.56:472][493]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Transition_First_Lvl
+[2018.12.10-23.47.56:473][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001370s)
+[2018.12.10-23.47.56:474][493]LogAIModule: Creating AISystem for world Transition_First_Lvl
+[2018.12.10-23.47.56:474][493]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2018.12.10-23.47.56:474][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Transition_First_Lvl.Transition_First_Lvl to /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl (0.002362s)
+[2018.12.10-23.47.56:511][493]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.10-23.47.56:657][493]LogInit: FAudioDevice initialized.
+[2018.12.10-23.47.56:671][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.47.56:780][493]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.10-23.47.56:781][493]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl up for play (max tick rate 60) at 2018.12.10-17.47.56
+[2018.12.10-23.47.56:782][493]LogWorld: Bringing up level for play took: 0.001022
+[2018.12.10-23.47.56:799][493]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Transition_First_Lvl 0.852
+[2018.12.10-23.47.56:799][493]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.48.10:588][277]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.48.10:589][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.48.10:610][277]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.10-23.48.10:649][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-23.48.10:650][277]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.48.11:135][284]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2018.12.10-23.48.19:452][781]BlueprintLog: New page: Compile Door
+[2018.12.10-23.48.20:368][799]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Door4490F89B4283AACEE365CFA794A1F88D.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Door.uasset'
+[2018.12.10-23.48.26:222][134]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.10-23.48.26:265][134]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.48.26:266][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-23.48.26:266][134]PIE: New page: PIE session: Transition_First_Lvl (Dec 10, 2018, 11:48:26 AM)
+[2018.12.10-23.48.26:266][134]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Transition_First_Lvl
+[2018.12.10-23.48.26:267][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001317s)
+[2018.12.10-23.48.26:268][134]LogAIModule: Creating AISystem for world Transition_First_Lvl
+[2018.12.10-23.48.26:268][134]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2018.12.10-23.48.26:268][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Transition_First_Lvl.Transition_First_Lvl to /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl (0.002242s)
+[2018.12.10-23.48.26:306][134]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.10-23.48.26:457][134]LogInit: FAudioDevice initialized.
+[2018.12.10-23.48.26:479][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.48.26:557][134]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.10-23.48.26:558][134]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl up for play (max tick rate 60) at 2018.12.10-17.48.26
+[2018.12.10-23.48.26:559][134]LogWorld: Bringing up level for play took: 0.000800
+[2018.12.10-23.48.26:573][134]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Transition_First_Lvl 0.626
+[2018.12.10-23.48.26:573][134]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.48.50:681][557]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.48.50:681][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.48.50:703][557]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.10-23.48.50:754][557]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-23.48.50:755][557]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.48.51:242][564]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2018.12.10-23.55.04:090][704]BlueprintLog: New page: Compile Door
+[2018.12.10-23.55.05:206][733]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/DoorFA027ECD41EA70A9F95AABB3885D7836.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Door.uasset'
+[2018.12.10-23.55.08:667][940]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.10-23.55.08:710][940]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.55.08:710][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-23.55.08:710][940]PIE: New page: PIE session: Transition_First_Lvl (Dec 10, 2018, 11:55:08 AM)
+[2018.12.10-23.55.08:711][940]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Transition_First_Lvl
+[2018.12.10-23.55.08:712][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001402s)
+[2018.12.10-23.55.08:713][940]LogAIModule: Creating AISystem for world Transition_First_Lvl
+[2018.12.10-23.55.08:713][940]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2018.12.10-23.55.08:713][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Transition_First_Lvl.Transition_First_Lvl to /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl (0.002427s)
+[2018.12.10-23.55.08:752][940]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.10-23.55.08:899][940]LogInit: FAudioDevice initialized.
+[2018.12.10-23.55.08:913][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.55.08:987][940]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.10-23.55.08:989][940]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl up for play (max tick rate 60) at 2018.12.10-17.55.08
+[2018.12.10-23.55.08:989][940]LogWorld: Bringing up level for play took: 0.000883
+[2018.12.10-23.55.09:002][940]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Transition_First_Lvl 1.056
+[2018.12.10-23.55.09:003][940]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.55.32:745][341]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.55.32:746][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.55.32:766][341]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.10-23.55.32:828][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-23.55.32:829][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.55.33:327][348]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2018.12.10-23.55.44:289][985]BlueprintLog: New page: Compile Door
+[2018.12.10-23.55.45:295][  9]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Door99DEBC864082B6F14F1261A7F10EE62B.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Door.uasset'
+[2018.12.10-23.55.54:487][558]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.10-23.55.54:534][558]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.55.54:535][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-23.55.54:535][558]PIE: New page: PIE session: Transition_First_Lvl (Dec 10, 2018, 11:55:54 AM)
+[2018.12.10-23.55.54:535][558]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Transition_First_Lvl
+[2018.12.10-23.55.54:536][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001330s)
+[2018.12.10-23.55.54:537][558]LogAIModule: Creating AISystem for world Transition_First_Lvl
+[2018.12.10-23.55.54:537][558]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2018.12.10-23.55.54:537][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Transition_First_Lvl.Transition_First_Lvl to /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl (0.002320s)
+[2018.12.10-23.55.54:571][558]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.10-23.55.54:718][558]LogInit: FAudioDevice initialized.
+[2018.12.10-23.55.54:732][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.55.54:843][558]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.10-23.55.54:844][558]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl up for play (max tick rate 60) at 2018.12.10-17.55.54
+[2018.12.10-23.55.54:845][558]LogWorld: Bringing up level for play took: 0.000903
+[2018.12.10-23.55.54:858][558]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Transition_First_Lvl 0.911
+[2018.12.10-23.55.54:858][558]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.56.12:882][595]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.56.12:882][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.56.12:903][595]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.10-23.56.12:960][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-23.56.12:960][595]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.56.13:447][602]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2018.12.10-23.56.51:555][886]BlueprintLog: New page: Compile Door
+[2018.12.10-23.56.52:566][909]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/DoorFDD23A244010E6B9ACF09A8CC4A0FE9C.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Door.uasset'
+[2018.12.10-23.56.53:302][952]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.10-23.56.53:350][952]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.56.53:351][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-23.56.53:351][952]PIE: New page: PIE session: Transition_First_Lvl (Dec 10, 2018, 11:56:53 AM)
+[2018.12.10-23.56.53:351][952]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Transition_First_Lvl
+[2018.12.10-23.56.53:353][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001333s)
+[2018.12.10-23.56.53:353][952]LogAIModule: Creating AISystem for world Transition_First_Lvl
+[2018.12.10-23.56.53:353][952]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2018.12.10-23.56.53:353][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Transition_First_Lvl.Transition_First_Lvl to /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl (0.002281s)
+[2018.12.10-23.56.53:390][952]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.10-23.56.53:537][952]LogInit: FAudioDevice initialized.
+[2018.12.10-23.56.53:554][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.56.53:653][952]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.10-23.56.53:655][952]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Transition_First_Lvl.Transition_First_Lvl up for play (max tick rate 60) at 2018.12.10-17.56.53
+[2018.12.10-23.56.53:655][952]LogWorld: Bringing up level for play took: 0.000863
+[2018.12.10-23.56.53:669][952]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Transition_First_Lvl -0.277
+[2018.12.10-23.56.53:669][952]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.57.05:417][633]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:432][634]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:448][635]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:465][636]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:481][637]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:498][638]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:515][639]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:532][640]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:548][641]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:565][642]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:582][643]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:598][644]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:615][645]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:631][646]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:648][647]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:665][648]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:681][649]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:698][650]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:714][651]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:731][652]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:748][653]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:764][654]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:781][655]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:798][656]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:815][657]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:831][658]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:848][659]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:865][660]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:882][661]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:899][662]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:915][663]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:932][664]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:949][665]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:965][666]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:982][667]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.05:999][668]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:014][669]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:031][670]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:048][671]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:064][672]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:081][673]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:098][674]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:114][675]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:131][676]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:148][677]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:165][678]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:181][679]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:198][680]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:215][681]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:232][682]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:248][683]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:264][684]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:281][685]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:298][686]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:314][687]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:331][688]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:348][689]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:365][690]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:381][691]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:398][692]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:415][693]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:431][694]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:448][695]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:465][696]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:481][697]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:498][698]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:515][699]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:531][700]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:548][701]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:565][702]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:581][703]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:598][704]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:615][705]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:632][706]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:649][707]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:665][708]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:681][709]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:698][710]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:715][711]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:732][712]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:748][713]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:765][714]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:782][715]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:798][716]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:815][717]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:831][718]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:848][719]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:865][720]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:882][721]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:898][722]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:915][723]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:931][724]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:948][725]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:965][726]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:981][727]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.06:998][728]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:015][729]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:031][730]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:048][731]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:065][732]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:082][733]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:098][734]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:115][735]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:132][736]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:148][737]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:165][738]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:182][739]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:199][740]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:214][741]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:231][742]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:248][743]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:264][744]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:281][745]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:298][746]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:315][747]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:331][748]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:348][749]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:365][750]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:381][751]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:398][752]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:415][753]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:432][754]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:448][755]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:465][756]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:482][757]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:498][758]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:515][759]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:532][760]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:549][761]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:565][762]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:581][763]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:598][764]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:614][765]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:631][766]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:648][767]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:665][768]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:681][769]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:698][770]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:715][771]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:731][772]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:748][773]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:765][774]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:782][775]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:798][776]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:815][777]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:832][778]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:848][779]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:865][780]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:882][781]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:899][782]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:915][783]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:932][784]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:949][785]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:964][786]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:981][787]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.07:998][788]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:014][789]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:031][790]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:048][791]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:065][792]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:081][793]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:098][794]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:115][795]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:131][796]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:148][797]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:165][798]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:182][799]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:198][800]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:215][801]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:232][802]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:249][803]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:265][804]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:282][805]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:299][806]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:315][807]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:331][808]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:348][809]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:364][810]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:382][811]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:398][812]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:415][813]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:431][814]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:448][815]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:465][816]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:481][817]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:498][818]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:515][819]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:532][820]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:548][821]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:565][822]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:582][823]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:598][824]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:615][825]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:632][826]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:649][827]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:666][828]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:682][829]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:698][830]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:714][831]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:731][832]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:748][833]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:764][834]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:781][835]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:798][836]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:815][837]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:831][838]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:848][839]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:865][840]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:882][841]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:898][842]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:915][843]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:932][844]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:948][845]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:965][846]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:982][847]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.08:999][848]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:015][849]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:032][850]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:049][851]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:065][852]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:081][853]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:098][854]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:115][855]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:132][856]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:148][857]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:165][858]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:182][859]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:198][860]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:215][861]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:232][862]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:248][863]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:265][864]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:282][865]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:298][866]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:315][867]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:332][868]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:349][869]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:365][870]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:382][871]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:399][872]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:415][873]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:432][874]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:448][875]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:464][876]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:481][877]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:498][878]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:515][879]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:531][880]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:548][881]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:565][882]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:582][883]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:599][884]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:615][885]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:632][886]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:649][887]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:665][888]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:681][889]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:698][890]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:715][891]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:731][892]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:748][893]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:765][894]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:782][895]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:799][896]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:815][897]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:832][898]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:849][899]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:865][900]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:882][901]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:898][902]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:915][903]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:932][904]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:949][905]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:965][906]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:981][907]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.09:998][908]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:015][909]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:031][910]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:048][911]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:065][912]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:082][913]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:098][914]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:115][915]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:132][916]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:149][917]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:165][918]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:182][919]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:199][920]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:215][921]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:232][922]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:249][923]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:265][924]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:281][925]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:298][926]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:315][927]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:331][928]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:348][929]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:365][930]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:382][931]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:398][932]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:415][933]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:432][934]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:448][935]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:465][936]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:482][937]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:498][938]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:515][939]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:532][940]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:549][941]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:565][942]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:582][943]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:599][944]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:615][945]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:632][946]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:648][947]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:665][948]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:681][949]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:698][950]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:715][951]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:731][952]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:748][953]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:765][954]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:781][955]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:798][956]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:815][957]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:832][958]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:848][959]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:865][960]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:882][961]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:898][962]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:915][963]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:932][964]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:949][965]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:965][966]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:982][967]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.10:999][968]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:015][969]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:032][970]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:048][971]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:065][972]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:081][973]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:098][974]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:115][975]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:131][976]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:149][977]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:165][978]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:182][979]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:199][980]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:215][981]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:232][982]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:249][983]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:265][984]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:282][985]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:298][986]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:315][987]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:332][988]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:348][989]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:365][990]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:381][991]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:398][992]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:415][993]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:431][994]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:448][995]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:465][996]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:481][997]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:498][998]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:515][999]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:532][  0]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:548][  1]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:565][  2]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:582][  3]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:598][  4]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:615][  5]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:632][  6]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:649][  7]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:666][  8]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:682][  9]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:699][ 10]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:715][ 11]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:731][ 12]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:748][ 13]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:764][ 14]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:781][ 15]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:798][ 16]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:815][ 17]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:831][ 18]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:848][ 19]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:865][ 20]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:882][ 21]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:898][ 22]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:915][ 23]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:932][ 24]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:948][ 25]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:965][ 26]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:982][ 27]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.11:999][ 28]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:015][ 29]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:032][ 30]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:049][ 31]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:065][ 32]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:082][ 33]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:098][ 34]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:115][ 35]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:132][ 36]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:148][ 37]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:165][ 38]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:181][ 39]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:198][ 40]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:215][ 41]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:231][ 42]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:248][ 43]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:265][ 44]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:282][ 45]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:298][ 46]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:315][ 47]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:332][ 48]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:349][ 49]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:365][ 50]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:381][ 51]LogBlueprintUserMessages: [Door_2] Hello
+[2018.12.10-23.57.12:382][ 51]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.57.12:383][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-23.57.12:404][ 51]LogSlate: Window 'XCP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.10-23.57.12:459][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-23.57.12:459][ 51]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl' with GeneratedClass '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl_C' with ClassGeneratedBy '/Game/Maps/Transition_First_Lvl.Transition_First_Lvl:PersistentLevel.Transition_First_Lvl'
+[2018.12.10-23.57.12:943][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2018.12.10-23.57.32:979][259]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2018.12.10-23.57.52:051][308]BlueprintLog: New page: Compile Door
+[2018.12.10-23.57.53:095][333]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Door3EE90AB54BDCE12280F742BF4CFC7684.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Door.uasset'
+[2018.12.10-23.59.11:011][  4]BlueprintLog: New page: Compile Door
+[2018.12.10-23.59.49:815][276]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Transition_First_Lvl14FF693E47A754B5F3F72584671E554A.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Transition_First_Lvl.umap'
+[2018.12.10-23.59.49:854][276]LogFileHelpers: Saving map 'Transition_First_Lvl' took 0.375
+[2018.12.10-23.59.49:948][276]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Door988CCE6641D87D75B7DCA5B52847421C.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Door.uasset'
+[2018.12.10-23.59.58:582][565]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Transition_text2FBDDA3C041A8BA8BAAE1BDA0942DCE6D.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Widgets/First_Transition_text2.uasset'
+[2018.12.11-00.00.02:942][805]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.11-00.00.05:522][952]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.11-00.00.13:548][230]BlueprintLog: New page: Compile First_Transition_Terminal_Text
+[2018.12.11-00.00.14:356][260]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/First_Transition_Terminal_Text5097A5644B5717A94198A1869E4A54CC.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/First_Transition_Terminal_Text.uasset'
+[2018.12.11-00.00.16:731][402]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.11-00.00.17:572][447]BlueprintLog: New page: Compile Transition_Character
+[2018.12.11-00.00.18:546][466]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Transition_Character58800F0E4211934990CAC9AEB65579C1.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Final_Project_Content/Blueprints/Transition_Character.uasset'
+[2018.12.11-00.00.19:604][529]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.11-00.00.24:552][793]LogSavePackage: Moving '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Saved/Transition_First_LvlB8155EB9484D863A147708A94BB2C3F7.tmp' to '../../../../../../Users/Luis/Documents/GitHub/New_Prototype/BP_Cplusplus/Content/Maps/Transition_First_Lvl.umap'
+[2018.12.11-00.00.24:590][793]LogFileHelpers: Saving map 'Transition_First_Lvl' took 0.356
+[2018.12.11-00.00.25:951][868]LogSlate: Window 'XCP - Unreal Editor' being destroyed
+[2018.12.11-00.00.26:385][869]Cmd: QUIT_EDITOR
+[2018.12.11-00.00.26:684][869]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.11-00.00.26:697][869]LogExit: Preparing to exit.
+[2018.12.11-00.00.27:090][869]LogExit: Editor shut down
+[2018.12.11-00.00.27:091][869]LogExit: Transaction tracking system shut down
+[2018.12.11-00.00.27:725][869]LogExit: Object subsystem successfully closed.
+[2018.12.11-00.00.27:777][869]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.11-00.00.27:778][869]LogD3D11RHI: Shutdown
+[2018.12.11-00.00.27:778][869]LogD3D11RHI: CleanupD3DDevice
+[2018.12.11-00.00.27:786][869]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.11-00.00.27:813][869]LogModuleManager: Shutting down and abandoning module SequencerWidgets (624)
+[2018.12.11-00.00.27:813][869]LogModuleManager: Shutting down and abandoning module BlueprintNativeCodeGen (622)
+[2018.12.11-00.00.27:814][869]LogModuleManager: Shutting down and abandoning module LauncherServices (620)
+[2018.12.11-00.00.27:814][869]LogModuleManager: Shutting down and abandoning module BlueprintGraph (618)
+[2018.12.11-00.00.27:814][869]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2018.12.11-00.00.27:814][869]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2018.12.11-00.00.27:814][869]LogModuleManager: Shutting down and abandoning module TextureEditor (612)
+[2018.12.11-00.00.27:814][869]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.12.11-00.00.27:814][869]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.12.11-00.00.27:814][869]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.12.11-00.00.27:817][869]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.12.11-00.00.27:817][869]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.12.11-00.00.27:817][869]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.12.11-00.00.27:818][869]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.12.11-00.00.27:818][869]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.12.11-00.00.27:818][869]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.12.11-00.00.27:818][869]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.12.11-00.00.27:818][869]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.12.11-00.00.27:818][869]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.12.11-00.00.27:818][869]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.12.11-00.00.27:818][869]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.12.11-00.00.27:818][869]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.12.11-00.00.27:818][869]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.12.11-00.00.27:818][869]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.12.11-00.00.27:818][869]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.12.11-00.00.27:818][869]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.12.11-00.00.27:818][869]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.12.11-00.00.27:818][869]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.12.11-00.00.27:818][869]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.12.11-00.00.27:818][869]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.12.11-00.00.27:818][869]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.12.11-00.00.27:819][869]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.12.11-00.00.27:820][869]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.12.11-00.00.27:820][869]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.12.11-00.00.27:820][869]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.12.11-00.00.27:820][869]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.12.11-00.00.27:820][869]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.12.11-00.00.27:820][869]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.12.11-00.00.28:334][869]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.12.11-00.00.28:334][869]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.12.11-00.00.28:334][869]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.12.11-00.00.28:334][869]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.12.11-00.00.28:334][869]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.12.11-00.00.28:334][869]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.12.11-00.00.28:334][869]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.12.11-00.00.28:334][869]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.12.11-00.00.28:334][869]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.12.11-00.00.28:334][869]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.12.11-00.00.28:335][869]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.12.11-00.00.28:335][869]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.12.11-00.00.28:335][869]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.12.11-00.00.28:335][869]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.12.11-00.00.28:335][869]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.12.11-00.00.28:335][869]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.12.11-00.00.28:335][869]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.12.11-00.00.28:335][869]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.12.11-00.00.28:335][869]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.12.11-00.00.28:335][869]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.12.11-00.00.28:335][869]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.12.11-00.00.28:335][869]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.12.11-00.00.28:390][869]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.12.11-00.00.28:390][869]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.12.11-00.00.28:390][869]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.12.11-00.00.28:390][869]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.12.11-00.00.28:390][869]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.12.11-00.00.28:390][869]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.12.11-00.00.28:390][869]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.12.11-00.00.28:390][869]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.12.11-00.00.28:390][869]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.12.11-00.00.28:390][869]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.12.11-00.00.28:399][869]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.12.11-00.00.28:399][869]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.12.11-00.00.28:400][869]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.12.11-00.00.28:400][869]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.12.11-00.00.28:400][869]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.12.11-00.00.28:400][869]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.12.11-00.00.28:400][869]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.12.11-00.00.28:401][869]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.12.11-00.00.28:403][869]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.12.11-00.00.28:403][869]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.12.11-00.00.28:403][869]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.12.11-00.00.28:403][869]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.12.11-00.00.28:403][869]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.12.11-00.00.28:403][869]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.12.11-00.00.28:403][869]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.12.11-00.00.28:403][869]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.12.11-00.00.28:403][869]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.12.11-00.00.28:403][869]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.12.11-00.00.28:403][869]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.12.11-00.00.28:403][869]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.12.11-00.00.28:403][869]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.12.11-00.00.28:403][869]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.11-00.00.28:445][869]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.11-00.00.28:445][869]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.11-00.00.28:445][869]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.11-00.00.28:445][869]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.11-00.00.28:445][869]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.11-00.00.28:445][869]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.11-00.00.28:445][869]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.11-00.00.28:445][869]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.11-00.00.28:445][869]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.11-00.00.28:445][869]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.11-00.00.28:445][869]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.11-00.00.28:445][869]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.11-00.00.28:445][869]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.11-00.00.28:445][869]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.11-00.00.28:445][869]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.12.11-00.00.28:445][869]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.12.11-00.00.28:445][869]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.12.11-00.00.28:445][869]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.12.11-00.00.28:448][869]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.11-00.00.28:449][869]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.11-00.00.28:450][869]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.11-00.00.28:450][869]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.11-00.00.28:450][869]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.11-00.00.28:450][869]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.12.11-00.00.28:450][869]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.12.11-00.00.28:450][869]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.12.11-00.00.28:450][869]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.12.11-00.00.28:450][869]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.12.11-00.00.28:450][869]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.12.11-00.00.28:450][869]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.12.11-00.00.28:450][869]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.12.11-00.00.28:450][869]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.12.11-00.00.28:450][869]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.12.11-00.00.28:450][869]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.12.11-00.00.28:450][869]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.12.11-00.00.28:450][869]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.11-00.00.28:450][869]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.11-00.00.28:551][869]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.11-00.00.28:651][869]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.11-00.00.28:651][869]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.11-00.00.28:651][869]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.11-00.00.28:651][869]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.11-00.00.28:651][869]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.11-00.00.28:651][869]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.11-00.00.28:651][869]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.11-00.00.28:652][869]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.11-00.00.28:652][869]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.11-00.00.28:652][869]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.11-00.00.28:652][869]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.11-00.00.28:653][869]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.11-00.00.28:655][869]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.11-00.00.28:655][869]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.11-00.00.28:655][869]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.11-00.00.28:655][869]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.11-00.00.28:655][869]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.11-00.00.28:655][869]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.12.11-00.00.28:656][869]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.12.11-00.00.28:662][869]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.12.11-00.00.28:662][869]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.12.11-00.00.28:662][869]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.12.11-00.00.28:662][869]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.12.11-00.00.28:662][869]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.12.11-00.00.28:662][869]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.12.11-00.00.28:662][869]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.12.11-00.00.28:662][869]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.12.11-00.00.28:662][869]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.12.11-00.00.28:662][869]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.12.11-00.00.28:662][869]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.12.11-00.00.28:662][869]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.12.11-00.00.28:663][869]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.12.11-00.00.28:663][869]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.12.11-00.00.28:663][869]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.12.11-00.00.28:663][869]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.12.11-00.00.28:663][869]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.12.11-00.00.28:663][869]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.12.11-00.00.28:663][869]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.12.11-00.00.28:663][869]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.12.11-00.00.28:665][869]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.12.11-00.00.28:665][869]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.12.11-00.00.28:665][869]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.12.11-00.00.28:665][869]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.12.11-00.00.28:665][869]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.12.11-00.00.28:665][869]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.12.11-00.00.28:665][869]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.12.11-00.00.28:665][869]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.12.11-00.00.28:665][869]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.12.11-00.00.28:665][869]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.12.11-00.00.28:665][869]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.12.11-00.00.28:665][869]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.12.11-00.00.28:665][869]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.12.11-00.00.28:665][869]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.12.11-00.00.28:665][869]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.12.11-00.00.28:665][869]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.12.11-00.00.28:665][869]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.12.11-00.00.28:666][869]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.12.11-00.00.28:690][869]LogDerivedDataCache: Shutdown
+[2018.12.11-00.00.28:690][869]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.12.11-00.00.28:690][869]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.12.11-00.00.28:691][869]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.12.11-00.00.28:692][869]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.12.11-00.00.28:692][869]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.12.11-00.00.28:698][869]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.12.11-00.00.28:698][869]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.12.11-00.00.28:703][869]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.12.11-00.00.28:703][869]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.12.11-00.00.28:733][869]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.12.11-00.00.28:733][869]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.12.11-00.00.28:733][869]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.12.11-00.00.28:733][869]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.12.11-00.00.28:733][869]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.12.11-00.00.28:733][869]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.12.11-00.00.28:733][869]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.12.11-00.00.28:733][869]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.12.11-00.00.28:733][869]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.12.11-00.00.28:733][869]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.12.11-00.00.28:733][869]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.12.11-00.00.28:733][869]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.12.11-00.00.28:733][869]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.12.11-00.00.28:733][869]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.12.11-00.00.28:733][869]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.12.11-00.00.28:733][869]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.12.11-00.00.28:733][869]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.12.11-00.00.28:733][869]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.12.11-00.00.28:734][869]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.12.11-00.00.28:734][869]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.12.11-00.00.28:755][869]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.12.11-00.00.28:755][869]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.11-00.00.28:755][869]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4B43356C-4FFD-F145-67A9-E6A89144A61C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=d9969f954edac1b20f345b98e41e132f%7C200649e9e15c431388713df8e6b34389%7Ce62061a5-428f-41c4-8d88-77cb087d6a11&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.11-00.00.28:789][869]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.12.11-00.00.28:790][869]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.12.11-00.00.28:790][869]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.12.11-00.00.28:790][869]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.12.11-00.00.28:790][869]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.12.11-00.00.28:791][869]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.12.11-00.00.28:791][869]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.12.11-00.00.28:791][869]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.12.11-00.00.28:791][869]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.12.11-00.00.28:791][869]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.12.11-00.00.28:791][869]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.11-00.00.28:791][869]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.12.11-00.00.28:791][869]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.11-00.00.28:791][869]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.11-00.00.28:792][869]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.11-00.00.28:792][869]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.11-00.00.28:792][869]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.11-00.00.28:792][869]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.11-00.00.28:792][869]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.11-00.00.28:794][869]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.11-00.00.28:794][869]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.11-00.00.28:794][869]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.11-00.00.28:794][869]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.11-00.00.28:794][869]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.11-00.00.28:794][869]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.11-00.00.28:794][869]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.11-00.00.28:794][869]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.11-00.00.28:794][869]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.11-00.00.28:794][869]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.11-00.00.28:794][869]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.11-00.00.28:803][869]LogExit: Exiting.
+[2018.12.11-00.00.28:827][869]Log file closed, 12/10/18 18:00:28
